@@ -7,6 +7,7 @@ ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@116.65.153.5:36184?encryption=none&sec
 ss://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-link13.liangxin1.xyz:36574/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com.cn&fp=chrome&security=reality&pbk=sDG-KQk1BF7V83-xnmrWDouXxpPd_ZSxKcHrJJzbols&sid=32a3650d#🇯🇵日本
 ss://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@91.193.58.98:2096?path=TG@ZDYZ2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#🇯🇵|JP|日本|@wxgqlfx|218
 ss://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou05.mysynology.net:17278/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.yahoo.com&fp=chrome&security=reality&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&sid=&packetEncoding=xudp#🇯🇵日本
+ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@13.158.46.137:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&fp=chrome&spx=/#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya
 ss://5a24dc4b-4711-402a-ec6d-7c174b290c83@92.112.53.153:18217?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AF%F0%9F%87%B5%C2%AE%EF%B8%8FJapan%C2%A9%EF%B8%8FChiyoda%F0%9F%85%BF%EF%B8%8Fping%3A325.13ms
 ss://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@154.85.18.233:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com.cn&fp=chrome&security=reality&pbk=7yeqj7p-b9BqubE629PrgvcYf4MBV593Ssd7v7l8EBg&sid=83a5b6cd#🇯🇵日本东京
 ss://6f995056-7802-4a1d-bff7-61678e626c3f@20.210.64.11:443?security=tls&sni=vsdfee.azurewebsites.net&allowInsecure=1&fp=chrome&type=ws&path=/&host=vsdfee.azurewebsites.net&packetEncoding=xudp&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20VL-WS-TLS%204%E2%83%A3
@@ -94,6 +95,7 @@ ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@57.180.28.64:443#JP%F0%9F%87%AF%F0%9F%87%B5+%7
 ss://YWVzLTI1Ni1nY206N05KTlpPR0lNM0dUMlpPUA==@156.231.104.13:18003#26%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206NTJmNmM3YzEtODVlZi00ZmNiLTkwMGQtMzVhNGY4YWRiNTM3@svip.365ip.cloud:44001#AkamaiJapan_
 ss://YWVzLTI1Ni1nY206NjFCMEkySUFBOFpaRDdLSA==@156.231.104.16:18006#26%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
+ss://YWVzLTI1Ni1nY206NzBhMGI4MTAzMzU2@137.220.142.139:636/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Btls%3Bmux%3D4%3Bhost%3Djp5v1.lingjfjkm002.com%3Bpath%3D%2Fbezradrqccl%3Bmux%3Dmux%3D4%3B%3B#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Chiyoda
 ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
 ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
@@ -190,6 +192,7 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@116.65.153.5:36184?encryption=none&
 vless://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-link13.liangxin1.xyz:36574/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com.cn&fp=chrome&security=reality&pbk=sDG-KQk1BF7V83-xnmrWDouXxpPd_ZSxKcHrJJzbols&sid=32a3650d#🇯🇵日本
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@91.193.58.98:2096?path=TG@ZDYZ2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#🇯🇵|JP|日本|@wxgqlfx|218
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou05.mysynology.net:17278/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.yahoo.com&fp=chrome&security=reality&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&sid=&packetEncoding=xudp#🇯🇵日本
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@13.158.46.137:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&fp=chrome&spx=/#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya
 vless://5a24dc4b-4711-402a-ec6d-7c174b290c83@92.112.53.153:18217?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AF%F0%9F%87%B5%C2%AE%EF%B8%8FJapan%C2%A9%EF%B8%8FChiyoda%F0%9F%85%BF%EF%B8%8Fping%3A325.13ms
 vless://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@154.85.18.233:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com.cn&fp=chrome&security=reality&pbk=7yeqj7p-b9BqubE629PrgvcYf4MBV593Ssd7v7l8EBg&sid=83a5b6cd#🇯🇵日本东京
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.210.64.11:443?security=tls&sni=vsdfee.azurewebsites.net&allowInsecure=1&fp=chrome&type=ws&path=/&host=vsdfee.azurewebsites.net&packetEncoding=xudp&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20VL-WS-TLS%204%E2%83%A3
