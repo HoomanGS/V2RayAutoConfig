@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج (آخرین به‌روزرسانی: 2025-07-24 20:06:12 +0330)
+# 📊 نتایج استخراج (آخرین به‌روزرسانی: 2025-07-24 20:31:54 +0330)
 
 این فایل به صورت خودکار ایجاد شده است.
 
@@ -11,12 +11,12 @@
 | پروتکل | تعداد کل | لینک |
 |:-:|:-:|:-:|
 | Hysteria2 | 215 | [`Hysteria2.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Hysteria2.txt) |
-| ShadowSocks | 48721 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/ShadowSocks.txt) |
+| ShadowSocks | 48724 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/ShadowSocks.txt) |
 | ShadowSocksR | 84 | [`ShadowSocksR.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/ShadowSocksR.txt) |
 | Trojan | 5631 | [`Trojan.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Trojan.txt) |
 | Tuic | 11 | [`Tuic.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Tuic.txt) |
 | Vless | 26428 | [`Vless.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vless.txt) |
-| Vmess | 13466 | [`Vmess.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vmess.txt) |
+| Vmess | 13470 | [`Vmess.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vmess.txt) |
 | WireGuard | 97 | [`WireGuard.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/WireGuard.txt) |
 ## 🌍 فایل‌های کشورها (حاوی کانفیگ)
 
