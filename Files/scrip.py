@@ -10,10 +10,11 @@ from datetime import datetime
 import pytz
 import base64
 from urllib.parse import parse_qs, unquote
+import jdatetime  
 
 URLS_FILE = 'Files/urls.txt'
 KEYWORDS_FILE = 'Files/key.json'
-OUTPUT_DIR = 'configs' 
+OUTPUT_DIR = 'configs'
 README_FILE = 'README.md'
 REQUEST_TIMEOUT = 15
 CONCURRENT_REQUESTS = 10
@@ -146,13 +147,21 @@ def save_to_file(directory, category_name, items_set):
         return False, 0
 
 def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, github_repo_path="Argh94/V2RayAutoConfig", github_branch="main"):
+    # دریافت زمان به وقت تهران
     tz = pytz.timezone('Asia/Tehran')
     now = datetime.now(tz)
-    timestamp = now.strftime("%Y-%m-%d %H:%M:%S %Z")
+    # تبدیل به تاریخ شمسی با jdatetime
+    jalali_date = jdatetime.datetime.fromgregorian(datetime=now)
+    # فرمت زمان به صورت ساعت:دقیقه (مثل 02:16)
+    time_str = jalali_date.strftime("%H:%M")
+    # فرمت تاریخ به صورت روز-ماه-سال (مثل 03-05-1404)
+    date_str = jalali_date.strftime("%d-%m-%Y")
+    # ترکیب تاریخ و زمان
+    timestamp = f"آخرین بروزرسانی: {time_str} {date_str}"
 
     raw_github_base_url = f"https://raw.githubusercontent.com/{github_repo_path}/refs/heads/{github_branch}/{OUTPUT_DIR}"
 
-    md_content = f"# 📊 نتایج استخراج (آخرین به‌روزرسانی: {timestamp})\n\n"
+    md_content = f"# 📊 نتایج استخراج: ({timestamp})\n\n"
     md_content += "این فایل به صورت خودکار ایجاد شده است.\n\n"
     md_content += "**توضیح:** فایل‌های کشورها فقط شامل کانفیگ‌هایی هستند که نام/پرچم کشور (با رعایت مرز کلمه برای مخفف‌ها) در **اسم کانفیگ** پیدا شده باشد. اسم کانفیگ ابتدا از بخش `#` لینک و در صورت نبود، از نام داخلی (برای Vmess/SSR) استخراج می‌شود.\n\n"
     md_content += "**نکته:** کانفیگ‌هایی که به شدت URL-Encode شده‌اند (حاوی تعداد زیادی `%25`، طولانی یا دارای کلمات کلیدی خاص) از نتایج حذف شده‌اند.\n\n"
@@ -287,7 +296,7 @@ async def main():
 
             if not name_to_check:
                 continue
-            
+
             current_name_to_check_str = name_to_check if isinstance(name_to_check, str) else ""
 
             for country_name_key, keywords_for_country_list in country_keywords_for_naming.items():
@@ -337,8 +346,8 @@ async def main():
         saved, count = save_to_file(OUTPUT_DIR, category, items)
         if saved:
             country_counts[category] = count
-    
-    generate_simple_readme(protocol_counts, country_counts, categories_data, 
+
+    generate_simple_readme(protocol_counts, country_counts, categories_data,
                           github_repo_path="Argh94/V2RayAutoConfig",
                           github_branch="main")
 
