@@ -38,7 +38,7 @@ jobs:
 
       - name: 🕸️ Run scraping script
         run: |
-          python Files/scrip.py || { echo "Scraper failed, check logs"; exit 1; }
+          python Files/script.py || { echo "Scraper failed, check logs"; exit 1; }  # اصلاح نام فایل به script.py
 
       - name: 📂 Check directory contents
         run: |
