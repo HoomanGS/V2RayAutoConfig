@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 00:52 05-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 01:08 05-05-1404)
 
 این فایل به صورت خودکار ایجاد شده است.
 
@@ -11,12 +11,12 @@
 | پروتکل | تعداد کل | لینک |
 |:-:|:-:|:-:|
 | Hysteria2 | 215 | [`Hysteria2.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Hysteria2.txt) |
-| ShadowSocks | 48208 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/ShadowSocks.txt) |
+| ShadowSocks | 48616 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/ShadowSocks.txt) |
 | ShadowSocksR | 86 | [`ShadowSocksR.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/ShadowSocksR.txt) |
-| Trojan | 5296 | [`Trojan.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Trojan.txt) |
+| Trojan | 5308 | [`Trojan.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Trojan.txt) |
 | Tuic | 11 | [`Tuic.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Tuic.txt) |
-| Vless | 34757 | [`Vless.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vless.txt) |
-| Vmess | 4732 | [`Vmess.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vmess.txt) |
+| Vless | 34811 | [`Vless.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vless.txt) |
+| Vmess | 4772 | [`Vmess.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vmess.txt) |
 | WireGuard | 83 | [`WireGuard.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/WireGuard.txt) |
 ## 🌍 فایل‌های کشورها (حاوی کانفیگ)
 
@@ -113,6 +113,6 @@
 | <img src="https://flagcdn.com/w20/tm.png" width="20" alt="Turkmenistan flag"> Turkmenistan (ترکمنستان) | 49 | [`Turkmenistan.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Turkmenistan.txt) |
 | <img src="https://flagcdn.com/w20/ae.png" width="20" alt="UAE flag"> UAE (امارات) | 21 | [`UAE.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/UAE.txt) |
 | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="UK flag"> UK (انگلیس) | 635 | [`UK.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/UK.txt) |
-| <img src="https://flagcdn.com/w20/us.png" width="20" alt="USA flag"> USA (آمریکا) | 4768 | [`USA.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/USA.txt) |
+| <img src="https://flagcdn.com/w20/us.png" width="20" alt="USA flag"> USA (آمریکا) | 4808 | [`USA.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/USA.txt) |
 | <img src="https://flagcdn.com/w20/ua.png" width="20" alt="Ukraine flag"> Ukraine (اوکراین) | 19 | [`Ukraine.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Ukraine.txt) |
 | <img src="https://flagcdn.com/w20/vn.png" width="20" alt="Vietnam flag"> Vietnam (ویتنام) | 124 | [`Vietnam.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vietnam.txt) |
