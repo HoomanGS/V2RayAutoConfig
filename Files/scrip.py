@@ -147,7 +147,6 @@ def save_to_file(directory, category_name, items_set):
         return False, 0
 
 def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, github_repo_path="Argh94/V2RayAutoConfig", github_branch="main"):
-    # دریافت زمان به وقت تهران
     tz = pytz.timezone('Asia/Tehran')
     now = datetime.now(tz)
     jalali_date = jdatetime.datetime.fromgregorian(datetime=now)
@@ -157,15 +156,10 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, g
 
     raw_github_base_url = f"https://raw.githubusercontent.com/{github_repo_path}/refs/heads/{github_branch}/{OUTPUT_DIR}"
 
-    # محاسبه تعداد کل کانفیگ‌ها
     total_configs = sum(protocol_counts.values())
 
     md_content = f"# 📊 نتایج استخراج: ({timestamp})\n\n"
-    md_content += "این فایل به صورت خودکار ایجاد شده است.\n\n"
-    md_content += "**توضیح:** فایل‌های کشورها فقط شامل کانفیگ‌هایی هستند که نام/پرچم کشور (با رعایت مرز کلمه برای مخفف‌ها) در **اسم کانفیگ** پیدا شده باشد. اسم کانفیگ ابتدا از بخش `#` لینک و در صورت نبود، از نام داخلی (برای Vmess/SSR) استخراج می‌شود.\n\n"
-    md_content += "**نکته:** کانفیگ‌هایی که به شدت URL-Encode شده‌اند (حاوی تعداد زیادی `%25`، طولانی یا دارای کلمات کلیدی خاص) از نتایج حذف شده‌اند.\n\n"
 
-    # اضافه کردن badge‌ها
     md_content += '<p align="center">\n'
     md_content += '  <img src="https://img.shields.io/github/license/Argh94/V2RayAutoConfig?style=flat-square" alt="License" />\n'
     md_content += '  <img src="https://img.shields.io/badge/python-3.9%2B-3776AB?style=flat-square&logo=python" alt="Python 3.9+" />\n'
@@ -176,9 +170,12 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, g
     md_content += '  <img src="https://img.shields.io/github/stars/Argh94/V2RayAutoConfig?style=social" alt="GitHub Stars" />\n'
     md_content += '  <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square" alt="Project Status" />\n'
     md_content += '  <img src="https://img.shields.io/badge/language-فارسی%20%26%20English-007EC6?style=flat-square" alt="Language" />\n'
-    md_content += '</p>\n'
+    md_content += '</p>\n\n'
 
-    # جدول پروتکل‌ها
+    md_content += "این فایل به صورت خودکار ایجاد شده است.\n\n"
+    md_content += "**توضیح:** فایل‌های کشورها فقط شامل کانفیگ‌هایی هستند که نام/پرچم کشور (با رعایت مرز کلمه برای مخفف‌ها) در **اسم کانفیگ** پیدا شده باشد. اسم کانفیگ ابتدا از بخش `#` لینک و در صورت نبود، از نام داخلی (برای Vmess/SSR) استخراج می‌شود.\n\n"
+    md_content += "**نکته:** کانفیگ‌هایی که به شدت URL-Encode شده‌اند (حاوی تعداد زیادی `%25`، طولانی یا دارای کلمات کلیدی خاص) از نتایج حذف شده‌اند.\n\n"
+
     md_content += "## 📁 فایل‌های پروتکل‌ها\n\n"
     if protocol_counts:
         md_content += '| پروتکل | تعداد کل | لینک |\n'
@@ -189,7 +186,6 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, g
     else:
         md_content += "هیچ کانفیگ پروتکلی یافت نشد.\n"
 
-    # جدول کشورها
     md_content += "## 🌍 فایل‌های کشورها (حاوی کانفیگ)\n\n"
     if country_counts:
         md_content += '| کشور | تعداد کانفیگ مرتبط | لینک |\n'
