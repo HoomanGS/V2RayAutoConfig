@@ -150,32 +150,34 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, g
     # دریافت زمان به وقت تهران
     tz = pytz.timezone('Asia/Tehran')
     now = datetime.now(tz)
-    # تبدیل به تاریخ شمسی با jdatetime
     jalali_date = jdatetime.datetime.fromgregorian(datetime=now)
-    # فرمت زمان به صورت ساعت:دقیقه (مثل 02:16)
     time_str = jalali_date.strftime("%H:%M")
-    # فرمت تاریخ به صورت روز-ماه-سال (مثل 03-05-1404)
     date_str = jalali_date.strftime("%d-%m-%Y")
-    # ترکیب تاریخ و زمان
     timestamp = f"آخرین بروزرسانی: {time_str} {date_str}"
 
     raw_github_base_url = f"https://raw.githubusercontent.com/{github_repo_path}/refs/heads/{github_branch}/{OUTPUT_DIR}"
+
+    # محاسبه تعداد کل کانفیگ‌ها
+    total_configs = sum(protocol_counts.values())
 
     md_content = f"# 📊 نتایج استخراج: ({timestamp})\n\n"
     md_content += "این فایل به صورت خودکار ایجاد شده است.\n\n"
     md_content += "**توضیح:** فایل‌های کشورها فقط شامل کانفیگ‌هایی هستند که نام/پرچم کشور (با رعایت مرز کلمه برای مخفف‌ها) در **اسم کانفیگ** پیدا شده باشد. اسم کانفیگ ابتدا از بخش `#` لینک و در صورت نبود، از نام داخلی (برای Vmess/SSR) استخراج می‌شود.\n\n"
     md_content += "**نکته:** کانفیگ‌هایی که به شدت URL-Encode شده‌اند (حاوی تعداد زیادی `%25`، طولانی یا دارای کلمات کلیدی خاص) از نتایج حذف شده‌اند.\n\n"
-   
-<p align="center">
-  <img src="https://img.shields.io/github/license/Argh94/V2RayAutoConfig?style=flat-square" alt="License" />
-  <img src="https://img.shields.io/badge/python-3.9%2B-3776AB?style=flat-square&logo=python" alt="Python 3.9+" />
-  <img src="https://img.shields.io/github/actions/workflow/status/Argh94/V2RayAutoConfig/scraper.yml?style=flat-square" alt="GitHub Workflow Status" />
-  <img src="https://img.shields.io/github/last-commit/Argh94/V2RayAutoConfig?style=flat-square" alt="Last Commit" />
-  <img src="https://img.shields.io/github/issues/Argh94/V2RayAutoConfig?style=flat-square" alt="GitHub Issues" />
-  <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square" alt="Project Status" />
-  <img src="https://img.shields.io/github/stars/Argh94/V2RayAutoConfig?style=social" alt="GitHub Stars" />
-  <img src="https://img.shields.io/badge/language-فارسی%20%26%20English-007EC6?style=flat-square" alt="Language" />
-</p>
+
+    # اضافه کردن badge‌ها
+    md_content += '<p align="center">\n'
+    md_content += '  <img src="https://img.shields.io/github/license/Argh94/V2RayAutoConfig?style=flat-square" alt="License" />\n'
+    md_content += '  <img src="https://img.shields.io/badge/python-3.9%2B-3776AB?style=flat-square&logo=python" alt="Python 3.9+" />\n'
+    md_content += '  <img src="https://img.shields.io/github/actions/workflow/status/Argh94/V2RayAutoConfig/scraper.yml?style=flat-square" alt="GitHub Workflow Status" />\n'
+    md_content += '  <img src="https://img.shields.io/github/last-commit/Argh94/V2RayAutoConfig?style=flat-square" alt="Last Commit" />\n'
+    md_content += '  <img src="https://img.shields.io/github/issues/Argh94/V2RayAutoConfig?style=flat-square" alt="GitHub Issues" />\n'
+    md_content += f'  <img src="https://img.shields.io/badge/Configs-{total_configs}-blue?style=flat-square" alt="Total Configs" />\n'
+    md_content += '  <img src="https://img.shields.io/github/stars/Argh94/V2RayAutoConfig?style=social" alt="GitHub Stars" />\n'
+    md_content += '  <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square" alt="Project Status" />\n'
+    md_content += '  <img src="https://img.shields.io/badge/language-فارسی%20%26%20English-007EC6?style=flat-square" alt="Language" />\n'
+    md_content += '</p>\n'
+
     # جدول پروتکل‌ها
     md_content += "## 📁 فایل‌های پروتکل‌ها\n\n"
     if protocol_counts:
