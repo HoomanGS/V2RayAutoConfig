@@ -38,6 +38,7 @@ ss://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?encryption=none&sec
 ss://faaaf16e-188e-42f2-bcc1-17feadc84fad@178.209.51.115:444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=opensuse.org&fp=chrome&pbk=FOSoac3DIrSrCUcBtQA-BdHMxCtqe2CYCpdvGxKMiUw&sid=82b9ca5d8d39ba72&type=tcp&headerType=none#CH-%3ECH-%3EMTN-%3E%40Sezar_Sec
 trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-152.67.71.149-2371
 trojan://your_password@16.62.65.57:443?security=tls&sni=aws-ch-zurich-1.f1rocketnode.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20-%20Zurich%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+tuic://1f42c744-bc99-4f52-95c3-dafdee1f330a:de30e57d@91.90.193.140:38809?congestion_control=bbr&udp_relay_mode=native&alpn=h3#CH
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@141.148.203.6:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%AD_%E7%91%9E%E5%A3%AB
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@141.148.229.106:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%AD_%E7%91%9E%E5%A3%AB
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@64.110.75.145:443?encryption=none&security=tls&sni=vz.ylks0033.dpdns.org&type=ws&host=vz.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%AD_%E7%91%9E%E5%A3%AB

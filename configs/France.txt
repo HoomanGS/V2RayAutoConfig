@@ -390,6 +390,12 @@ trojan://telegram-id-vlessconfig@15.237.241.92:22222?security=tls&sni=trojan.bur
 trojan://your_password@15.236.64.14:443?security=tls&sni=aws-fr-paris-1.f1rocketnode.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://zsu4Mq3A9J@51.195.254.75:8443?security=tls&headerType=none&type=tcp&sni=uk-02.allhubb.info#FR🇫🇷
 trojan://zsu4Mq3A9J@51.195.254.75:8443?security=tls&sni=uk-02.allhubb.info&alpn=h3,h2,http/1.1&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+tuic://328767e5-a8bb-4ce8-8a2d-c40bdedbd2d6:a990298c@51.75.149.47:21384?congestion_control=bbr&udp_relay_mode=native&alpn=h3#FR
+tuic://4d14b5f1-b6bd-4a30-81ea-19fa1d47699f:f8AB+EN2P3ifobaKOCRi@2a05:f480:1c00:b56:5400:4ff:fe8f:5121:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#FR
+tuic://4d14b5f1-b6bd-4a30-81ea-19fa1d47699f:f8AB+EN2P3ifobaKOCRi@tuic4d.cpionline.co:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#FR
+tuic://7f7447c4-3521-4b7b-9c38-e64f5b18e135:xhxp5Zha@172.232.42.32:28036?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#FR
+tuic://a1ce5159-2e1c-45b6-ac25-534aa06aa4c7:b5328d0c70252b13@172.232.33.169:443?congestion_control=bbr&udp_relay_mode=quic#FR
+tuic://fb25d32c-e3b4-48bd-ac76-96f19801335d:fb8944c60d158b8e@172.232.33.162:443?congestion_control=bbr&udp_relay_mode=quic#FR
 vless://00f8d77b-ba64-4807-8fc0-bb3cbe89b6e6@v13.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#REALITY|FR🇫🇷
 vless://00f8d77b-ba64-4807-8fc0-bb3cbe89b6e6@v25.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#REALITY|FR🇫🇷
 vless://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443/?type=ws&encryption=none&flow=&path=%2Fkcknkyws&security=tls&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France
