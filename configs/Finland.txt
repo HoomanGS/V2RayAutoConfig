@@ -156,9 +156,6 @@ trojan://vpn@150.241.70.91:2025?security=none&fp=chrome&type=ws&path=/&host=dns.
 trojan://vpn@91.108.241.73:2025?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=dns.google.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
 trojan://vpn@91.108.241.73:2025?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=vkvd127.mycdn.me#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
 trojan://vpn@91.108.241.73:2025?security=none&fp=chrome&type=ws&path=/&host=dns.google.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
-tuic://9ffd1367-1808-4eb8-b0d6-043b83a9b5dc:opeta@185.174.137.249:10001?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#FI
-tuic://d7a967b5-a26b-46f9-bc76-a9e5e082ef91:aleph@2a01:4f9:c011:a001::1:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#FI
-tuic://d7a967b5-a26b-46f9-bc76-a9e5e082ef91:aleph@95.217.188.125:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#FI
 vless://0069b36c-ba6c-4c70-ae39-71be514b9820@79.127.70.103:443?type=tcp&host=archlinux.org&headerType=http#FI🇫🇮
 vless://0069b36c-ba6c-4c70-ae39-71be514b9820@v4.vixsm.ir:443?security=none&encryption=none&host=archlinux.org&headerType=http&type=tcp#FI🇫🇮
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?encryption=none&security=tls&sni=api.chandplus.com&type=tcp&headerType=none#FI-%3EFI-%3EMTN-%3E%40Sezar_Sec
