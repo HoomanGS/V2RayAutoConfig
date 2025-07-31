@@ -33,7 +33,6 @@ ss://588f094b-431b-422c-b80b-007945037072@89.23.118.93:443?encryption=none&secur
 ss://588f094b-431b-422c-b80b-007945037072@89.23.118.93:443?security=tls&sni=ru01.abvpn.ru&allowInsecure=1&fp=chrome&type=ws&path=/websocket&host=ru01.abvpn.ru&packetEncoding=xudp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20St%20Petersburg%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
 ss://588f094b-431b-422c-b80b-007945037072@89.23.118.93:443?security=tls&sni=ru01.abvpn.ru&allowInsecure=1&fp=chrome&type=ws&path=/websocket&packetEncoding=xudp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20St%20Petersburg%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
 ss://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?type=tcp&security=reality&sni=ya.ru&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e#RU
-ss://7a8edd68-0fdc-4c99-a7b9-567d1d92773a@45.84.1.123:443?type=tcp&security=reality&sni=ru.moktana.digital&fp=chrome&flow=xtls-rprx-vision&pbk=zuaps7iorLp8LUT_gPVVqCekOkIAWU7ApTui1hJq9Qk&sid=1de19e94bf9e5b23#RU
 ss://7e296434-2d17-48d3-928d-19eaa34aecb1@89.169.1.40:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#REALITY|RU🇷🇺
 ss://814514d0-7fb5-41c9-ba9d-e4eff68c1311@45.80.230.190:65047?type=tcp&security=reality&sni=stackoverflow.com&fp=firefox&pbk=F3vOEhZMIEs_djWjttPmQbv9MNAl3OTUWpDWLn5hTHw&sid=f481#RU
 ss://85d3ef5e-a053-c9d6-5c32-e535d38ad6c3@putin.studentcp.ir:27838?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=-tqmyPlpXGoS7QrzEXse5xa1TExM8PhIo0usl9xwAAk&sid=b6f5ed22168994d3#RU
@@ -118,16 +117,13 @@ trojan://344ObcMIAb@ru2.asc-sam.ir:443?type=xhttp&path=%2F%40NoForcedHeaven%40No
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.153:443/?type=ws&path=%2Fproxyip%3D45.67.215.153%3A443&security=tls&sni=icecream.955850.xyz#%F0%9F%87%B7%F0%9F%87%BARU-45.67.215.153-0630
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.196:443?path=%2Fproxyip%3D45.67.215.196%3A443&security=tls&host=icecream.955850.xyz&type=ws&sni=icecream.955850.xyz#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Novosibirsk🅿️ping:7.84ms`
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.88.148.234:28443?security=tls#%F0%9F%87%B7%F0%9F%87%BARU-45.88.148.234-2874
-trojan://8OXD5VVt8s@176.32.39.29:443?sni=journalofbigdata.springeropen.com&peer=journalofbigdata.springeropen.com&security=reality#RU
 trojan://Maradona_vpn@185.59.218.220:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#RU
 trojan://NISHIKUITAN111@185.148.104.114:443#RU🇷🇺
 trojan://NISHIKUITAN111@185.148.104.251:443#RU🇷🇺
 trojan://NISHIKUITAN111@185.148.105.154:443#RU🇷🇺
 trojan://NISHIKUITAN111@185.148.106.140:443#RU🇷🇺
-trojan://NISHIKUITAN111@185.148.107.11:443?security=tls#RU
 trojan://NISHIKUITAN111@213.241.198.195:443#RU🇷🇺
 trojan://NISHIKUITAN111@45.142.120.53:443?security=tls#RU
-trojan://NISHIKUITAN111@46.254.92.27:443?security=tls#RU
 trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.88.148.237:28443?security=tls&sni=sbank.ir#%F0%9F%87%B7%F0%9F%87%BARU-45.88.148.237-2372
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
 trojan://maradona_vpn@185.174.138.209:443?sni=teo.history-paint.art&peer=teo.history-paint.art&security=tls#RU
@@ -164,7 +160,6 @@ vless://588f094b-431b-422c-b80b-007945037072@89.23.118.93:443?encryption=none&se
 vless://588f094b-431b-422c-b80b-007945037072@89.23.118.93:443?security=tls&sni=ru01.abvpn.ru&allowInsecure=1&fp=chrome&type=ws&path=/websocket&host=ru01.abvpn.ru&packetEncoding=xudp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20St%20Petersburg%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
 vless://588f094b-431b-422c-b80b-007945037072@89.23.118.93:443?security=tls&sni=ru01.abvpn.ru&allowInsecure=1&fp=chrome&type=ws&path=/websocket&packetEncoding=xudp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20St%20Petersburg%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
 vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?type=tcp&security=reality&sni=ya.ru&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e#RU
-vless://7a8edd68-0fdc-4c99-a7b9-567d1d92773a@45.84.1.123:443?type=tcp&security=reality&sni=ru.moktana.digital&fp=chrome&flow=xtls-rprx-vision&pbk=zuaps7iorLp8LUT_gPVVqCekOkIAWU7ApTui1hJq9Qk&sid=1de19e94bf9e5b23#RU
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@89.169.1.40:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#REALITY|RU🇷🇺
 vless://814514d0-7fb5-41c9-ba9d-e4eff68c1311@45.80.230.190:65047?type=tcp&security=reality&sni=stackoverflow.com&fp=firefox&pbk=F3vOEhZMIEs_djWjttPmQbv9MNAl3OTUWpDWLn5hTHw&sid=f481#RU
 vless://85d3ef5e-a053-c9d6-5c32-e535d38ad6c3@putin.studentcp.ir:27838?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=-tqmyPlpXGoS7QrzEXse5xa1TExM8PhIo0usl9xwAAk&sid=b6f5ed22168994d3#RU
