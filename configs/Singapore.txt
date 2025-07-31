@@ -18,7 +18,6 @@ ss://6a661094-42fc-423c-8bb8-cd05acfc2e66@152.42.186.51:443?security=tls&sni=t.m
 ss://6a661094-42fc-423c-8bb8-cd05acfc2e66@152.42.186.51:443?security=tls&sni=www.netflix.com&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20VL-TCP-TLS%204%E2%83%A3
 ss://6f995056-7802-4a1d-bff7-61678e626c3f@20.212.64.16:443/?type=ws&encryption=none&host=sgg1.azurewebsites.net&path=%2F&security=tls&sni=sgg1.azurewebsites.net#%E6%96%B0%E5%8A%A0%E5%9D%A1_Telegram%40kxswa
 ss://7054f3b4-c335-4ceb-93cf-da55d5b7a7d6@free-sg.vpnkey.dev:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=Hwo0WHqcCHSqP1vh44R--QVnLm2SXneVIctiiHbMJ1E&sni=google.com#VPNKEY-Singapore
-ss://7054f3b4-c335-4ceb-93cf-da55d5b7a7d6@free-sg.vpnkey.dev:8443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=Hwo0WHqcCHSqP1vh44R--QVnLm2SXneVIctiiHbMJ1E#SG
 ss://73bf4bac-98cf-4423-b728-3cc8a0e56424@139.180.146.164:2020?type=tcp&security=reality&sni=ea.com&fp=chrome&flow=xtls-rprx-vision&pbk=YH_SRHZR1KpI5H1qwcqwp3_8lYSWWMZYWn_FStgKihc&sid=05fb89d5#SG
 ss://74bcfbf9-2596-4243-8c0f-1042e4725ae7@sg.lucidgg.xyz:80?type=ws&path=%2Fws1&host=m.facebook.com&security=none#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore
 ss://94e502df-7407-422b-8bd6-835a23d89975@catherinede.hpcdn.info:80?path=%2F44616%2FwsMMad&security=none&encryption=none&host=catherinede.hpcdn.info&type=ws#SG🇸🇬
@@ -262,6 +261,7 @@ trojan://iyinglong@13.213.69.245:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.
 trojan://iyinglong@18.140.67.76:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.140.67.76-5867
 trojan://iyinglong@18.141.8.87:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.141.8.87-5865
 trojan://oZAugtgF5T@146.190.87.238:443?sni=aka.ms&peer=aka.ms&security=tls#SG
+trojan://wb6368@92.243.75.49:2087?sni=hsdgbuys.pages.dev&peer=hsdgbuys.pages.dev&security=tls#SG
 vless://00026cc2-d2a5-41b2-86a0-2c5fb2e5018d@15.235.211.28:30411?encryption=none&security=none&type=ws&path=%2F00026cc2#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AC%C2%AE%EF%B8%8FSingapore%C2%A9%EF%B8%8FSingapore%20%28Downtown%20Core%29%F0%9F%85%BF%EF%B8%8Fping%3A248.54ms
 vless://2315ac02-c7fb-424d-80c5-1dceb1be0c53@104.248.151.5:81?encryption=none&security=none&type=ws&host=m.zoom.us&path=%2FFREE%20by%20Tharuwa%20%280767597317%29#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AC%C2%AE%EF%B8%8FSingapore%C2%A9%EF%B8%8FSingapore%20%28Pioneer%29%F0%9F%85%BF%EF%B8%8Fping%3A198.93ms
 vless://41ad46fa-7c3e-4e1c-b425-2db774f8683e@free-sg.vpnkey.dev:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=Hwo0WHqcCHSqP1vh44R--QVnLm2SXneVIctiiHbMJ1E&sni=google.com#VPNKEY-Singapore
@@ -282,7 +282,6 @@ vless://6a661094-42fc-423c-8bb8-cd05acfc2e66@152.42.186.51:443?security=tls&sni=
 vless://6a661094-42fc-423c-8bb8-cd05acfc2e66@152.42.186.51:443?security=tls&sni=www.netflix.com&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20Singapore%20%F0%9F%8C%8F%20VL-TCP-TLS%204%E2%83%A3
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.212.64.16:443/?type=ws&encryption=none&host=sgg1.azurewebsites.net&path=%2F&security=tls&sni=sgg1.azurewebsites.net#%E6%96%B0%E5%8A%A0%E5%9D%A1_Telegram%40kxswa
 vless://7054f3b4-c335-4ceb-93cf-da55d5b7a7d6@free-sg.vpnkey.dev:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=Hwo0WHqcCHSqP1vh44R--QVnLm2SXneVIctiiHbMJ1E&sni=google.com#VPNKEY-Singapore
-vless://7054f3b4-c335-4ceb-93cf-da55d5b7a7d6@free-sg.vpnkey.dev:8443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=Hwo0WHqcCHSqP1vh44R--QVnLm2SXneVIctiiHbMJ1E#SG
 vless://73bf4bac-98cf-4423-b728-3cc8a0e56424@139.180.146.164:2020?type=tcp&security=reality&sni=ea.com&fp=chrome&flow=xtls-rprx-vision&pbk=YH_SRHZR1KpI5H1qwcqwp3_8lYSWWMZYWn_FStgKihc&sid=05fb89d5#SG
 vless://74bcfbf9-2596-4243-8c0f-1042e4725ae7@sg.lucidgg.xyz:80?type=ws&path=%2Fws1&host=m.facebook.com&security=none#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore
 vless://94e502df-7407-422b-8bd6-835a23d89975@catherinede.hpcdn.info:80?path=%2F44616%2FwsMMad&security=none&encryption=none&host=catherinede.hpcdn.info&type=ws#SG🇸🇬
