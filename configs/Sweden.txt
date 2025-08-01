@@ -50,6 +50,7 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#SE%F0%9F%87%B8%
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0302
 ss://b8a2acd7-15cb-49e6-b4da-83cbe90736d5@89.169.32.177:20830?type=tcp&security=reality&sni=speedtest.net&fp=chrome&flow=xtls-rprx-vision&pbk=Tiag8bT6Qf52VqXo4_omyb1lp37KooQphPcCxaG61Go&sid=af812e78b8dcc616#SE
 ss://be3ccd45-ebcb-4a05-8527-c8e2d6ba39db@cp.atomamoz.ir:443?type=tcp&security=reality&sni=parspack.com&fp=chrome&flow=xtls-rprx-vision&pbk=LYXSqZbEhbU8TC4VCOgbdeeybMn3--C-wJMlhKv8aBs#SE
+ss://daa44282-f20e-43e2-b8f4-345936679312@185.146.173.54:80?security=none&sni=be1.v2vless.site&type=ws&host=Be1.v2vless.site.&path=/vless#👉🆔@v2ray_configs_pool📡🇸🇪®️Sweden©️Stockholm🅿️ping:7.92ms
 ss://eb85e5f3-f19f-4841-bdcd-87aceb389501@70.34.194.125:8080?type=http&security=reality&sni=www.speedtest.net&fp=chrome&pbk=1HIEMKNkDd5N02BnSheVrSBaVgg3l-cxCwfnHZEb0SA&sid=fddc508e45b26c91#SE
 ss://f553d0ca-701d-4f95-90e9-2851d055291e@13.48.126.115:8443?type=tcp&security=reality&sni=www.makers.com&fp=chrome&flow=xtls-rprx-vision&pbk=slDQ8ADjK94ymKi6DYgy8wzquWdR6xQdQd-YRcMa9g4&sid=3c#SE
 ss://f553d0ca-701d-4f95-90e9-2851d055291e@13.50.110.213:8443?type=tcp&security=reality&sni=www.makers.com&fp=chrome&flow=xtls-rprx-vision&pbk=GGPfnUEzQ6KGzcyySJyL4yAaocS3NUpO6CQlEs7ZxmM&sid=3c#SE
@@ -76,10 +77,10 @@ trojan://telegram-id-privatevpns@13.50.16.231:22222?security=tls&sni=trj.rolling
 trojan://telegram-id-privatevpns@13.50.16.231:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.50.16.231-8946
 trojan://telegram-id-privatevpns@13.51.34.61:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#SE
 trojan://telegram-id-privatevpns@13.51.46.66:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AASweden
-trojan://telegram-id-privatevpns@13.53.223.92:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#SE
 trojan://telegram-id-privatevpns@13.60.151.163:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20-%20Stockholm%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://telegram-id-privatevpns@16.171.58.121:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-16.171.58.121-8789
 trojan://telegram-id-privatevpns@16.171.58.121:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-16.171.58.121-8791
+trojan://telegram-id-privatevpns@51.21.117.38:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#SE
 trojan://telegram-id-privatevpns@56.228.53.24:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20-%20Stockholm%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://telegram-id-v2rayvpnchannel@13.60.151.163:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20-%20Stockholm%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://telegram-id-v2rayvpnchannel@56.228.53.24:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20-%20Stockholm%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
@@ -113,6 +114,7 @@ vless://CHIK_981062@77.91.85.161:443?security=reality&encryption=none&pbk=3oWpho
 vless://CHIK_982464@77.91.85.161:443?type=tcp&security=reality&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#REALITY|SE🇸🇪
 vless://b8a2acd7-15cb-49e6-b4da-83cbe90736d5@89.169.32.177:20830?type=tcp&security=reality&sni=speedtest.net&fp=chrome&flow=xtls-rprx-vision&pbk=Tiag8bT6Qf52VqXo4_omyb1lp37KooQphPcCxaG61Go&sid=af812e78b8dcc616#SE
 vless://be3ccd45-ebcb-4a05-8527-c8e2d6ba39db@cp.atomamoz.ir:443?type=tcp&security=reality&sni=parspack.com&fp=chrome&flow=xtls-rprx-vision&pbk=LYXSqZbEhbU8TC4VCOgbdeeybMn3--C-wJMlhKv8aBs#SE
+vless://daa44282-f20e-43e2-b8f4-345936679312@185.146.173.54:80?security=none&sni=be1.v2vless.site&type=ws&host=Be1.v2vless.site.&path=/vless#👉🆔@v2ray_configs_pool📡🇸🇪®️Sweden©️Stockholm🅿️ping:7.92ms
 vless://eb85e5f3-f19f-4841-bdcd-87aceb389501@70.34.194.125:8080?type=http&security=reality&sni=www.speedtest.net&fp=chrome&pbk=1HIEMKNkDd5N02BnSheVrSBaVgg3l-cxCwfnHZEb0SA&sid=fddc508e45b26c91#SE
 vless://f553d0ca-701d-4f95-90e9-2851d055291e@13.48.126.115:8443?type=tcp&security=reality&sni=www.makers.com&fp=chrome&flow=xtls-rprx-vision&pbk=slDQ8ADjK94ymKi6DYgy8wzquWdR6xQdQd-YRcMa9g4&sid=3c#SE
 vless://f553d0ca-701d-4f95-90e9-2851d055291e@13.50.110.213:8443?type=tcp&security=reality&sni=www.makers.com&fp=chrome&flow=xtls-rprx-vision&pbk=GGPfnUEzQ6KGzcyySJyL4yAaocS3NUpO6CQlEs7ZxmM&sid=3c#SE
