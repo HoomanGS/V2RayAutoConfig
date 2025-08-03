@@ -2267,7 +2267,6 @@ trojan://d0d08cddacc3190ea81b1b792e1b5fde@128.199.125.102:443/?type=tcp&security
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@157.230.32.243:443?allowInsecure=1&sni=www.baidu.com#🇸🇬[openproxylist.com]
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@157.230.32.243:443?security=tls&sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%ACSG-157.230.32.243-0635
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@157.230.32.243:443?security=tls&sni=www.baidu.com&allowInsecure=1&type=tcp&headerType=none#@v2ray_configs_pool
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@157.230.32.243:443?security=tls&sni=www.baidu.com&allowInsecure=1&type=tcp&headerType=none#🌐سرور
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@159.65.222.110:443/?type=tcp&security=tls&sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8US-159.65.222.110-1846
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@165.22.3.117:443/?type=tcp&security=tls&sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8US-165.22.3.117-1801
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@172.104.114.51:443/?type=tcp&security=tls&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP-172.104.114.51-0635
@@ -2514,6 +2513,7 @@ trojan://telegram-id-directvpn@18.196.127.24:22222?security=tls&sni=trj.rollingn
 trojan://telegram-id-directvpn@18.196.127.24:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-18.196.127.24-8996
 trojan://telegram-id-directvpn@18.222.168.7:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-18.222.168.7-1686
 trojan://telegram-id-directvpn@3.120.56.31:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
+trojan://telegram-id-directvpn@3.123.233.149:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور
 trojan://telegram-id-directvpn@3.127.195.226:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-directvpn@3.127.195.226:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[57829]
 trojan://telegram-id-directvpn@3.129.217.93:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-3.129.217.93-1752
