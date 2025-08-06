@@ -1,3 +1,5 @@
+ss://00878143-92d3-4860-81d1-daba74849cf0@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=4zAw3GMbZYfbIcFxs4QqFATUkVD71pJ-Jw8z7Nvpc2c&sni=google.com#VPNKEY-Singapore
+ss://335482b9-3570-435c-9c40-9a7719550bf7@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=4zAw3GMbZYfbIcFxs4QqFATUkVD71pJ-Jw8z7Nvpc2c&sni=google.com#VPNKEY-Singapore
 ss://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443?security=tls&sni=pqh24v3.hiddendom.shop&alpn=h2&type=grpc&encryption=none#%F0%9F%87%B8%F0%9F%87%ACSG%20%7C%20@V2ray_Collector
 ss://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.86:443?security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#%F0%9F%87%B8%F0%9F%87%ACSG%20%7C%20@V2ray_Collector
 ss://55520747-311e-4015-83ce-be46e2060ce3@138.2.107.107:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=nv.bgm2024.dpdns.org&type=ws&sni=nv.bgm2024.dpdns.org#Singapore%20Relay
@@ -153,6 +155,8 @@ trojan://d4bdfc72-7f0c-4ff0-aa4d-3530736f4088@sg-full.privateip.net:443?security
 trojan://iyinglong@13.213.69.245:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.213.69.245-6007
 trojan://iyinglong@18.140.67.76:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.140.67.76-5914
 trojan://iyinglong@18.141.8.87:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.141.8.87-5912
+vless://00878143-92d3-4860-81d1-daba74849cf0@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=4zAw3GMbZYfbIcFxs4QqFATUkVD71pJ-Jw8z7Nvpc2c&sni=google.com#VPNKEY-Singapore
+vless://335482b9-3570-435c-9c40-9a7719550bf7@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=4zAw3GMbZYfbIcFxs4QqFATUkVD71pJ-Jw8z7Nvpc2c&sni=google.com#VPNKEY-Singapore
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443?security=tls&sni=pqh24v3.hiddendom.shop&alpn=h2&type=grpc&encryption=none#%F0%9F%87%B8%F0%9F%87%ACSG%20%7C%20@V2ray_Collector
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.86:443?security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#%F0%9F%87%B8%F0%9F%87%ACSG%20%7C%20@V2ray_Collector
 vless://55520747-311e-4015-83ce-be46e2060ce3@138.2.107.107:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=nv.bgm2024.dpdns.org&type=ws&sni=nv.bgm2024.dpdns.org#Singapore%20Relay
