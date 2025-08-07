@@ -2550,6 +2550,7 @@ trojan://telegram-id-directvpn@44.201.217.130:22222?security=tls&sni=trj.rolling
 trojan://telegram-id-directvpn@44.201.217.130:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-44.201.217.130-8312
 trojan://telegram-id-directvpn@44.211.71.82:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-44.211.71.82-8308
 trojan://telegram-id-directvpn@52.47.54.70:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#OurChannel
+trojan://telegram-id-directvpn@63.178.151.21:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور
 trojan://telegram-id-privatevpns@13.39.245.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.63.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@13.39.63.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
@@ -2648,6 +2649,9 @@ trojan://trojan@www.digitalocean.com:443?path=%2F%3Fed%3D2560&security=tls&host=
 trojan://trojan@www.digitalocean.com:443?path=%2F%3Fed%3D2560&security=tls&host=azadnet-9ya.pages.dev&fp=random&type=ws&sni=azadnet-9ya.pages.dev#RELAY🚩
 trojan://ttfang@128.199.237.143:443?type=ws&host=ttfang.fange.me&path=%2F&security=tls&sni=ttfang.fange.me#RELAY🚩
 trojan://ttfang@20.235.105.146:443/?type=ws&path=%2F&security=tls&sni=ttfang.fange.me#%F0%9F%87%AE%F0%9F%87%B3IN-20.235.105.146-0711
+trojan://tunnel-astrovpn_official-ee@ee-1.stunnel.cc:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none&host=ee-1.stunnel.cc#🌐
+trojan://tunnel-astrovpn_official-ee@ee-1.stunnel.cc:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none&host=ee-1.stunnel.cc#🌐سرور
+trojan://tunnel-astrovpn_official_ae@ae-1.stunnel.cc:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none&host=ae-1.stunnel.cc#🌐سرور
 trojan://u9jijpsu-zwe8-2hkd-zn76-8geaa6x6967z@127.0.0.1:1080?security=tls&type=tcp#🕒
 trojan://uTkkJ_SmOhV%5D8r5A@188.114.96.3:443/?type=ws&host=eupload65466.pages.dev&path=%2Ftru64a8KrvgRDvY1Ag%3Fed%3D2560&security=tls&sni=EUpLoAd65466.pagEs.dev&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=randomized#%40Hope_Net-join-us-on-Telegram
 trojan://uV8u9Q41e2@104.17.180.185:443/?type=ws&host=DieGo.DIEgoMAraDOnA.iR.&path=%2F&security=tls&sni=DieGo.DIEgoMAraDOnA.iR.#%40Hope_Net-join-us-on-Telegram
