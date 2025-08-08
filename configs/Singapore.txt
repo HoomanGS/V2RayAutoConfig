@@ -1,3 +1,4 @@
+ss://315a4244-400f-47ac-9760-4ae712770356@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 ss://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443?security=tls&sni=pqh24v3.hiddendom.shop&alpn=h2&type=grpc&encryption=none#%F0%9F%87%B8%F0%9F%87%ACSG%20%7C%20@V2ray_Collector
 ss://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.86:443?security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#%F0%9F%87%B8%F0%9F%87%ACSG%20%7C%20@V2ray_Collector
 ss://55520747-311e-4015-83ce-be46e2060ce3@138.2.107.107:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=nv.bgm2024.dpdns.org&type=ws&sni=nv.bgm2024.dpdns.org#Singapore%20Relay
@@ -152,6 +153,7 @@ trojan://d4bdfc72-7f0c-4ff0-aa4d-3530736f4088@sg-full.privateip.net:443?security
 trojan://iyinglong@13.213.69.245:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.213.69.245-5946
 trojan://iyinglong@18.140.67.76:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.140.67.76-5853
 trojan://iyinglong@18.141.8.87:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.141.8.87-5851
+vless://315a4244-400f-47ac-9760-4ae712770356@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443?security=tls&sni=pqh24v3.hiddendom.shop&alpn=h2&type=grpc&encryption=none#%F0%9F%87%B8%F0%9F%87%ACSG%20%7C%20@V2ray_Collector
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.86:443?security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#%F0%9F%87%B8%F0%9F%87%ACSG%20%7C%20@V2ray_Collector
 vless://55520747-311e-4015-83ce-be46e2060ce3@138.2.107.107:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=nv.bgm2024.dpdns.org&type=ws&sni=nv.bgm2024.dpdns.org#Singapore%20Relay
