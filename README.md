@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 18:51 18-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 19:12 18-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/github/license/Argh94/V2RayAutoConfig?style=flat-square" alt="License" />
