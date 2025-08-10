@@ -19,7 +19,7 @@ README_FILE = 'README.md'
 REQUEST_TIMEOUT = 15
 CONCURRENT_REQUESTS = 10
 MAX_CONFIG_LENGTH = 1500
-MIN_PERCENT25_COUNT = 100
+MIN_PERCENT25_COUNT = 15
 
 logging.basicConfig(level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s')
@@ -86,26 +86,28 @@ def get_ssr_name(ssr_link):
 
 def should_filter_config(config):
     if 'i_love_' in config.lower():
-        logging.info(f"Filtered config due to 'i_love_': {config[:50]}...")
         return True
     percent25_count = config.count('%25')
     if percent25_count >= MIN_PERCENT25_COUNT:
-        logging.info(f"Filtered config due to %25 count ({percent25_count}): {config[:50]}...")
+        return True
+    if len(config) >= MAX_CONFIG_LENGTH:
+        return True
+    if '%2525' in config:
         return True
     return False
 
-async def fetch_url(session, url, protocol_prefixes):
+async def fetch_url(session, url):
     try:
         async with session.get(url, timeout=REQUEST_TIMEOUT) as response:
             response.raise_for_status()
-            text = await response.text()
-            lines = text.splitlines()
-            config_lines = [line for line in lines if line.strip() and any(line.startswith(prefix) for prefix in protocol_prefixes)]
-            text_content = '\n'.join(config_lines)
+            html = await response.text()
+            soup = BeautifulSoup(html, 'html.parser')
+            text_content = ""
+            for element in soup.find_all(['pre', 'code', 'p', 'div', 'li', 'span', 'td']):
+                text_content += element.get_text(separator='\n', strip=True) + "\n"
             if not text_content:
-                logging.warning(f"No valid configs found in {url}")
-                return url, None
-            logging.info(f"Successfully fetched {len(config_lines)} configs from {url}")
+                text_content = soup.get_text(separator=' ', strip=True)
+            logging.info(f"Successfully fetched: {url}")
             return url, text_content
     except Exception as e:
         logging.warning(f"Failed to fetch or process {url}: {e}")
@@ -122,7 +124,6 @@ def find_matches(text, categories_data):
                 if category in PROTOCOL_CATEGORIES or is_protocol_pattern:
                     pattern = re.compile(pattern_str, re.IGNORECASE | re.MULTILINE)
                     found = pattern.findall(text)
-                    logging.info(f"Found {len(found)} matches for {category} with pattern {pattern_str}: {found[:2]}...")
                     if found:
                         cleaned_found = {item.strip() for item in found if item.strip()}
                         matches[category].update(cleaned_found)
@@ -132,7 +133,6 @@ def find_matches(text, categories_data):
 
 def save_to_file(directory, category_name, items_set):
     if not items_set:
-        logging.info(f"No items to save for category {category_name}")
         return False, 0
     file_path = os.path.join(directory, f"{category_name}.txt")
     count = len(items_set)
@@ -145,14 +145,6 @@ def save_to_file(directory, category_name, items_set):
     except Exception as e:
         logging.error(f"Failed to write file {file_path}: {e}")
         return False, 0
-
-def extract_country_name(name_to_check):
-    if not name_to_check:
-        return None
-    decoded_name = unquote(unquote(name_to_check))
-    decoded_name = re.sub(r'[\U0001F1E6-\U0001F1FF]', '', decoded_name)
-    decoded_name = re.sub(r'[^\w\s-]', '', decoded_name).strip()
-    return decoded_name
 
 def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, github_repo_path="Argh94/V2RayAutoConfig", github_branch="main"):
     tz = pytz.timezone('Asia/Tehran')
@@ -236,13 +228,8 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, g
             file_link = f"{raw_github_base_url}/{country_category_name}.txt"
             link_text = f"{country_category_name}.txt"
             md_content += f"| {country_display_text} | {count} | [`{link_text}`]({file_link}) |\n"
-
-    md_content += "## 📁 فایل‌های بدون کشور مشخص\n\n"
-    if 'Unknown' in country_counts:
-        file_link = f"{raw_github_base_url}/Unknown.txt"
-        md_content += f"| Unknown | {country_counts['Unknown']} | [`Unknown.txt`]({file_link}) |\n"
     else:
-        md_content += "هیچ کانفیگ بدون کشور مشخص یافت نشد.\n"
+        md_content += "هیچ کانفیگ مرتبط با کشوری یافت نشد.\n"
 
     try:
         with open(README_FILE, 'w', encoding='utf-8') as f:
@@ -269,26 +256,18 @@ async def main():
     }
     country_category_names = list(country_keywords_for_naming.keys())
 
-    protocol_prefixes = []
-    for cat, patterns in protocol_patterns_for_matching.items():
-        for pattern in patterns:
-            match = re.match(r'(\w+:\\/\\/)', pattern)
-            if match:
-                protocol_prefixes.append(match.group(1).replace('\\/\\/', '//'))
-
-    logging.info(f"Loaded {len(urls)} URLs and {len(categories_data)} total categories from key.json.")
-    logging.info(f"Protocol prefixes: {protocol_prefixes}")
+    logging.info(f"Loaded {len(urls)} URLs and "
+                 f"{len(categories_data)} total categories from key.json.")
 
     tasks = []
     sem = asyncio.Semaphore(CONCURRENT_REQUESTS)
     async def fetch_with_sem(session, url_to_fetch):
         async with sem:
-            return await fetch_url(session, url_to_fetch, protocol_prefixes)
+            return await fetch_url(session, url_to_fetch)
     async with aiohttp.ClientSession() as session:
         fetched_pages = await asyncio.gather(*[fetch_with_sem(session, u) for u in urls])
 
     final_configs_by_country = {cat: set() for cat in country_category_names}
-    final_configs_by_country['Unknown'] = set()
     final_all_protocols = {cat: set() for cat in PROTOCOL_CATEGORIES}
 
     logging.info("Processing pages for config name association...")
@@ -324,10 +303,9 @@ async def main():
                     name_to_check = get_vmess_name(config)
 
             if not name_to_check:
-                final_configs_by_country['Unknown'].add(config)
                 continue
 
-            current_name_to_check_str = extract_country_name(name_to_check) if isinstance(name_to_check, str) else ""
+            current_name_to_check_str = name_to_check if isinstance(name_to_check, str) else ""
 
             for country_name_key, keywords_for_country_list in country_keywords_for_naming.items():
                 text_keywords_for_country = []
