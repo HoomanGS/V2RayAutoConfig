@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 12:59 19-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 13:14 19-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/github/license/Argh94/V2RayAutoConfig?style=flat-square" alt="License" />
@@ -117,7 +117,6 @@
 | <img src="https://flagcdn.com/w20/ae.png" width="20" alt="United Arab Emirates flag"> United Arab Emirates (امارات متحده عربی) | 24 | [`United Arab Emirates.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/United Arab Emirates.txt) |
 | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="United Kingdom flag"> United Kingdom (انگلستان) | 303 | [`United Kingdom.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/United Kingdom.txt) |
 | <img src="https://flagcdn.com/w20/us.png" width="20" alt="United States flag"> United States (ایالات متحده) | 7355 | [`United States.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/United States.txt) |
-| Unknown | 33299 | [`Unknown.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Unknown.txt) |
 | <img src="https://flagcdn.com/w20/vn.png" width="20" alt="Vietnam flag"> Vietnam (ویتنام) | 131 | [`Vietnam.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vietnam.txt) |
 ## 📁 فایل‌های بدون کشور مشخص
 
