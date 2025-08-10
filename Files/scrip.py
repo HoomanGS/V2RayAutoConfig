@@ -10,7 +10,7 @@ from datetime import datetime
 import pytz
 import base64
 from urllib.parse import parse_qs, unquote
-import jdatetime  
+import jdatetime
 
 URLS_FILE = 'Files/urls.txt'
 KEYWORDS_FILE = 'Files/key.json'
@@ -18,8 +18,7 @@ OUTPUT_DIR = 'configs'
 README_FILE = 'README.md'
 REQUEST_TIMEOUT = 15
 CONCURRENT_REQUESTS = 10
-MAX_CONFIG_LENGTH = 1500
-MIN_PERCENT25_COUNT = 50  # افزایش حد برای %25
+MIN_PERCENT25_COUNT = 100
 
 logging.basicConfig(level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s')
@@ -92,12 +91,6 @@ def should_filter_config(config):
     if percent25_count >= MIN_PERCENT25_COUNT:
         logging.info(f"Filtered config due to %25 count ({percent25_count}): {config[:50]}...")
         return True
-    if len(config) >= MAX_CONFIG_LENGTH:
-        logging.info(f"Filtered config due to length ({len(config)}): {config[:50]}...")
-        return True
-    if '%2525' in config:
-        logging.info(f"Filtered config due to %2525: {config[:50]}...")
-        return True
     return False
 
 async def fetch_url(session, url, protocol_prefixes):
@@ -105,9 +98,8 @@ async def fetch_url(session, url, protocol_prefixes):
         async with session.get(url, timeout=REQUEST_TIMEOUT) as response:
             response.raise_for_status()
             text = await response.text()
-            # فقط خطوطی که با پیشوندهای پروتکل شروع می‌شن رو نگه دار
             lines = text.splitlines()
-            config_lines = [line for line in lines if any(line.startswith(prefix) for prefix in protocol_prefixes)]
+            config_lines = [line for line in lines if line.strip() and any(line.startswith(prefix) for prefix in protocol_prefixes)]
             text_content = '\n'.join(config_lines)
             if not text_content:
                 logging.warning(f"No valid configs found in {url}")
@@ -129,7 +121,7 @@ def find_matches(text, categories_data):
                 if category in PROTOCOL_CATEGORIES or is_protocol_pattern:
                     pattern = re.compile(pattern_str, re.IGNORECASE | re.MULTILINE)
                     found = pattern.findall(text)
-                    logging.info(f"Found {len(found)} matches for {category} with pattern {pattern_str}")
+                    logging.info(f"Found {len(found)} matches for {category} with pattern {pattern_str}: {found[:2]}...")
                     if found:
                         cleaned_found = {item.strip() for item in found if item.strip()}
                         matches[category].update(cleaned_found)
@@ -156,8 +148,9 @@ def save_to_file(directory, category_name, items_set):
 def extract_country_name(name_to_check):
     if not name_to_check:
         return None
-    # ابتدا نام رو unencode کن
-    decoded_name = unquote(name_to_check)
+    decoded_name = unquote(unquote(name_to_check))
+    decoded_name = re.sub(r'[\U0001F1E6-\U0001F1FF]', '', decoded_name)
+    decoded_name = re.sub(r'[^\w\s-]', '', decoded_name).strip()
     return decoded_name
 
 def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, github_repo_path="Argh94/V2RayAutoConfig", github_branch="main"):
@@ -188,7 +181,7 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, g
 
     md_content += "این فایل به صورت خودکار ایجاد شده است.\n\n"
     md_content += "**توضیح:** فایل‌های کشورها فقط شامل کانفیگ‌هایی هستند که نام/پرچم کشور (با رعایت مرز کلمه برای مخفف‌ها) در **اسم کانفیگ** پیدا شده باشد. اسم کانفیگ ابتدا از بخش `#` لینک و در صورت نبود، از نام داخلی (برای Vmess/SSR) استخراج می‌شود.\n\n"
-    md_content += "**نکته:** کانفیگ‌هایی که به شدت URL-Encode شده‌اند (حاوی تعداد زیادی `%25`، طولانی یا دارای کلمات کلیدی خاص) از نتایج حذف شده‌اند.\n\n"
+    md_content += "**نکته:** کانفیگ‌هایی که به شدت URL-Encode شده‌اند (حاوی تعداد زیادی `%25` یا دارای کلمات کلیدی خاص) از نتایج حذف شده‌اند.\n\n"
 
     md_content += "## 📁 فایل‌های پروتکل‌ها\n\n"
     if protocol_counts:
@@ -275,11 +268,9 @@ async def main():
     }
     country_category_names = list(country_keywords_for_naming.keys())
 
-    # ایجاد لیست پیشوندهای پروتکل‌ها برای فیلتر کردن در fetch_url
     protocol_prefixes = []
     for cat, patterns in protocol_patterns_for_matching.items():
         for pattern in patterns:
-            # استخراج پیشوند از الگو (مثل vmess:// یا hy2://)
             match = re.match(r'(\w+:\\/\\/)', pattern)
             if match:
                 protocol_prefixes.append(match.group(1).replace('\\/\\/', '//'))
@@ -336,37 +327,46 @@ async def main():
                 continue
 
             current_name_to_check_str = extract_country_name(name_to_check) if isinstance(name_to_check, str) else ""
-
-            for country_name_key, keywords_for_country_list in country_keywords_for_naming.items():
-                text_keywords_for_country = []
-                if isinstance(keywords_for_country_list, list):
-                    for kw in keywords_for_country_list:
-                        if isinstance(kw, str):
-                            is_potential_emoji_or_short_code = (1 <= len(kw) <= 7)
-                            is_alphanumeric = kw.isalnum()
-                            if not (is_potential_emoji_or_short_code and not is_alphanumeric):
-                                if not is_persian_like(kw):
-                                    text_keywords_for_country.append(kw)
-                                elif kw.lower() == country_name_key.lower():
-                                    if kw not in text_keywords_for_country:
+          
+            matched_country = None
+            if '🇬🇪' in name_to_check or re.search(r'\bGE\b', name_to_check, re.IGNORECASE):
+                matched_country = 'Georgia'  # اولویت به کشور گرجستان
+            else:
+                for country_name_key, keywords_for_country_list in country_keywords_for_naming.items():
+                    text_keywords_for_country = []
+                    if isinstance(keywords_for_country_list, list):
+                        for kw in keywords_for_country_list:
+                            if isinstance(kw, str):
+                                is_potential_emoji_or_short_code = (1 <= len(kw) <= 7)
+                                is_alphanumeric = kw.isalnum()
+                                if not (is_potential_emoji_or_short_code and not is_alphanumeric):
+                                    if not is_persian_like(kw):
                                         text_keywords_for_country.append(kw)
-                for keyword in text_keywords_for_country:
-                    match_found = False
-                    if not isinstance(keyword, str):
-                        continue
-                    is_abbr = (len(keyword) == 2 or len(keyword) == 3) and re.match(r'^[A-Z]+$', keyword)
-                    if is_abbr:
-                        pattern = r'\b' + re.escape(keyword) + r'\b'
-                        if re.search(pattern, current_name_to_check_str, re.IGNORECASE):
-                            match_found = True
-                    else:
-                        if keyword.lower() in current_name_to_check_str.lower():
-                            match_found = True
+                                    elif kw.lower() == country_name_key.lower():
+                                        if kw not in text_keywords_for_country:
+                                            text_keywords_for_country.append(kw)
+                    for keyword in text_keywords_for_country:
+                        match_found = False
+                        if not isinstance(keyword, str):
+                            continue
+                        is_abbr = (len(keyword) == 2 or len(keyword) == 3) and re.match(r'^[A-Z]+$', keyword)
+                        if is_abbr:
+                            pattern = r'\b' + re.escape(keyword) + r'\b'
+                            if re.search(pattern, current_name_to_check_str, re.IGNORECASE):
+                                match_found = True
+                        else:
+                            if keyword.lower() in current_name_to_check_str.lower():
+                                match_found = True
+                        if match_found:
+                            matched_country = country_name_key
+                            break
                     if match_found:
-                        final_configs_by_country[country_name_key].add(config)
                         break
-                if match_found:
-                    break
+
+            if matched_country:
+                final_configs_by_country[matched_country].add(config)
+            else:
+                final_configs_by_country['Unknown'].add(config)
 
     if os.path.exists(OUTPUT_DIR):
         shutil.rmtree(OUTPUT_DIR)
