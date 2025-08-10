@@ -197,7 +197,10 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, g
     if country_counts:
         md_content += '| کشور | تعداد کانفیگ مرتبط | لینک |\n'
         md_content += '|:-:|:-:|:-:|\n'
+        # فقط کشورهایی که تو country_counts هستن و تعدادشون بیشتر از صفره نمایش داده می‌شن
         for country_category_name, count in sorted(country_counts.items()):
+            if count == 0 or country_category_name == 'Unknown':  # رد کردن Unknown و کشورهایی بدون کانفیگ
+                continue
             flag_image_markdown = ""
             persian_name_str = ""
             iso_code_original_case = ""
@@ -235,9 +238,11 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, g
             file_link = f"{raw_github_base_url}/{country_category_name}.txt"
             link_text = f"{country_category_name}.txt"
             md_content += f"| {country_display_text} | {count} | [`{link_text}`]({file_link}) |\n"
+    else:
+        md_content += "هیچ کانفیگ کشوری یافت نشد.\n"
 
     md_content += "## 📁 فایل‌های بدون کشور مشخص\n\n"
-    if 'Unknown' in country_counts:
+    if 'Unknown' in country_counts and country_counts['Unknown'] > 0:
         file_link = f"{raw_github_base_url}/Unknown.txt"
         md_content += f"| Unknown | {country_counts['Unknown']} | [`Unknown.txt`]({file_link}) |\n"
     else:
@@ -327,7 +332,7 @@ async def main():
                 continue
 
             current_name_to_check_str = extract_country_name(name_to_check) if isinstance(name_to_check, str) else ""
-          
+
             matched_country = None
             if '🇬🇪' in name_to_check or re.search(r'\bGE\b', name_to_check, re.IGNORECASE):
                 matched_country = 'Georgia'  # اولویت به کشور گرجستان
