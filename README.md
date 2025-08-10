@@ -1,27 +1,33 @@
 # 🚀 V2Ray AutoConfig
 
-![GitHub License](https://img.shields.io/github/license/Argh94/V2RayAutoConfig?style=flat-square)
-![Python Version](https://img.shields.io/badge/python-3.9%2B-3776AB?style=flat-square&logo=python)
-![Workflow Status](https://img.shields.io/github/actions/workflow/status/Argh94/V2RayAutoConfig/scraper.yml?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/Argh94/V2RayAutoConfig?style=flat-square)
-![Total Configs](https://img.shields.io/badge/Configs-30394-blue?style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/Argh94/V2RayAutoConfig?style=social)
+<p align="center">
+  <img src="https://img.shields.io/github/license/Argh94/V2RayAutoConfig?style=flat-square&color=blue" alt="License" />
+  <img src="https://img.shields.io/badge/python-3.9%2B-3776AB?style=flat-square&logo=python" alt="Python 3.9+" />
+  <img src="https://img.shields.io/github/actions/workflow/status/Argh94/V2RayAutoConfig/scraper.yml?style=flat-square" alt="GitHub Workflow Status" />
+  <img src="https://img.shields.io/github/last-commit/Argh94/V2RayAutoConfig?style=flat-square" alt="Last Commit" />
+  <br>
+  <img src="https://img.shields.io/github/issues/Argh94/V2RayAutoConfig?style=flat-square" alt="GitHub Issues" />
+  <img src="https://img.shields.io/badge/Configs-30393-blue?style=flat-square" alt="Total Configs" />
+  <img src="https://img.shields.io/github/stars/Argh94/V2RayAutoConfig?style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square" alt="Project Status" />
+  <img src="https://img.shields.io/badge/language-فارسی%20%26%20English-007EC6?style=flat-square" alt="Language" />
+</p>
 
-این پروژه به‌صورت خودکار کانفیگ‌های VPN (پروتکل‌های مختلف مانند V2Ray، Trojan و Shadowsocks) را از منابع مختلف جمع‌آوری و دسته‌بندی می‌کند. هدف ما ارائه کانفیگ‌های به‌روز و قابل اعتماد برای کاربران است.
-
-**آخرین به‌روزرسانی: 00:50 20-05-1404**
+## آخرین به‌روزرسانی: 01:22 20-05-1404
 
 ---
 
 ## 📖 درباره پروژه
-این اسکریپت به‌صورت خودکار لینک‌های کانفیگ VPN را از منابع مشخص‌شده در فایل `urls.txt` جمع‌آوری کرده و بر اساس پروتکل‌ها و نام کشورها دسته‌بندی می‌کند. کانفیگ‌ها بر اساس نام‌هایشان (مانند نام‌های موجود در `#` یا فیلدهای داخلی Vmess/SSR) به کشورهای مرتبط اختصاص داده می‌شوند.
+این پروژه به‌صورت خودکار کانفیگ‌های VPN (پروتکل‌های مختلف مانند V2Ray، Trojan و Shadowsocks) را از منابع مختلف جمع‌آوری و دسته‌بندی می‌کند. هدف ما ارائه کانفیگ‌های به‌روز و قابل اعتماد برای کاربران است.
 
 > **نکته:** کانفیگ‌هایی که بیش از حد طولانی یا حاوی کاراکترهای غیرضروری (مانند تعداد زیاد `%25`) باشند، برای اطمینان از کیفیت، فیلتر می‌شوند.
 
 ---
 
 ## 📁 کانفیگ‌های پروتکل‌ها
-در حال حاضر 30394 کانفیگ در دسترس است.
+در حال حاضر 30393 کانفیگ در دسترس است.
+
+<div align="center">
 
 | پروتکل | تعداد | لینک دانلود |
 |:-------:|:-----:|:------------:|
@@ -31,13 +37,17 @@
 | Trojan | 2877 | [`Trojan.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Trojan.txt) |
 | Tuic | 11 | [`Tuic.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Tuic.txt) |
 | Vless | 6158 | [`Vless.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vless.txt) |
-| Vmess | 5436 | [`Vmess.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vmess.txt) |
+| Vmess | 5435 | [`Vmess.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vmess.txt) |
 | WireGuard | 33 | [`WireGuard.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/WireGuard.txt) |
+</div>
 
 ---
 
+
 ## 🌍 کانفیگ‌های کشورها
 کانفیگ‌ها بر اساس نام کشورها دسته‌بندی شده‌اند.
+
+<div align="center">
 
 | کشور | تعداد | لینک دانلود |
 |:----:|:-----:|:------------:|
@@ -126,8 +136,10 @@
 | <img src="https://flagcdn.com/w20/us.png" width="20" alt="USA flag">  USA (آمریکا) | 6617 | [`USA.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/USA.txt) |
 | <img src="https://flagcdn.com/w20/ua.png" width="20" alt="Ukraine flag">  Ukraine (اوکراین) | 7 | [`Ukraine.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Ukraine.txt) |
 | <img src="https://flagcdn.com/w20/vn.png" width="20" alt="Vietnam flag">  Vietnam (ویتنام) | 106 | [`Vietnam.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vietnam.txt) |
+</div>
 
 ---
+
 
 ## 🛠️ نحوه استفاده
 1. **دانلود کانفیگ‌ها**: از جدول‌های بالا، فایل موردنظر خود (بر اساس پروتکل یا کشور) را دانلود کنید.
