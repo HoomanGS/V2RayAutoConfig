@@ -160,21 +160,25 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, g
 
     md_content = f"""# 🚀 V2Ray AutoConfig
 
-![GitHub License](https://img.shields.io/github/license/{github_repo_path}?style=flat-square)
-![Python Version](https://img.shields.io/badge/python-3.9%2B-3776AB?style=flat-square&logo=python)
-![Workflow Status](https://img.shields.io/github/actions/workflow/status/{github_repo_path}/scraper.yml?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/{github_repo_path}?style=flat-square)
-![Total Configs](https://img.shields.io/badge/Configs-{total_configs}-blue?style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/{github_repo_path}?style=social)
-
-این پروژه به‌صورت خودکار کانفیگ‌های VPN (پروتکل‌های مختلف مانند V2Ray، Trojan و Shadowsocks) را از منابع مختلف جمع‌آوری و دسته‌بندی می‌کند. هدف ما ارائه کانفیگ‌های به‌روز و قابل اعتماد برای کاربران است.
+<p align="center">
+  <img src="https://img.shields.io/github/license/{github_repo_path}?style=flat-square&color=blue" alt="License" />
+  <img src="https://img.shields.io/badge/python-3.9%2B-3776AB?style=flat-square&logo=python" alt="Python 3.9+" />
+  <img src="https://img.shields.io/github/actions/workflow/status/{github_repo_path}/scraper.yml?style=flat-square" alt="GitHub Workflow Status" />
+  <img src="https://img.shields.io/github/last-commit/{github_repo_path}?style=flat-square" alt="Last Commit" />
+  <br>
+  <img src="https://img.shields.io/github/issues/{github_repo_path}?style=flat-square" alt="GitHub Issues" />
+  <img src="https://img.shields.io/badge/Configs-{total_configs}-blue?style=flat-square" alt="Total Configs" />
+  <img src="https://img.shields.io/github/stars/{github_repo_path}?style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square" alt="Project Status" />
+  <img src="https://img.shields.io/badge/language-فارسی%20%26%20English-007EC6?style=flat-square" alt="Language" />
+</p>
 
 **{timestamp}**
 
 ---
 
 ## 📖 درباره پروژه
-این اسکریپت به‌صورت خودکار لینک‌های کانفیگ VPN را از منابع مشخص‌شده در فایل `urls.txt` جمع‌آوری کرده و بر اساس پروتکل‌ها و نام کشورها دسته‌بندی می‌کند. کانفیگ‌ها بر اساس نام‌هایشان (مانند نام‌های موجود در `#` یا فیلدهای داخلی Vmess/SSR) به کشورهای مرتبط اختصاص داده می‌شوند.
+این پروژه به‌صورت خودکار کانفیگ‌های VPN (پروتکل‌های مختلف مانند V2Ray، Trojan و Shadowsocks) را از منابع مختلف جمع‌آوری و دسته‌بندی می‌کند. هدف ما ارائه کانفیگ‌های به‌روز و قابل اعتماد برای کاربران است.
 
 > **نکته:** کانفیگ‌هایی که بیش از حد طولانی یا حاوی کاراکترهای غیرضروری (مانند تعداد زیاد `%25`) باشند، برای اطمینان از کیفیت، فیلتر می‌شوند.
 
@@ -183,21 +187,26 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, g
 ## 📁 کانفیگ‌های پروتکل‌ها
 {f'در حال حاضر {total_configs} کانفیگ در دسترس است.' if total_configs else 'هیچ کانفیگ پروتکلی یافت نشد.'}
 
+<div align="center">
+
 | پروتکل | تعداد | لینک دانلود |
 |:-------:|:-----:|:------------:|
 """
     if protocol_counts:
         for category_name, count in sorted(protocol_counts.items()):
-            file_link = f"{raw_github_base_url}/{category_name}.txt"
+            file_link = f"{
+raw_github_base_url}/{category_name}.txt"
             md_content += f"| {category_name} | {count} | [`{category_name}.txt`]({file_link}) |\n"
     else:
         md_content += "| - | - | - |\n"
 
-    md_content += f"""
----
+    md_content += "</div>\n\n---\n\n"
 
+    md_content += f"""
 ## 🌍 کانفیگ‌های کشورها
 {f'کانفیگ‌ها بر اساس نام کشورها دسته‌بندی شده‌اند.' if country_counts else 'هیچ کانفیگ مرتبط با کشوری یافت نشد.'}
+
+<div align="center">
 
 | کشور | تعداد | لینک دانلود |
 |:----:|:-----:|:------------:|
@@ -243,9 +252,9 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, g
     else:
         md_content += "| - | - | - |\n"
 
-    md_content += """
----
+    md_content += "</div>\n\n---\n\n"
 
+    md_content += """
 ## 🛠️ نحوه استفاده
 1. **دانلود کانفیگ‌ها**: از جدول‌های بالا، فایل موردنظر خود (بر اساس پروتکل یا کشور) را دانلود کنید.
 2. **کلاینت‌های پیشنهادی**:
