@@ -152,44 +152,57 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, g
     jalali_date = jdatetime.datetime.fromgregorian(datetime=now)
     time_str = jalali_date.strftime("%H:%M")
     date_str = jalali_date.strftime("%d-%m-%Y")
-    timestamp = f"آخرین بروزرسانی: {time_str} {date_str}"
+    timestamp = f"آخرین به‌روزرسانی: {time_str} {date_str}"
 
     raw_github_base_url = f"https://raw.githubusercontent.com/{github_repo_path}/refs/heads/{github_branch}/{OUTPUT_DIR}"
 
     total_configs = sum(protocol_counts.values())
 
-    md_content = f"# 📊 نتایج استخراج: ({timestamp})\n\n"
+    md_content = f"""# 🚀 V2Ray AutoConfig
 
-    md_content += '<p align="center">\n'
-    md_content += '  <img src="https://img.shields.io/github/license/Argh94/V2RayAutoConfig?style=flat-square" alt="License" />\n'
-    md_content += '  <img src="https://img.shields.io/badge/python-3.9%2B-3776AB?style=flat-square&logo=python" alt="Python 3.9+" />\n'
-    md_content += '  <img src="https://img.shields.io/github/actions/workflow/status/Argh94/V2RayAutoConfig/scraper.yml?style=flat-square" alt="GitHub Workflow Status" />\n'
-    md_content += '  <img src="https://img.shields.io/github/last-commit/Argh94/V2RayAutoConfig?style=flat-square" alt="Last Commit" />\n'
-    md_content += '  <img src="https://img.shields.io/github/issues/Argh94/V2RayAutoConfig?style=flat-square" alt="GitHub Issues" />\n'
-    md_content += f'  <img src="https://img.shields.io/badge/Configs-{total_configs}-blue?style=flat-square" alt="Total Configs" />\n'
-    md_content += '  <img src="https://img.shields.io/github/stars/Argh94/V2RayAutoConfig?style=social" alt="GitHub Stars" />\n'
-    md_content += '  <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square" alt="Project Status" />\n'
-    md_content += '  <img src="https://img.shields.io/badge/language-فارسی%20%26%20English-007EC6?style=flat-square" alt="Language" />\n'
-    md_content += '</p>\n\n'
+![GitHub License](https://img.shields.io/github/license/{github_repo_path}?style=flat-square)
+![Python Version](https://img.shields.io/badge/python-3.9%2B-3776AB?style=flat-square&logo=python)
+![Workflow Status](https://img.shields.io/github/actions/workflow/status/{github_repo_path}/scraper.yml?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/{github_repo_path}?style=flat-square)
+![Total Configs](https://img.shields.io/badge/Configs-{total_configs}-blue?style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/{github_repo_path}?style=social)
 
-    md_content += "این فایل به صورت خودکار ایجاد شده است.\n\n"
-    md_content += "**توضیح:** فایل‌های کشورها فقط شامل کانفیگ‌هایی هستند که نام/پرچم کشور (با رعایت مرز کلمه برای مخفف‌ها) در **اسم کانفیگ** پیدا شده باشد. اسم کانفیگ ابتدا از بخش `#` لینک و در صورت نبود، از نام داخلی (برای Vmess/SSR) استخراج می‌شود.\n\n"
-    md_content += "**نکته:** کانفیگ‌هایی که به شدت URL-Encode شده‌اند (حاوی تعداد زیادی `%25`، طولانی یا دارای کلمات کلیدی خاص) از نتایج حذف شده‌اند.\n\n"
+این پروژه به‌صورت خودکار کانفیگ‌های VPN (پروتکل‌های مختلف مانند V2Ray، Trojan و Shadowsocks) را از منابع مختلف جمع‌آوری و دسته‌بندی می‌کند. هدف ما ارائه کانفیگ‌های به‌روز و قابل اعتماد برای کاربران است.
 
-    md_content += "## 📁 فایل‌های پروتکل‌ها\n\n"
+**{timestamp}**
+
+---
+
+## 📖 درباره پروژه
+این اسکریپت به‌صورت خودکار لینک‌های کانفیگ VPN را از منابع مشخص‌شده در فایل `urls.txt` جمع‌آوری کرده و بر اساس پروتکل‌ها و نام کشورها دسته‌بندی می‌کند. کانفیگ‌ها بر اساس نام‌هایشان (مانند نام‌های موجود در `#` یا فیلدهای داخلی Vmess/SSR) به کشورهای مرتبط اختصاص داده می‌شوند.
+
+> **نکته:** کانفیگ‌هایی که بیش از حد طولانی یا حاوی کاراکترهای غیرضروری (مانند تعداد زیاد `%25`) باشند، برای اطمینان از کیفیت، فیلتر می‌شوند.
+
+---
+
+## 📁 کانفیگ‌های پروتکل‌ها
+{f'در حال حاضر {total_configs} کانفیگ در دسترس است.' if total_configs else 'هیچ کانفیگ پروتکلی یافت نشد.'}
+
+| پروتکل | تعداد | لینک دانلود |
+|:-------:|:-----:|:------------:|
+"""
     if protocol_counts:
-        md_content += '| پروتکل | تعداد کل | لینک |\n'
-        md_content += '|:-:|:-:|:-:|\n'
         for category_name, count in sorted(protocol_counts.items()):
             file_link = f"{raw_github_base_url}/{category_name}.txt"
             md_content += f"| {category_name} | {count} | [`{category_name}.txt`]({file_link}) |\n"
     else:
-        md_content += "هیچ کانفیگ پروتکلی یافت نشد.\n"
+        md_content += "| - | - | - |\n"
 
-    md_content += "## 🌍 فایل‌های کشورها (حاوی کانفیگ)\n\n"
+    md_content += f"""
+---
+
+## 🌍 کانفیگ‌های کشورها
+{f'کانفیگ‌ها بر اساس نام کشورها دسته‌بندی شده‌اند.' if country_counts else 'هیچ کانفیگ مرتبط با کشوری یافت نشد.'}
+
+| کشور | تعداد | لینک دانلود |
+|:----:|:-----:|:------------:|
+"""
     if country_counts:
-        md_content += '| کشور | تعداد کانفیگ مرتبط | لینک |\n'
-        md_content += '|:-:|:-:|:-:|\n'
         for country_category_name, count in sorted(country_counts.items()):
             flag_image_markdown = ""
             persian_name_str = ""
@@ -206,7 +219,7 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, g
                             break
                     if iso_code_lowercase_for_url:
                         flag_image_url = f"https://flagcdn.com/w20/{iso_code_lowercase_for_url}.png"
-                        flag_image_markdown = f'<img src="{flag_image_url}" width="20" alt="{country_category_name} flag">'
+                        flag_image_markdown = f'<img src="{flag_image_url}" width="20" alt="{country_category_name} flag"> '
                     for item in keywords_list:
                         if isinstance(item, str):
                             if iso_code_original_case and item == iso_code_original_case:
@@ -226,10 +239,38 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, g
                 display_parts.append(f"({persian_name_str})")
             country_display_text = " ".join(display_parts)
             file_link = f"{raw_github_base_url}/{country_category_name}.txt"
-            link_text = f"{country_category_name}.txt"
-            md_content += f"| {country_display_text} | {count} | [`{link_text}`]({file_link}) |\n"
+            md_content += f"| {country_display_text} | {count} | [`{country_category_name}.txt`]({file_link}) |\n"
     else:
-        md_content += "هیچ کانفیگ مرتبط با کشوری یافت نشد.\n"
+        md_content += "| - | - | - |\n"
+
+    md_content += """
+---
+
+## 🛠️ نحوه استفاده
+1. **دانلود کانفیگ‌ها**: از جدول‌های بالا، فایل موردنظر خود (بر اساس پروتکل یا کشور) را دانلود کنید.
+2. **کلاینت‌های پیشنهادی**:
+   - **V2Ray**: [v2rayNG](https://github.com/2dust/v2rayNG) (اندروید)، [V2RayX](https://github.com/Cenmrev/V2RayX) (مک)، [V2RayW](https://github.com/Cenmrev/V2RayW) (ویندوز)
+   - **Shadowsocks**: [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) (مک)، [Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android)
+   - **Trojan**: [Trojan-Qt5](https://github.com/Trojan-Qt5/Trojan-Qt5)
+3. فایل کانفیگ را در کلاینت خود وارد کنید و اتصال را تست کنید.
+
+> **توصیه**: برای بهترین عملکرد، کانفیگ‌ها را به‌صورت دوره‌ای بررسی و به‌روزرسانی کنید.
+
+---
+
+## 🤝 مشارکت
+اگر مایل به مشارکت در پروژه هستید، می‌توانید:
+- منابع جدید برای جمع‌آوری کانفیگ‌ها پیشنهاد دهید (فایل `urls.txt`).
+- الگوهای جدید برای پروتکل‌ها یا کشورها اضافه کنید (فایل `key.json`).
+- با ارسال Pull Request یا Issue در [گیت‌هاب](https://github.com/Argh94/V2RayAutoConfig) به بهبود پروژه کمک کنید.
+
+---
+
+## 📢 توجه
+- این پروژه صرفاً برای اهداف آموزشی و تحقیقاتی ارائه شده است.
+- لطفاً از کانفیگ‌ها به‌صورت مسئولانه و مطابق با قوانین کشور خود استفاده کنید.
+- برای گزارش مشکلات یا پیشنهادات، از بخش [Issues](https://github.com/Argh94/V2RayAutoConfig/issues) استفاده کنید.
+"""
 
     try:
         with open(README_FILE, 'w', encoding='utf-8') as f:
