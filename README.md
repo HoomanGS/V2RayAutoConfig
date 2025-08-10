@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج: (آخرین بروزرسانی: 14:50 19-05-1404)
+# 📊 نتایج استخراج: (آخرین بروزرسانی: 15:11 19-05-1404)
 
 <p align="center">
   <img src="https://img.shields.io/github/license/Argh94/V2RayAutoConfig?style=flat-square" alt="License" />
@@ -16,7 +16,7 @@
 
 **توضیح:** فایل‌های کشورها فقط شامل کانفیگ‌هایی هستند که نام/پرچم کشور (با رعایت مرز کلمه برای مخفف‌ها) در **اسم کانفیگ** پیدا شده باشد. اسم کانفیگ ابتدا از بخش `#` لینک و در صورت نبود، از نام داخلی (برای Vmess/SSR) استخراج می‌شود.
 
-**نکته:** کانفیگ‌هایی که به شدت URL-Encode شده‌اند (حاوی تعداد زیادی `%25` یا دارای کلمات کلیدی خاص) از نتایج حذف شده‌اند.
+**نکته:** کانفیگ‌هایی که به شدت URL-Encode شده‌اند (حاوی تعداد زیادی `%25`، طولانی یا دارای کلمات کلیدی خاص) از نتایج حذف شده‌اند.
 
 ## 📁 فایل‌های پروتکل‌ها
 
@@ -117,7 +117,8 @@
 | <img src="https://flagcdn.com/w20/ae.png" width="20" alt="United Arab Emirates flag"> United Arab Emirates (امارات متحده عربی) | 24 | [`United Arab Emirates.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/United Arab Emirates.txt) |
 | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="United Kingdom flag"> United Kingdom (انگلستان) | 303 | [`United Kingdom.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/United Kingdom.txt) |
 | <img src="https://flagcdn.com/w20/us.png" width="20" alt="United States flag"> United States (ایالات متحده) | 7344 | [`United States.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/United States.txt) |
+| Unknown | 8003 | [`Unknown.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Unknown.txt) |
 | <img src="https://flagcdn.com/w20/vn.png" width="20" alt="Vietnam flag"> Vietnam (ویتنام) | 131 | [`Vietnam.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vietnam.txt) |
 ## 📁 فایل‌های بدون کشور مشخص
 
-| Unknown | 33467 | [`Unknown.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Unknown.txt) |
+| Unknown | 8003 | [`Unknown.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Unknown.txt) |
