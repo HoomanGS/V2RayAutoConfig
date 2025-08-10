@@ -173,7 +173,7 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, g
   <img src="https://img.shields.io/badge/language-فارسی%20%26%20English-007EC6?style=flat-square" alt="Language" />
 </p>
 
-**{timestamp}**
+## {timestamp}
 
 ---
 
@@ -194,8 +194,7 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, g
 """
     if protocol_counts:
         for category_name, count in sorted(protocol_counts.items()):
-            file_link = f"{
-raw_github_base_url}/{category_name}.txt"
+            file_link = f"{raw_github_base_url}/{category_name}.txt"
             md_content += f"| {category_name} | {count} | [`{category_name}.txt`]({file_link}) |\n"
     else:
         md_content += "| - | - | - |\n"
