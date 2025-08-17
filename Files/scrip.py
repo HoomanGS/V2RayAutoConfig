@@ -257,9 +257,9 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, g
 ## 🛠️ نحوه استفاده
 1. **دانلود کانفیگ‌ها**: از جدول‌های بالا، فایل موردنظر خود (بر اساس پروتکل یا کشور) را دانلود کنید.
 2. **کلاینت‌های پیشنهادی**:
-   - **V2Ray**: [v2rayNG](https://github.com/2dust/v2rayNG) (اندروید)، [V2RayX](https://github.com/Cenmrev/V2RayX) (مک)، [V2RayN](https://github.com/2dust/v2rayN/releases) (ویندوز)
-   - **Shadowsocks**: [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) (مک)، [Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android)
-   - **Trojan**: [Trojan-Qt5](https://github.com/Trojan-Qt5/Trojan-Qt5)
+   - **V2Ray**: [v2rayNG](https://github.com/2dust/v2rayNG) (اندروید)، [Hiddify](https://github.com/hiddify/hiddify-app/releases) (مک)، [V2RayN](https://github.com/2dust/v2rayN/releases) (ویندوز)
+   - **NekoRey_pro**: [NekoRey](https://github.com/Mahdi-zarei/nekoray/releases) (مک)، [Karing](https://github.com/KaringX/karing/releases)
+   - **sing-box**: [Sing-Box](https://github.com/SagerNet/sing-box/releases)
 3. فایل کانفیگ را در کلاینت خود وارد کنید و اتصال را تست کنید.
 
 > **توصیه**: برای بهترین عملکرد، کانفیگ‌ها را به‌صورت دوره‌ای بررسی و به‌روزرسانی کنید.
