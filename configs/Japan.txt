@@ -6,7 +6,7 @@ hy2://b866d83a-d301-4270-b699-40f322bf52fb@154.85.19.63:443/?mport=55000-56000&i
 hy2://oATw4IRtuUOozpOLFflGnWjtg@52.193.71.150:18219/?insecure=1&sni=bing.com#日本
 hy2://oCt1QU5QUB9vPtoBq3SzGrjlBTU@18.183.180.34:11534/?insecure=1&sni=bing.com#JP
 hy2://yn3gMvdZ0hpReiimChE1H1BFvE@54.199.157.111:26036/?insecure=1&sni=bing.com#JP
-ss://23d9aa04-8a2a-4ffc-9a3c-479a9f43f6fe@45.159.48.192:12212?security=tls&sni=445566.666888.lol&type=ws&host=445566.666888.lol&alpn=http%2F1.1&allowInsecure=0#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40hope_net%20%5B20%5D
+ss://23d9aa04-8a2a-4ffc-9a3c-479a9f43f6fe@45.159.48.192:12212?security=tls&sni=445566.666888.lol&type=ws&host=445566.666888.lol&alpn=http%2F1.1&allowInsecure=0#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40hope_net%20%5B18%5D
 ss://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-link13.liangxin1.xyz:36574/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com.cn&fp=chrome&security=reality&pbk=sDG-KQk1BF7V83-xnmrWDouXxpPd_ZSxKcHrJJzbols&sid=32a3650d#🇯🇵日本
 ss://401374e6df7741fbf638dad8184f175bOg==@156.238.18.155:443#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+156.238.18.155-443+%7C+5.2ms
 ss://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou05.mysynology.net:17278/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.yahoo.com&fp=chrome&security=reality&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&sid=&packetEncoding=xudp#🇯🇵日本
@@ -39,6 +39,7 @@ ss://YWVzLTEyOC1nY206MTAwODY%3D@153.121.43.183:10087#%3E%3E%40V2RAY_VMESS_free%3
 ss://YWVzLTEyOC1nY206MTAwODY3@153.121.43.183:10087#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+153.121.43.183-10087+%7C+159.92ms
 ss://YWVzLTEyOC1nY206MTAwODY3@153.121.51.214:10087#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+153.121.51.214-10087+%7C+159.91ms
 ss://YWVzLTEyOC1nY206MTAwODY3@160.16.123.124:10087#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+160.16.123.124-10087+%7C+160.84ms
+ss://YWVzLTEyOC1nY206MTAwODY=@160.16.123.124:10087#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40orange_vpns%20%5B15%5D
 ss://YWVzLTEyOC1nY206MTAwODY@153.121.51.214:10087#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40argo_vpn1%20%5B6%5D
 ss://YWVzLTEyOC1nY206NDA2ZTRlYTYtODQ0My00NWUyLWEzOTctNDk0MzY1Y2ExYmY4@bit-jp.03ezhg0qsa.download:12061#JP
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.204:443#%3E%3E%40free4allVPN%3A%3AJP
@@ -208,7 +209,7 @@ trojan://d06a3f01-1ff0-4792-9b8e-a5a604bc74a2@168.138.43.89:443?security=tls#%F0
 trojan://da777aae-defb-41d0-a183-2c27da2b4677@150.230.96.103:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-150.230.96.103-3063
 trojan://f42e1a2e-e650-44f4-8d17-bcb68663da18@150.230.201.192:443/?type=tcp&security=tls&sni=www.seetheworldjp.ga#%F0%9F%87%AF%F0%9F%87%B5JP-150.230.201.192-5608
 trojan://f42e1a2e-e650-44f4-8d17-bcb68663da18@150.230.201.192:443?security=tls&sni=www.seetheworldjp.ga#%F0%9F%87%AF%F0%9F%87%B5JP-150.230.201.192-4699
-vless://23d9aa04-8a2a-4ffc-9a3c-479a9f43f6fe@45.159.48.192:12212?security=tls&sni=445566.666888.lol&type=ws&host=445566.666888.lol&alpn=http%2F1.1&allowInsecure=0#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40hope_net%20%5B20%5D
+vless://23d9aa04-8a2a-4ffc-9a3c-479a9f43f6fe@45.159.48.192:12212?security=tls&sni=445566.666888.lol&type=ws&host=445566.666888.lol&alpn=http%2F1.1&allowInsecure=0#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40hope_net%20%5B18%5D
 vless://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-link13.liangxin1.xyz:36574/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com.cn&fp=chrome&security=reality&pbk=sDG-KQk1BF7V83-xnmrWDouXxpPd_ZSxKcHrJJzbols&sid=32a3650d#🇯🇵日本
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou05.mysynology.net:17278/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.yahoo.com&fp=chrome&security=reality&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&sid=&packetEncoding=xudp#🇯🇵日本
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-13.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#%3E%3E%40V2RAY_VMESS_free%3A%3AJP
