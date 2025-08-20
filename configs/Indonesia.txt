@@ -17,7 +17,6 @@ ss://10776745-8a65-4b9e-be03-092009cee211@turboo-server.com.co:80?encryption=non
 ss://131387aa-4b2a-43aa-bf7c-d94306ba55fb@104.18.14.19:2082?flow=&host=13tg.jpl8xmqb.workers.dev&path=%2F%3Fed&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 ss://131387aa-4b2a-43aa-bf7c-d94306ba55fb@104.18.15.19:2086?flow=&host=13tg.jpl8xmqb.workers.dev&path=%2F%3Fed&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 ss://172ed5fd-83a6-469e-863c-50e251a6c17d@zula.ir:443?flow=&host=rayan-supra.parisa.dpdns.org&path=%2F%3Fed%3D2560&security=tls&sni=rayan-supra.parisa.dpdns.org&type=ws#Channel%20id:%20@ShadowProxy66%20
-ss://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%BA
 ss://1dc60f16-1593-485e-949d-8459edba6430@92.53.107.193:27129/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=pqVSxW8Vukd7XiPZUQTd9ADNT2XBrCGJ4q2-7n6kQXQ&sid=d70393f0ad1c7552#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
 ss://1f2c36a3-bfd0-4491-8fd7-cdff97bb4f9d@109.122.249.131:3232/?encryption=none&host=zula.ir&type=tcp&headerType=http#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
 ss://248b794e-905a-47b4-8c23-fa15746a8d9a@195.42.233.83:443/?type=ws&encryption=none&path=%2Frsrjowws&security=tls#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
@@ -28,7 +27,6 @@ ss://357b1bba-6400-4944-baff-1b933311ff28@172.67.200.11:443?alpn=http%2F1.1&flow
 ss://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@62.60.178.19:20321?flow=&type=tcp#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 ss://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&path=%2Fxhttp&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
 ss://3d7dd548-5456-4f28-8019-393fbfab3312@app-stg.gopay.co.id.servpn.my.id:443?path=%2Fsg3%3Fed%3D2560&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=randomized&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
-ss://3d7dd548-5456-4f28-8019-393fbfab3312@app-stg.gopay.co.id.servpn.my.id:443?path=%2Fsg3%3Fed%3D2560&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=randomized&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 ss://3f277f78-ef7c-4fab-982c-0ae1b0c0cf67@51.75.161.60:80/?type=ws&encryption=none&host=ShadowProxy66&path=%2Fvless%2F#Channel%20id%3A%20%40ShadowProxy66%20
 ss://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?alpn=h2&flow=&security=tls&sni=pqh24v3.hiddendom.shop&type=grpc#Channel%20id:%20@ShadowProxy66%20
 ss://401374e6-df77-41fb-f638-dad8184f175b@103.160.204.145:443?alpn=h2&flow=&security=tls&sni=pqh23v4.hiddendom.shop&type=grpc#Channel%20id:%20@ShadowProxy66%20
@@ -38,6 +36,7 @@ ss://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443?alpn=h2&flow=&security
 ss://401374e6-df77-41fb-f638-dad8184f175b@92.53.188.36:443?alpn=h2&flow=&security=tls&sni=pqh23v4.hiddendom.shop&type=grpc#Channel%20id:%20@ShadowProxy66%20
 ss://401374e6-df77-41fb-f638-dad8184f175b@94.247.142.103:443?flow=&security=tls&sni=pqh23v5.hiddendom.shop&type=grpc#Channel%20id:%20@ShadowProxy66%20
 ss://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?alpn=h2&flow=&security=tls&sni=pqh28v5.hiddendom.shop&type=grpc#Channel%20id:%20@ShadowProxy66%20
+ss://408f71e2-170d-4bf9-8b42-b6ba23cc227c@blog.ruangguru.com.servpn.my.id:443?path=%2Fkr1%3Fed%3D2560&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&fp=randomized&type=ws&sni=blog.ruangguru.com.servpn.my.id#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
 ss://42ead82d-d6d7-4a94-9365-5be73f5d1bcc@57.129.129.41:54974/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=F2WLUHR5RU2d2zifwKALTGkLLbIut1AjDKEAmx7OEW0&sid=2075#Channel%20id%3A%20%40v2rayng_021
 ss://42ead82d-d6d7-4a94-9365-5be73f5d1bcc@57.129.129.41:54974?flow=&fp=chrome&pbk=F2WLUHR5RU2d2zifwKALTGkLLbIut1AjDKEAmx7OEW0&security=reality&sid=2075&sni=yahoo.com&type=tcp#Channel%20id:%20@ShadowProxy66%20
 ss://45c3ceef-af58-45ba-83e9-6fad74dbb663@172.67.166.217:443?flow=&fp=chrome&host=ivz693ye8o0LMp70Bd7vR407BWM2ib8R.kIciGE4119.woRKERs.dEv&path=%2FNBuFH5KdNl08Dm06&security=tls&sni=ivz693ye8o0LMp70Bd7vR407BWM2ib8R.kIciGE4119.woRKERs.dEv&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
@@ -506,9 +505,7 @@ ss://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443/?type=tcp&encryp
 ss://fa886719-16fa-4b10-88c5-3c00a6f5a5f1@195.133.8.126:8081/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=oB-VCWWpUePBe_v3vAOLWw054ZbdUN_4X3t_FkkPNFc&sid=220463#Channel%20id%3A%20%40ShadowProxy66%20
 ss://fac1c66f-3ba3-4d24-8ae8-d6049d949898@51.38.64.196:443?flow=&fp=chrome&pbk=guQofANvA8Ia_uVwhRMriU09zudRTM_k7Nr498g161s&security=reality&sid=a31a8d04622560&sni=yahoo.com&type=tcp#Channel%20id:%20@ShadowProxy66%20
 trojan://%3FM%7C%24pIEDnf8N@172.66.47.197:443?path=%2Ftr5yHAfAceu4MQZYYW%2FYnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ%3D%3D&security=tls&alpn=http%2F1.1&host=gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev&fp=randomized&type=ws&sni=gKh7ImOMi--3t3XCStzt8pP4DLZUesKN.paGes.dEv#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6👆
-trojan://%3FM%7C%24pIEDnf8N@172.66.47.197:443?path=%2Ftr5yHAfAceu4MQZYYW%2FYnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ%3D%3D&security=tls&alpn=http%2F1.1&host=gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev&fp=randomized&type=ws&sni=gKh7ImOMi--3t3XCStzt8pP4DLZUesKN.paGes.dEv#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6MTN
 trojan://%3FM%7C%24pIEDnf8N@www.speedtest.net:443?path=%2FtrfTOD5pZ7bIEs3KNa%2FYnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ%3D%3D&security=tls&alpn=http%2F1.1&host=gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev&fp=randomized&type=ws&sni=gkH7iMomi--3t3XCStzt8pP4dLZUeskN.PagEs.Dev#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
-trojan://%3FM%7C%24pIEDnf8N@www.speedtest.net:443?path=%2FtrfTOD5pZ7bIEs3KNa%2FYnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ%3D%3D&security=tls&alpn=http%2F1.1&host=gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev&fp=randomized&type=ws&sni=gkH7iMomi--3t3XCStzt8pP4dLZUeskN.PagEs.Dev#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-41.216.177.41-4614
 trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443?sni=hk.freeguard.org#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%B0
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?sni=rc8.freeguard.org#Channel%20id:%20@ShadowProxy66%20
@@ -544,7 +541,6 @@ vless://10776745-8a65-4b9e-be03-092009cee211@turboo-server.com.co:80?encryption=
 vless://131387aa-4b2a-43aa-bf7c-d94306ba55fb@104.18.14.19:2082?flow=&host=13tg.jpl8xmqb.workers.dev&path=%2F%3Fed&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 vless://131387aa-4b2a-43aa-bf7c-d94306ba55fb@104.18.15.19:2086?flow=&host=13tg.jpl8xmqb.workers.dev&path=%2F%3Fed&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 vless://172ed5fd-83a6-469e-863c-50e251a6c17d@zula.ir:443?flow=&host=rayan-supra.parisa.dpdns.org&path=%2F%3Fed%3D2560&security=tls&sni=rayan-supra.parisa.dpdns.org&type=ws#Channel%20id:%20@ShadowProxy66%20
-vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%BA
 vless://1dc60f16-1593-485e-949d-8459edba6430@92.53.107.193:27129/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=pqVSxW8Vukd7XiPZUQTd9ADNT2XBrCGJ4q2-7n6kQXQ&sid=d70393f0ad1c7552#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
 vless://1f2c36a3-bfd0-4491-8fd7-cdff97bb4f9d@109.122.249.131:3232/?encryption=none&host=zula.ir&type=tcp&headerType=http#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
 vless://248b794e-905a-47b4-8c23-fa15746a8d9a@195.42.233.83:443/?type=ws&encryption=none&path=%2Frsrjowws&security=tls#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
@@ -555,7 +551,6 @@ vless://357b1bba-6400-4944-baff-1b933311ff28@172.67.200.11:443?alpn=http%2F1.1&f
 vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@62.60.178.19:20321?flow=&type=tcp#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&path=%2Fxhttp&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
 vless://3d7dd548-5456-4f28-8019-393fbfab3312@app-stg.gopay.co.id.servpn.my.id:443?path=%2Fsg3%3Fed%3D2560&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=randomized&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
-vless://3d7dd548-5456-4f28-8019-393fbfab3312@app-stg.gopay.co.id.servpn.my.id:443?path=%2Fsg3%3Fed%3D2560&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=randomized&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 vless://3f277f78-ef7c-4fab-982c-0ae1b0c0cf67@51.75.161.60:80/?type=ws&encryption=none&host=ShadowProxy66&path=%2Fvless%2F#Channel%20id%3A%20%40ShadowProxy66%20
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?alpn=h2&flow=&security=tls&sni=pqh24v3.hiddendom.shop&type=grpc#Channel%20id:%20@ShadowProxy66%20
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.160.204.145:443?alpn=h2&flow=&security=tls&sni=pqh23v4.hiddendom.shop&type=grpc#Channel%20id:%20@ShadowProxy66%20
@@ -565,6 +560,7 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443?alpn=h2&flow=&secur
 vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.188.36:443?alpn=h2&flow=&security=tls&sni=pqh23v4.hiddendom.shop&type=grpc#Channel%20id:%20@ShadowProxy66%20
 vless://401374e6-df77-41fb-f638-dad8184f175b@94.247.142.103:443?flow=&security=tls&sni=pqh23v5.hiddendom.shop&type=grpc#Channel%20id:%20@ShadowProxy66%20
 vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?alpn=h2&flow=&security=tls&sni=pqh28v5.hiddendom.shop&type=grpc#Channel%20id:%20@ShadowProxy66%20
+vless://408f71e2-170d-4bf9-8b42-b6ba23cc227c@blog.ruangguru.com.servpn.my.id:443?path=%2Fkr1%3Fed%3D2560&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&fp=randomized&type=ws&sni=blog.ruangguru.com.servpn.my.id#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
 vless://42ead82d-d6d7-4a94-9365-5be73f5d1bcc@57.129.129.41:54974/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=F2WLUHR5RU2d2zifwKALTGkLLbIut1AjDKEAmx7OEW0&sid=2075#Channel%20id%3A%20%40v2rayng_021
 vless://42ead82d-d6d7-4a94-9365-5be73f5d1bcc@57.129.129.41:54974?flow=&fp=chrome&pbk=F2WLUHR5RU2d2zifwKALTGkLLbIut1AjDKEAmx7OEW0&security=reality&sid=2075&sni=yahoo.com&type=tcp#Channel%20id:%20@ShadowProxy66%20
 vless://45c3ceef-af58-45ba-83e9-6fad74dbb663@172.67.166.217:443?flow=&fp=chrome&host=ivz693ye8o0LMp70Bd7vR407BWM2ib8R.kIciGE4119.woRKERs.dEv&path=%2FNBuFH5KdNl08Dm06&security=tls&sni=ivz693ye8o0LMp70Bd7vR407BWM2ib8R.kIciGE4119.woRKERs.dEv&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
