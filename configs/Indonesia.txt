@@ -25,6 +25,7 @@ ss://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747/?type=tcp&encryptio
 ss://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443/?type=ws&encryption=none&flow=&path=%2Ftqjkmwws&security=tls&allowInsecure=1&fp=chrome&packetEncoding=xudp#Channel%20id%3A%20%40v2rayng_021
 ss://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&path=%2Fxhttp&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
 ss://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&path=%2Fxhttp&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
+ss://3d7dd548-5456-4f28-8019-393fbfab3312@app-stg.gopay.co.id.servpn.my.id:443?path=%2Fsg3%3Fed%3D2560&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=randomized&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
 ss://3d7dd548-5456-4f28-8019-393fbfab3312@app-stg.gopay.co.id.servpn.my.id:443?path=%2Fsg3%3Fed%3D2560&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=randomized&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 ss://3f277f78-ef7c-4fab-982c-0ae1b0c0cf67@51.75.161.60:80/?type=ws&encryption=none&host=ShadowProxy66&path=%2Fvless%2F#Channel%20id%3A%20%40ShadowProxy66%20
 ss://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443?alpn=h2&encryption=none&security=tls&sni=pqh24v3.hiddendom.shop&type=grpc#Channel%20id:%20@ShadowProxy66%20
@@ -433,6 +434,7 @@ vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747/?type=tcp&encryp
 vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443/?type=ws&encryption=none&flow=&path=%2Ftqjkmwws&security=tls&allowInsecure=1&fp=chrome&packetEncoding=xudp#Channel%20id%3A%20%40v2rayng_021
 vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&path=%2Fxhttp&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
 vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&path=%2Fxhttp&security=&encryption=none&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
+vless://3d7dd548-5456-4f28-8019-393fbfab3312@app-stg.gopay.co.id.servpn.my.id:443?path=%2Fsg3%3Fed%3D2560&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=randomized&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
 vless://3d7dd548-5456-4f28-8019-393fbfab3312@app-stg.gopay.co.id.servpn.my.id:443?path=%2Fsg3%3Fed%3D2560&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=randomized&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 vless://3f277f78-ef7c-4fab-982c-0ae1b0c0cf67@51.75.161.60:80/?type=ws&encryption=none&host=ShadowProxy66&path=%2Fvless%2F#Channel%20id%3A%20%40ShadowProxy66%20
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443?alpn=h2&encryption=none&security=tls&sni=pqh24v3.hiddendom.shop&type=grpc#Channel%20id:%20@ShadowProxy66%20
