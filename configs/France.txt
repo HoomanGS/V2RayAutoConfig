@@ -104,7 +104,6 @@ ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8882#%F0%9F%87%AB%F0%9F
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@195.154.200.150:443#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.200.150-5418
 ss://a4107f38-a3fc-4ff0-9756-ac0749dd9f07@135.125.239.114:443?security=reality&encryption=none&pbk=aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=370dd394052f2386#REALITY|FR🇫🇷
 ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.159:443?path=%2F&security=tls&encryption=none&type=ws#FR🇫🇷
-ss://a8f9d5f9-7cad-40ff-9fee-835c6dd9bce4@31.56.146.186:50404?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B53%5D
 ss://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=&encryption=none&headerType=none&type=tcp#FR🇫🇷
 ss://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=none&encryption=none&headerType=none&type=tcp#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_vpn%20%5B18%5D
@@ -148,6 +147,7 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=n
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?security=&encryption=none&type=grpc#%3E%3E%40shadowproxy66%3A%3AFR
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?security=&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40NamiraConfigs%20%5B70%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?security=&encryption=none&type=grpc#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40outline_vpn%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
@@ -183,10 +183,12 @@ trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=as
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=namayesh.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-8009
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=softsaaz.ir#%F0%9F%87%AB%F0%9F%87%B7FR-51.91.11.29-8015
 trojan://origin@176.31.83.90:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-176.31.83.90-0803
+trojan://telegram-id-directvpn@13.36.1.17:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40directvpn%20%5B18%5D
 trojan://telegram-id-directvpn@13.37.25.118:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40directvpn%20%5B15%5D
 trojan://telegram-id-directvpn@13.39.112.204:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-13.39.112.204-8708
-trojan://telegram-id-directvpn@13.39.136.125:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40directvpn%20%5B18%5D
+trojan://telegram-id-directvpn@13.39.136.125:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40directvpn%20%5B17%5D
 trojan://telegram-id-directvpn@35.181.143.110:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40directvpn%20%5B14%5D
+trojan://telegram-id-directvpn@35.181.143.110:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2ray_free_conf%20%5B17%5D
 trojan://telegram-id-directvpn@51.44.193.63:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40directvpn%20%5B14%5D
 trojan://telegram-id-privatevpns@13.37.25.118:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B15%5D
 trojan://telegram-id-privatevpns@15.236.122.160:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-15.236.122.160-8613
@@ -216,7 +218,6 @@ vless://94f51128-b5eb-4eb6-8010-12b7c55e559b@141.95.52.109:80?path=%2Fvless%2F&s
 vless://9e6be4b8-2724-405b-83e7-5de5d220e79c@199.232.170.133:443/?type=ws&encryption=none&host=UNLIMITEDDEV.zr.ir&path=%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D8880&security=tls&sni=live.wkrq.com&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7France
 vless://a4107f38-a3fc-4ff0-9756-ac0749dd9f07@135.125.239.114:443?security=reality&encryption=none&pbk=aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=370dd394052f2386#REALITY|FR🇫🇷
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.159:443?path=%2F&security=tls&encryption=none&type=ws#FR🇫🇷
-vless://a8f9d5f9-7cad-40ff-9fee-835c6dd9bce4@31.56.146.186:50404?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B53%5D
 vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=&encryption=none&headerType=none&type=tcp#FR🇫🇷
 vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=none&encryption=none&headerType=none&type=tcp#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_vpn%20%5B18%5D
@@ -260,6 +261,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?security=&encryption=none&type=grpc#%3E%3E%40shadowproxy66%3A%3AFR
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?security=&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40NamiraConfigs%20%5B70%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?security=&encryption=none&type=grpc#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40outline_vpn%3A%3AFR
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
@@ -352,7 +354,6 @@ vmess://eyJhZGQiOiJ0LmNubWpjbi5jeW91IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiQkxhWkUtZlJBLTY0LkJMYVpFQ0xPdUQuc2l0RSIsImlkIjoiYjdhY2Y0NGYtM2MzYS00MzBjLThlZDAtZmI2NGNjYzlhMTNhIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2a3dzcyIsInBvcnQiOiI0NDMiLCJwcyI6Ij4+QEZyZWFrQ29uZmlnOjpGUiIsInNjeSI6ImF1dG8iLCJzbmkiOiJCTGFaRS1mUkEtNjQuQkxhWkVDTE91RC5zaXRFIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoienVsYS5pci5ldS0yLmhpaHUubmV0IiwiaWQiOiIzZDc2YWM0MC04MGM0LTExZjAtYjQzMi0yMDVjNmQ1ZjVkNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2I4N3IzZDllIiwicG9ydCI6IjgwIiwicHMiOiJGUlx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmNyB8IHp1bGEuaXIuZXUtMi5oaWh1Lm5ldC04MCB8IDI4My4xNm1zIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJjbG91ZGdldHNlcnZpY2UubWNsb3Vkc2VydmljZS5zaXRlIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJGcmEtVnAtMTIzLkJMYVpFQ0xPVUQuU2l0ZSIsImlkIjoiMzdmNDY0Y2ItYjgyNi00Mjc4LTliZjgtMTFiZGYxZWM4OTJiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbnZrd3MiLCJwb3J0IjoiNDQzIiwicHMiOiI+PkBGcmVha0NvbmZpZzo6RlIiLCJzY3kiOiJhdXRvIiwic25pIjoiRnJhLVZwLTEyMy5CTGFaRUNMT1VELlNpdGUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
-vmess://eyJhZGQiOiJjbG91ZGdldHNlcnZpY2UubWNsb3Vkc2VydmljZS5zaXRlIiwidiI6IjIiLCJwcyI6Ilx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmN1tvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtRlIiLCJwb3J0Ijo0NDMsImlkIjoiMzdmNDY0Y2ItYjgyNi00Mjc4LTliZjgtMTFiZGYxZWM4OTJiIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJGcmEtVnAtMTIzLkJMYVpFQ0xPVUQuU2l0ZSIsInBhdGgiOiJcL2xpbnZrd3MiLCJ0bHMiOiJ0bHMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vmess://eyJhZGQiOiJmcmVlc2FuamVzaHRlc3RzYW5lc2guc2FuamVzaHZpcHNwZWVkLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJodHRwczovL3d3dy5zb2Z0OTguaXIiLCJpZCI6IjBlNDdiODM0LTU1YzktNGQ0Ni1hMzY1LTZhZDQzOTY2NDI5MyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODI1MCIsInBzIjoi8J+HqPCfh7V2MnJheW5nIChGUinwn5SQLWNvbmZlZ3JhaWdhbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJpbmRpYXZpZGVvLnNicyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaW5kaWF2aWRlby5zYnMiLCJpZCI6IjQyNWM1ZTZlLTMwYTAtNDk4NC04YTEzLWVlNmY3MjA1MzE2MiIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4er8J+Ht0ZSLTQ1LjE0NS4xNjcuMTAzLTcyMDIiLCJzY3kiOiJhdXRvIiwic25pIjoiaW5kaWF2aWRlby5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ
 vmess://eyJhZGQiOiJpcC5zYiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZnIuYXRsZW4uZHBkbnMub3JnIiwiaWQiOiIyODU0OGVmNy05ODNkLTRlZTgtOGJkNi03ZDcxZDkwNWI1YTIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLzI4NTQ4ZWY3LTk4M2QtNGVlOC04YmQ2LTdkNzFkOTA1YjVhMi12bWVzcyIsInBvcnQiOiI0NDMiLCJwcyI6IlJFTEFZXHVkODNkXHVkZWE5IHwgZnIuYXRsZW4uZHBkbnMub3JnLTQ0MyB8IDMwMC4yM21zIiwic2N5IjoiYXV0byIsInNuaSI6ImZyLmF0bGVuLmRwZG5zLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
