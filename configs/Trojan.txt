@@ -737,6 +737,7 @@ trojan://2ee85121-31de-4581-a492-eb00f606e392@198.46.152.83:443?security=tls&sni
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.46.152.83:443?security=tls&sni=sj3.freeguard.org&path=%2f#%f0%9f%87%ba%f0%9f%87%b8%20US%2013
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.46.152.83:443?security=tls&sni=sj3.freeguard.org&type=tcp&headerType=none&path=%2f#%f0%9f%87%ba%f0%9f%87%b8%20US%2014
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.46.152.83:443?type=tcp&security=tls&sni=sj3.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40ip_cf_config%20%5B16%5D
+trojan://2ee85121-31de-4581-a492-eb00f606e392@198.46.152.83:443?type=tcp&security=tls&sni=🔒
 trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443/?type=tcp&security=tls&sni=sto.freeguard.org#%F0%9F%8C%B012%40oneclickvpnkeys
 trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443/?type=tcp&security=tls&sni=sto.freeguard.org&allowInsecure=1#%F0%9F%8C%B012%40oneclickvpnkeys
 trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443/?type=tcp&security=tls&sni=🔒
@@ -6310,7 +6311,6 @@ trojan://dns68@104.21.92.73:443?sni=🔒
 trojan://dns68@135.84.79.80:443/?type=ws&host=trojan.putata.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=trojan.putata.us.kg#%40Hope_Net-join-us...
 trojan://dns68@135.84.79.80:443/?type=ws&host=trojan.putata.us.kg&path=🔒
 trojan://dns68@162.159.152.2:443?security=tls&sni=trojan.putata.us.kg&type=ws&host=trojan.putata.us.kg&path=%2F%3Fed%3D2560&fp=randomized&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
-trojan://dns68@162.159.152.2:443?security=tls&sni=🔒
 trojan://dns68@162.159.152.2:443?security=tls&type=ws&sni=🔒
 trojan://dns68@172.67.188.160:443/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=trojan.putata.us.kg#%40Hope_Net-join-us-on-Telegram
 trojan://dns68@199.68.156.68:443/?type=ws&host=trojan.putata.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=trojan.putata.us.kg#%40Hope_Net-join-us-on-Telegram
@@ -7686,7 +7686,6 @@ trojan://telegram-id-privatevpns@3.75.7.175:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-privatevpns@3.75.7.175:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.75.7.175:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@3.75.7.175:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram
-trojan://telegram-id-privatevpns@3.75.7.175:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@3.76.184.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@3.77.162.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@3.79.132.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
