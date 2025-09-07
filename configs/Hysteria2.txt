@@ -159,9 +159,12 @@ hysteria2://daily_configs:bypzIVqyeJOSLrTsdo3amy5akEEqUHJE@176.124.204.248:443?s
 hysteria2://daily_configs:bypzIVqyeJOSLrTsdo3amy5akEEqUHJE@[2a0b:4140:b6c4::2]:443?security=tls&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN&insecure=1&pinSHA256=43:71:51:ED:9A:02:15:79:BF:1E:FF:BE:BB:73:AC:7B:21:0C:5D:4A:D1:E4:3E:2F:67:E9:5B:49:54:C3:5B:2E&sni=ubuntu
 hysteria2://daily_configs@176.124.204.248:443?insecure=1&sni=ubuntu
 hysteria2://dailyconfigs%3AWLsA6GGydzT5GzMBAVpJVlG6LLXXFbLr@176.124.204.248:443?sni=slack.com&insecure=1&obfs=salamander#DE
+hysteria2://dailyconfigs%3AhLr9ERh3XCY281v1KEbPrUflfzpxPTmv@176.124.204.248:443?security=tls&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN&insecure=1&pinSHA256=43%3A71%3A51%3AED%3A9A%3A02%3A15%3A79%3ABF%3A1E%3AFF%3ABE%3ABB%3A73%3AAC%3A7B%3A21%3A0C%3A5D%3A4A%3AD1%3AE4%3A3E%3A2F%3A67%3AE9%3A5B%3A49%3A54%3AC3%3A5B%3A2E&sni=ubuntu%20com#%40Daily_Configs-IPv4`
 hysteria2://dailyconfigs:WLsA6GGydzT5GzMBAVpJVlG6LLXXFbLr@176.124.204.248:443?security=tls&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN&insecure=1&sni=slack.com#🇩🇪@FreakConfig
 hysteria2://dailyconfigs:WLsA6GGydzT5GzMBAVpJVlG6LLXXFbLr@176.124.204.248:443?sni=slack.com&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN&insecure=1#@Daily_Configs
 hysteria2://dailyconfigs:WLsA6GGydzT5GzMBAVpJVlG6LLXXFbLr@[2a0b:4140:b6c4::2]:443?sni=slack.com&alpn=h3&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN&insecure=1#@Daily_Configs
+hysteria2://dailyconfigs:hLr9ERh3XCY281v1KEbPrUflfzpxPTmv@176.124.204.248:443?security=tls&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN&insecure=1&pinSHA256=43:71:51:ED:9A:02:15:79:BF:1E:FF:BE:BB:73:AC:7B:21:0C:5D:4A:D1:E4:3E:2F:67:E9:5B:49:54:C3:5B:2E&sni=ubuntu
+hysteria2://dailyconfigs:hLr9ERh3XCY281v1KEbPrUflfzpxPTmv@[2a0b:4140:b6c4::2]:443?security=tls&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN&insecure=1&pinSHA256=43:71:51:ED:9A:02:15:79:BF:1E:FF:BE:BB:73:AC:7B:21:0C:5D:4A:D1:E4:3E:2F:67:E9:5B:49:54:C3:5B:2E&sni=ubuntu
 hysteria2://dailyconfigs@176.124.204.248:443?insecure=1&sni=slack.com&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN#%40Daily_Configs%20%3C%3D%3D%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7...
 hysteria2://de8854c7-fa17-4266-ae18-50a9732a0c4e@it1.1010991.xyz:3001?sni=it1.1010991.xyz&insecure=1#US
 hysteria2://de8854c7-fa17-4266-ae18-50a9732a0c4e@us2.1010991.xyz:3001?sni=us2.1010991.xyz&insecure=0#qol_488
