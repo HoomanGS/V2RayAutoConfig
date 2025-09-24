@@ -123,8 +123,10 @@ trojan://07efa45f-7c1b-4fca-8c1a-dba8ea554551@test98.alicesss.repl.co:443?securi
 trojan://08964210-e7b8-11ec-95aa-1239d0255272@w12.udpgw.com:443?security=tls
 trojan://08964210-e7b8-11ec-95aa-1239d0255272@w12.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.177.105-5845
 trojan://08f590e0-3f10-11f0-af92-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp
+trojan://09520f00-9f39-11ef-91e0-1239d0255272@151.101.194.219:443?sni=usa.test3.net&type=ws&host=usa.test3.net&path=%2Fhowdy#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B20%5D
 trojan://09520f00-9f39-11ef-91e0-1239d0255272@151.101.194.219:443?sni=usa.test3.net&type=ws&host=usa.test3.net&path=%2Fhowdy#@Hope_Net-join-us-on-Telegram
 trojan://09520f00-9f39-11ef-91e0-1239d0255272@151.101.194.219:443?sni=usa.test3.net&type=ws&host=usa.test3.net&path=%2Fhowdy#[🇨🇦]t.me/ConfigsHub
+trojan://09520f00-9f39-11ef-91e0-1239d0255272@151.101.194.219:443?sni=🔒
 trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46527?security=tls&sni=🔒
 trojan://0C3YaEDx46ODTFTcaF8lXlZ3zeqSlF33wZagexzRjIyODa8RDwp8XSCO93ygCSYcSYABA@blength.appagent.net:18332?allowInsecure=0
 trojan://0C3YaEDx46ODTFTcaF8lXlZ3zeqSlF33wZagexzRjIyODa8RDwp8XSCO93ygCSYcSYABA@blength.appagent.net:18332?allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD
@@ -4117,7 +4119,7 @@ trojan://NISHIKUITAN111@94.242.229.89:443?allowInsecure=1
 trojan://NISHIKUITAN222@104.16.25.100:443#RELAY🚩
 trojan://NISHIKUITAN222@104.16.25.100:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN222@104.16.25.100:443?allowInsecure=1
-trojan://NISHIKUITAN222@104.16.25.100:443?allowInsecure=1#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B20%5D
+trojan://NISHIKUITAN222@104.16.25.100:443?allowInsecure=1#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B18%5D
 trojan://NISHIKUITAN222@104.16.25.100:443?allowInsecure=1#@Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN222@104.16.25.100:443?allowInsecure=1#[🇨🇦]t.me/ConfigsHub
 trojan://NISHIKUITAN222@104.16.40.237:443#RELAY🚩
@@ -4436,6 +4438,8 @@ trojan://WyRE1b2elC@map.wimax.cc:8443?security=tls&alpn=h2%2Chttp%2F1.1&headerTy
 trojan://WyRE1b2elC@map.wimax.cc:8443?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&fp=safari&type=tcp&sni=map.wimax.cc#United%20States%20Relayed
 trojan://WyRE1b2elC@map.wimax.cc:8443?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&fp=safari&type=tcp&sni=🔒
 trojan://WyRE1b2elC@map.wimax.cc:8443?type=tcp&security=tls&sni=map.wimax.cc&alpn=h2%2Chttp%2F1.1&fp=safari#US🇺🇸
+trojan://XWnVX2ASHl@5.255.103.217:37757?allowInsecure=0&sni=moshali.arshiacomplus.dpdns.org&type=ws&host=moshali.arshiacomplus.dpdns.org&path=/moshaliplus#🇳🇱[openproxylist.com]
+trojan://XWnVX2ASHl@5.255.103.217:37757?allowInsecure=0&sni=🔒
 trojan://XWnVX2ASHl@5.255.103.217:37757?type=ws&path=%2Fmoshaliplus&host=moshali.arshiacomplus.dpdns.org&security=tls&fp=firefox&alpn=http%2F1.1&sni=moshali.arshiacomplus.dpdns.org#tr-ws-tls-e70f44vs
 trojan://XWnVX2ASHl@5.255.103.217:37757?type=ws&path=🔒
 trojan://Xa4%5El(%3B.%3BB%23a@104.18.26.90:443/?type=ws&host=s1.mitivpn.workers.dev&path=%2FtrUXByA1rnbs4YQ1Xw%3Fed%3D2560&security=tls&sni=S1.mitivpN.wOrKeRS.DEV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized#Join%20To%20%40IRAN_V2RAY1
@@ -4753,10 +4757,8 @@ trojan://auto@104.20.21.229:443/?type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&
 trojan://auto@104.20.21.229:443?security=tls&type=ws&sni=🔒
 trojan://auto@104.20.21.251:443/?type=tcp&security=tls&sni=🔒
 trojan://auto@104.20.21.251:443/?type=ws&security=tls&sni=b96e...
-trojan://auto@104.20.21.32:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B19%5D
 trojan://auto@104.20.21.32:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#@Hope_Net-join-us-on-Telegram
 trojan://auto@104.20.21.32:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#[🇨🇦]t.me/ConfigsHub
-trojan://auto@104.20.21.32:443?security=tls&sni=🔒
 trojan://auto@104.20.21.3:443/?type=ws&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev
 trojan://auto@104.20.21.78:443/?type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://auto@104.20.21.99:443/?type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev#%40Hope_Net-join-us-on-Telegram
