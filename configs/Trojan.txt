@@ -122,7 +122,7 @@ trojan://07efa45f-7c1b-4fca-8c1a-dba8ea554551@test98.alicesss.repl.co:443?securi
 trojan://08964210-e7b8-11ec-95aa-1239d0255272@w12.udpgw.com:443?security=tls
 trojan://08964210-e7b8-11ec-95aa-1239d0255272@w12.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.177.105-5845
 trojan://08f590e0-3f10-11f0-af92-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp
-trojan://09520f00-9f39-11ef-91e0-1239d0255272@151.101.194.219:443?sni=usa.test3.net&type=ws&host=usa.test3.net&path=%2Fhowdy#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B20%5D
+trojan://09520f00-9f39-11ef-91e0-1239d0255272@151.101.194.219:443?sni=usa.test3.net&type=ws&host=usa.test3.net&path=%2Fhowdy#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B18%5D
 trojan://09520f00-9f39-11ef-91e0-1239d0255272@151.101.194.219:443?sni=usa.test3.net&type=ws&host=usa.test3.net&path=%2Fhowdy#@Hope_Net-join-us-on-Telegram
 trojan://09520f00-9f39-11ef-91e0-1239d0255272@151.101.194.219:443?sni=usa.test3.net&type=ws&host=usa.test3.net&path=%2Fhowdy#[🇨🇦]t.me/ConfigsHub
 trojan://09520f00-9f39-11ef-91e0-1239d0255272@151.101.194.219:443?sni=🔒
@@ -4109,8 +4109,6 @@ trojan://NISHIKUITAN111@92.53.191.173:443/?type=tcp&security=tls#%40Hope_Net-joi
 trojan://NISHIKUITAN111@94.242.229.89:443?allowInsecure=1
 trojan://NISHIKUITAN222@104.16.25.100:443#RELAY🚩
 trojan://NISHIKUITAN222@104.16.25.100:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN222@104.16.25.100:443?allowInsecure=1
-trojan://NISHIKUITAN222@104.16.25.100:443?allowInsecure=1#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B18%5D
 trojan://NISHIKUITAN222@104.16.25.100:443?allowInsecure=1#@Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN222@104.16.25.100:443?allowInsecure=1#[🇨🇦]t.me/ConfigsHub
 trojan://NISHIKUITAN222@104.16.40.237:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
@@ -4429,9 +4427,7 @@ trojan://WpfQAbO2wg@45.9.10.103:443/?type=tcp&security=tls
 trojan://WpfQAbO2wg@45.9.10.103:443/?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B8US-45.9.10.103-4484
 trojan://WpfQAbO2wg@45.9.10.103:443?security=tls
 trojan://WpfQAbO2wg@45.9.10.103:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-45.9.10.103-4378
-trojan://WyRE1b2elC@map.wimax.cc:8443?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&fp=safari&type=tcp&sni=map.wimax.cc#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40free4allvpn%20%5B16%5D
 trojan://WyRE1b2elC@map.wimax.cc:8443?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&fp=safari&type=tcp&sni=map.wimax.cc#United%20States%20Relayed
-trojan://WyRE1b2elC@map.wimax.cc:8443?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&fp=safari&type=tcp&sni=🔒
 trojan://WyRE1b2elC@map.wimax.cc:8443?type=tcp&security=tls&sni=map.wimax.cc&alpn=h2%2Chttp%2F1.1&fp=safari#US🇺🇸
 trojan://XWnVX2ASHl@5.255.103.217:37757?allowInsecure=0&sni=moshali.arshiacomplus.dpdns.org&type=ws&host=moshali.arshiacomplus.dpdns.org&path=/moshaliplus#🇳🇱[openproxylist.com]
 trojan://XWnVX2ASHl@5.255.103.217:37757?allowInsecure=0&sni=🔒
