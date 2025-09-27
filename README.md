@@ -7,13 +7,13 @@
   <img src="https://img.shields.io/github/last-commit/Argh94/V2RayAutoConfig?style=flat-square" alt="Last Commit" />
   <br>
   <img src="https://img.shields.io/github/issues/Argh94/V2RayAutoConfig?style=flat-square" alt="GitHub Issues" />
-  <img src="https://img.shields.io/badge/Configs-87617-blue?style=flat-square" alt="Total Configs" />
+  <img src="https://img.shields.io/badge/Configs-87560-blue?style=flat-square" alt="Total Configs" />
   <img src="https://img.shields.io/github/stars/Argh94/V2RayAutoConfig?style=social" alt="GitHub Stars" />
   <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square" alt="Project Status" />
   <img src="https://img.shields.io/badge/language-فارسی%20%26%20English-007EC6?style=flat-square" alt="Language" />
 </p>
 
-## آخرین به‌روزرسانی: 13:47 05-07-1404
+## آخرین به‌روزرسانی: 14:04 05-07-1404
 
 ---
 
@@ -25,19 +25,19 @@
 ---
 
 ## 📁 کانفیگ‌های پروتکل‌ها
-در حال حاضر 87617 کانفیگ در دسترس است.
+در حال حاضر 87560 کانفیگ در دسترس است.
 
 <div align="center">
 
 | پروتکل | تعداد | لینک دانلود |
 |:-------:|:-----:|:------------:|
 | Hysteria2 | 110 | [`Hysteria2.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Hysteria2.txt) |
-| ShadowSocks | 45238 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/ShadowSocks.txt) |
+| ShadowSocks | 45205 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/ShadowSocks.txt) |
 | ShadowSocksR | 35 | [`ShadowSocksR.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/ShadowSocksR.txt) |
-| Trojan | 8018 | [`Trojan.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Trojan.txt) |
+| Trojan | 8013 | [`Trojan.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Trojan.txt) |
 | Tuic | 15 | [`Tuic.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Tuic.txt) |
-| Vless | 27737 | [`Vless.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vless.txt) |
-| Vmess | 6450 | [`Vmess.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vmess.txt) |
+| Vless | 27719 | [`Vless.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vless.txt) |
+| Vmess | 6449 | [`Vmess.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vmess.txt) |
 | WireGuard | 14 | [`WireGuard.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/WireGuard.txt) |
 </div>
 
