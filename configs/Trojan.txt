@@ -486,6 +486,7 @@ trojan://253bc477d4e43c209f2d427272968280@153.121.51.29:1802/?type=tcp&security=
 trojan://253bc477d4e43c209f2d427272968280@153.121.51.29:1802?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.51.29-0639
 trojan://253bc477d4e43c209f2d427272968280@153.121.51.29:409/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.51.29-0637
 trojan://253bc477d4e43c209f2d427272968280@153.121.51.29:409?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%20%E4%B8%9C%E4%BA%ACSAKURA%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://253bc477d4e43c209f2d427272968280@153.121.51.29:409?allowInsecure=0&sni=🔒
 trojan://253bc477d4e43c209f2d427272968280@153.121.51.29:409?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.51.29-0632
 trojan://253bc477d4e43c209f2d427272968280@153.121.51.29:409?security=tls&sni=🔒
 trojan://253bc477d4e43c209f2d427272968280@153.121.73.102:3294?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.73.102-0659
@@ -566,6 +567,7 @@ trojan://253bc477d4e43c209f2d427272968280@160.16.72.33:1924?security=tls&sni=www
 trojan://253bc477d4e43c209f2d427272968280@160.16.72.33:1924?security=tls&sni=🔒
 trojan://253bc477d4e43c209f2d427272968280@160.16.72.33:2173/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.72.33-0571
 trojan://253bc477d4e43c209f2d427272968280@160.16.72.33:2173?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%20%E4%B8%9C%E4%BA%AC%E6%A8%B1%E8%8A%B1%E7%BD%91%E7%BB%9C%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://253bc477d4e43c209f2d427272968280@160.16.72.33:2173?allowInsecure=0&sni=🔒
 trojan://253bc477d4e43c209f2d427272968280@160.16.72.33:2173?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.72.33-0626
 trojan://253bc477d4e43c209f2d427272968280@160.16.72.33:2173?security=tls&sni=🔒
 trojan://253bc477d4e43c209f2d427272968280@160.16.72.33:3294?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.72.33-0657
@@ -1093,6 +1095,7 @@ trojan://4b0915d7-8544-5d48-946a-a708d7288447@104.17.147.22:2052/?type=httpupgra
 trojan://4b0915d7-8544-5d48-946a-a708d7288447@104.17.147.22:2052/?type=httpupgrade&host=www-domain.ua1.vless.sitespeedtest.net&path=🔒
 trojan://4b0915d7-8544-5d48-946a-a708d7288447@104.17.148.22:2052/?type=httpupgrade&host=www-domain.ua1.vless.sitespeedtest.net#%40Hope_Net-join-us-on-Telegram
 trojan://4b0915d7-8544-5d48-946a-a708d7288447@104.17.148.22:2052?security=none&type=httpupgrade&path=%2Fhttpupgrade%3Fed%3DTelegram%40Linkvws%3Fed%3D2560&host=www-domain.ua1.vless.sitespeedtest.net#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B19%5D
+trojan://4b0915d7-8544-5d48-946a-a708d7288447@104.17.148.22:2052?security=none&type=httpupgrade&path=🔒
 trojan://4b33b482-25bc-49e4-b866-878c914d945a@104.21.7.147:443/?type=tcp&security=tls&sni=44444444.HuanGShANG.DPDNs.oRG#%F0%9F%8F%81RELAY-104.21.7.147-0189
 trojan://4b33b482-25bc-49e4-b866-878c914d945a@104.21.7.147:443/?type=tcp&security=tls&sni=🔒
 trojan://4bacb8f1a089763b@5.44.249.50:3389?security=tls&allowInsecure=1&type=tcp
@@ -5138,7 +5141,6 @@ trojan://auto@172.64.35.148:443/?type=tcp&security=tls&sni=🔒
 trojan://auto@172.64.35.154:443/?type=ws&security=tls&sni=trojan...
 trojan://auto@172.64.35.159:443/?type=tcp&security=tls&sni=🔒
 trojan://auto@172.64.35.176:443/?type=ws&host=trojanmz.pages.dev&security=tls&sni=trojanmz.pages.dev#%40Hope_Net-join-us-on-Telegram
-trojan://auto@172.64.35.176:443?security=tls&type=ws&sni=🔒
 trojan://auto@172.64.35.202:443/?type=tcp&security=tls&sni=🔒
 trojan://auto@172.64.35.202:443/?type=ws&host=trojanmz.pages.dev&security=tls&sni=trojanmz.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://auto@172.64.35.202:443?security=tls&type=ws&sni=🔒
