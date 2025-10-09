@@ -646,6 +646,7 @@ trojan://253bc477d4e43c209f2d427272968280@36.156.102.78:409?allowInsecure=1&sni=
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.78:409?security=tls&sni=🔒
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.78:409?sni=🔒
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:1572?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:1572?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3%20%E6%B1%9F%E8%8B%8F%E7%9C%81%E7%9B%90%E5%9F%8E%E5%B8%82%20%E7%A7%BB%E5%8A%A8
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:1572?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:1572?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40stairnode
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:1572?allowInsecure=0&sni=🔒
@@ -2087,6 +2088,7 @@ trojan://8cb7ad4e-2d61-3950-bb33-1d2cc3e653dd@43.206.140.241:443?allowInsecure=1
 trojan://8cdf33dd-0a05-419e-b9d6-435eb5cb3e07@fsctw.1234567890spcloud.com:20001?type=tcp&sni=🔒
 trojan://8cf18212-6899-4d09-9cdc-b7dd91cc4611@v01.gutingting.com:30050/?type=tcp&security=tls&sni=🔒
 trojan://8cf18212-6899-4d09-9cdc-b7dd91cc4611@v01.gutingting.com:30050?security=tls&sni=🔒
+trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@74.226.136.204:443#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B19%5D
 trojan://8d2d5953-d649-4034-94f2-72f2df2623da@168.138.44.176:443?security=tls
 trojan://8d2d5953-d649-4034-94f2-72f2df2623da@168.138.44.176:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-168.138.44.176-1087
 trojan://8d2d5953-d649-4034-94f2-72f2df2623da@168.138.44.176:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-168.138.44.176-3516
@@ -4901,7 +4903,7 @@ trojan://auto@104.17.64.70:443/?type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz
 trojan://auto@104.18.1.89:443/?type=tcp&security=tls&sni=🔒
 trojan://auto@104.18.1.89:443/?type=ws&host=join-midas-x-x-----join-midas-x-x-----join-midas-x-x.join-midas-x-x-a14.workers.dev&path=%2F%3Fed%3D2560&security=tls&sni=join-midas-x-x-----join-midas-x-x-----join-midas-x-x.join-midas-x-x-a14.workers.dev#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
 trojan://auto@104.18.1.89:443/?type=ws&host=join-midas-x-x-----join-midas-x-x-----join-midas-x-x.join-midas-x-x-a14.workers.dev&path=🔒
-trojan://auto@104.18.1.89:443?security=tls&type=ws&sni=join-midas-x-x-----join-midas-x-x-----join-midas-x-x.join-midas-x-x-a14.workers.dev&path=%2F%3Fed%3D2560&host=join-midas-x-x-----join-midas-x-x-----join-midas-x-x.join-midas-x-x-a14.workers.dev#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B20%5D
+trojan://auto@104.18.1.89:443?security=tls&type=ws&sni=join-midas-x-x-----join-midas-x-x-----join-midas-x-x.join-midas-x-x-a14.workers.dev&path=%2F%3Fed%3D2560&host=join-midas-x-x-----join-midas-x-x-----join-midas-x-x.join-midas-x-x-a14.workers.dev#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B18%5D
 trojan://auto@104.18.1.89:443?security=tls&type=ws&sni=🔒
 trojan://auto@104.18.12.229:2053/?type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://auto@104.18.41.190:443/?type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&security=tls&sni=trojanmz.pages.dev#...
