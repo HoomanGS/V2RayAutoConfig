@@ -336,6 +336,7 @@ trojan://15f34214-d8de-41e9-ba72-93daeafc59ef@104.18.32.47:2087/?type=ws&host=su
 trojan://15f34214-d8de-41e9-ba72-93daeafc59ef@chatgpt.com:2087/?type=ws&host=subhiddify.mmdv2.host&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&sni=subhiddify.mmdv2.host#%40Hope_Net-join-us-on-Telegram
 trojan://16132fb0-4945-11f0-a95e-1239d0255272@sg4.6n6.net:443?security=tls&headerType=none&type=tcp
 trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000/?type=tcp&security=tls&sni=aliyun.com#%F0%9F%87%AD%F0%9F%87%B0HK-165.154.112.107-0654
+trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?allowInsecure=0
 trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?allowInsecure=0#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20UCloud
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80/?type=tcp&security=tls&sni=15.235.197.4#%F0%9F%87%B8%F0%9F%87%ACSG-15.235.197.4-9813
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80/?type=tcp&security=tls&sni=🔒
@@ -677,7 +678,6 @@ trojan://253bc477d4e43c209f2d427272968280@36.156.102.78:409/?type=tcp&security=t
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.78:409?allowInsecure=1&sni=🔒
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.78:409?security=tls&sni=🔒
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.78:409?sni=🔒
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:1572?allowInsecure=1&sni=🔒
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:1572?security=tls&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3CN-36.156.102.84-0669
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:1572?security=tls&sni=🔒
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:1572?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5
@@ -5073,7 +5073,6 @@ trojan://auto@172.64.35.135:443/?type=ws&host=trojanmz.pages.dev&path=%2Ftrojanm
 trojan://auto@172.64.35.148:443/?type=tcp&security=tls&sni=🔒
 trojan://auto@172.64.35.154:443/?type=ws&security=tls&sni=trojan...
 trojan://auto@172.64.35.159:443/?type=tcp&security=tls&sni=🔒
-trojan://auto@172.64.35.168:443?security=tls&sni=🔒
 trojan://auto@172.64.35.176:443/?type=ws&host=trojanmz.pages.dev&security=tls&sni=trojanmz.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://auto@172.64.35.202:443/?type=tcp&security=tls&sni=🔒
 trojan://auto@172.64.35.202:443/?type=ws&host=trojanmz.pages.dev&security=tls&sni=trojanmz.pages.dev#%40Hope_Net-join-us-on-Telegram
@@ -6959,7 +6958,6 @@ trojan://iwangjie@135.125.232.253:2053?allowInsecure=0&sni=🔒
 trojan://iwangjie@135.125.232.253:2053?security=tls&sni=nodes.830901.xyz&type=ws&path=%2F%3Fed%3D2560&Host=nodes.830901.xyz#%F0%9F%87%AB%F0%9F%87%B7FR-135.125.232.253-1410
 trojan://iwangjie@135.125.232.253:2053?sni=nodes.830901.xyz#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD2
 trojan://iwangjie@135.125.232.253:2053?sni=🔒
-trojan://iwangjie@138.124.118.34:443?allowInsecure=0&sni=🔒
 trojan://iwangjie@138.124.118.34:443?security=tls&sni=nodes.830901.xyz&type=ws&path=%2Fproxyip%3Dproxyip.fxxk.dedyn.io&Host=nodes.830901.xyz#%F0%9F%87%AB%F0%9F%87%AEFI-138.124.118.34-1412
 trojan://iwangjie@138.124.118.34:443?security=tls&sni=🔒
 trojan://iwangjie@138.124.118.34:443?sni=nodes.830901.xyz#%F0%9F%87%A8%F0%9F%87%ADCH%E7%91%9E%E5%A3%AB
