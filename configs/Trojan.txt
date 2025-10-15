@@ -339,15 +339,19 @@ trojan://152e80d0-489e-11f0-af5e-1239d0255272@fr1.test3.net:443?security=tls&hea
 trojan://15387474-c50e-4eab-ae51-47f60436fb46@139.162.144.54:52312?allowInsecure=1&sni=0.0.0.0#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 trojan://15387474-c50e-4eab-ae51-47f60436fb46@139.162.144.54:52312?allowInsecure=1&sni=🔒
 trojan://15387474-c50e-4eab-ae51-47f60436fb46@139.162.144.54:52312?sni=0.0.0.0#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD3
+trojan://15387474-c50e-4eab-ae51-47f60436fb46@139.162.144.54:52312?sni=🔒
 trojan://15387474-c50e-4eab-ae51-47f60436fb46@139.162.180.57:52312?allowInsecure=1&sni=0.0.0.0#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 trojan://15387474-c50e-4eab-ae51-47f60436fb46@139.162.180.57:52312?allowInsecure=1&sni=🔒
 trojan://15387474-c50e-4eab-ae51-47f60436fb46@139.162.180.57:52312?sni=0.0.0.0#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD8
+trojan://15387474-c50e-4eab-ae51-47f60436fb46@139.162.180.57:52312?sni=🔒
 trojan://15387474-c50e-4eab-ae51-47f60436fb46@205.198.95.254:52312?allowInsecure=1&sni=0.0.0.0#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 trojan://15387474-c50e-4eab-ae51-47f60436fb46@205.198.95.254:52312?allowInsecure=1&sni=🔒
 trojan://15387474-c50e-4eab-ae51-47f60436fb46@205.198.95.254:52312?sni=0.0.0.0#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
+trojan://15387474-c50e-4eab-ae51-47f60436fb46@205.198.95.254:52312?sni=🔒
 trojan://15387474-c50e-4eab-ae51-47f60436fb46@46.3.36.215:52155?allowInsecure=1&sni=0.0.0.0#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 trojan://15387474-c50e-4eab-ae51-47f60436fb46@46.3.36.215:52155?allowInsecure=1&sni=🔒
 trojan://15387474-c50e-4eab-ae51-47f60436fb46@46.3.36.215:52155?sni=0.0.0.0#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD6
+trojan://15387474-c50e-4eab-ae51-47f60436fb46@46.3.36.215:52155?sni=🔒
 trojan://157bbeb0-489f-11f0-ab40-1239d0255272@usa.test3.net:443?security=tls&headerType=none&type=tcp
 trojan://15f34214-d8de-41e9-ba72-93daeafc59ef@104.18.32.47:2087/?type=ws&host=subhiddify.mmdv2.host&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&sni=subhiddify.mmdv2.host#%40Hope_Net-join-us-on-Telegram
 trojan://15f34214-d8de-41e9-ba72-93daeafc59ef@104.18.32.47:2087/?type=ws&host=subhiddify.mmdv2.host&path=🔒
@@ -4697,7 +4701,6 @@ trojan://ab33eed0-4684-11f0-8b81-1239d0255272@usa.test3.net:443?security=tls&hea
 trojan://aba831c0-4213-11f0-a2d6-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp
 trojan://abd16f44-12ca-4078-8345-11bcb4cd0fbd@104.21.70.241:443?security=tls&sni=gamang.gpj2.dpdns.org&type=ws&path=/Free-VPN-Geo-Project/92.178.109.187-443&Host=gamang.gpj2.dpdns.org#%F0%9F%8F%81RELAY-104.21.70.241-0670
 trojan://abd16f44-12ca-4078-8345-11bcb4cd0fbd@104.21.70.241:443?security=tls&sni=🔒
-trojan://acbcbaa-caab-acba-acbd-bacaccabbacb@127.0.0.1:8080?security=tls&type=tcp
 trojan://acfef609-b3c7-4e52-b292-8921d5fca90d@ca-full.privateip.net:443?security=tls
 trojan://acfef609-b3c7-4e52-b292-8921d5fca90d@ca-full.privateip.net:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-148.113.207.224-5844
 trojan://ad4a124c-12fb-4467-9ad0-dc6d9b509ac0@104.21.23.162:443/?type=tcp&security=tls&sni=7mmm.131.pp.ua#%40Hope_Net-join-us-on-Telegram
@@ -6678,7 +6681,6 @@ trojan://e9368912c4ed6046dca6949229cbff02@221.128.195.222:4400?security=tls&sni=
 trojan://e9368912c4ed6046dca6949229cbff02@221.128.195.222:4400?sni=🔒
 trojan://e9368912c4ed6046dca6949229cbff02@36.156.102.84:1920?security=tls&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3CN-36.156.102.84-1126
 trojan://e9368912c4ed6046dca6949229cbff02@36.156.102.84:1920?security=tls&sni=🔒
-trojan://e9368912c4ed6046dca6949229cbff02@36.156.102.84:1920?sni=🔒
 trojan://e9368912c4ed6046dca6949229cbff02@36.156.102.84:2173?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
 trojan://e9368912c4ed6046dca6949229cbff02@36.156.102.84:2173?allowInsecure=1&sni=🔒
 trojan://e9368912c4ed6046dca6949229cbff02@36.156.102.84:2173?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
@@ -7718,7 +7720,6 @@ trojan://tg-fq521free@45.67.215.95:443/?type=ws&host=torjan.xn--xhq44j.eu.org&pa
 trojan://tg-fq521free@45.67.215.95:443?allowInsecure=0&sni=🔒
 trojan://tg-fq521free@45.67.215.95:443?type=ws&sni=🔒
 trojan://trojan@104.18.12.229:8443/?type=tcp&security=tls&sni=mav2fly...&allowInsecure=1
-trojan://trojan@104.18.13.229:8443?encryption=none&security=tls&sni=🔒
 trojan://trojan@104.18.13.229:8443?security=tls&sni=pangpi.pages.dev&fp=random&type=ws&host=pangpi.pages.dev&path=%2F%3Fed%3D2560#RELAY🚩
 trojan://trojan@104.18.13.229:8443?security=tls&sni=🔒
 trojan://trojan@104.18.4.250:2053/?type=ws&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&path=%2F%3Fed%3D2560&security=tls&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#%40Hope_Net-join-us-on-Telegram
