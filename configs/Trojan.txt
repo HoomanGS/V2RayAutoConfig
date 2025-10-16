@@ -5061,6 +5061,8 @@ trojan://auto@162.159.44.202:443/?type=tcp&security=tls&sni=🔒
 trojan://auto@162.159.44.205:443/?type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev
 trojan://auto@162.159.44.209:443/?type=ws&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev
 trojan://auto@162.159.44.83:443/?type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&security=tls&sni=trojanmz.pages.dev#...
+trojan://auto@172.64.146.66:443?security=tls&type=ws&sni=trojanfree-76s.pages.dev&path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560&host=trojanfree-76s.pages.dev#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B20%5D
+trojan://auto@172.64.146.66:443?security=tls&type=ws&sni=🔒
 trojan://auto@172.64.35.110:443/?type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://auto@172.64.35.135:443/?type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&security=tls&sni=trojanmz.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://auto@172.64.35.148:443/?type=tcp&security=tls&sni=🔒
@@ -6355,9 +6357,7 @@ trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.138.24:5041?allowInsecure=1&sni
 trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.138.24:5041?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.138.24:5041?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40stairnode
 trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.138.24:5041?allowInsecure=1&sni=🔒
-trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.138.24:5041?security=tls&headerType=none&type=tcp&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40free4allvpn%20%5B19%5D
 trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.138.24:5041?security=tls&headerType=none&type=tcp&sni=www.baidu.com#Singapore%20Congent%20Conmunications
-trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.138.24:5041?security=tls&headerType=none&type=tcp&sni=🔒
 trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.138.24:5041?security=tls&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.138.24-0582
 trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.138.24:5041?security=tls&sni=🔒
 trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.138.24:5041?sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
@@ -8190,8 +8190,6 @@ trojan://tunnel-astrovpn_official028@92.112.126.22:8441?security=tls&sni=🔒
 trojan://tunnel-astrovpn_official029@213.108.198.158:8441/?type=tcp&security=tls&sni=🔒
 trojan://tunnel-astrovpn_official029@213.108.198.158:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=213.108.198.158#@AstroVPN_Official
 trojan://tunnel-astrovpn_official029@213.108.198.158:8441?security=tls&sni=🔒
-trojan://tunnel-astrovpn_official103@213.108.198.158:8441?security=tls&alpn=http%2F1.1&host=213.108.198.158&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40free4allvpn%20%5B18%5D
-trojan://tunnel-astrovpn_official103@213.108.198.158:8441?security=tls&alpn=http%2F1.1&host=213.108.198.158&headerType=none&type=tcp&sni=🔒
 trojan://tunnel-astrovpn_official103@213.108.198.158:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=213.108.198.158#[@AstroVPN_Official]
 trojan://tunnel-astrovpn_official103@213.108.198.158:8441?security=tls&sni=🔒
 trojan://tunnel-astrovpn_official192@92.112.126.22:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=92.112.126.22#[AstroVPN_Official]
