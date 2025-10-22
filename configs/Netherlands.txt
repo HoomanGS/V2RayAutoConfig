@@ -350,7 +350,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637251670.london-blkaft-aaag.
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637251670.london-blkaft-aaag.info:8880?type=grpc&encryption=none&flow=#NL🇳🇱
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638958548654810191.arak-blkaft-aaaj.info:8880?mode=&security=&alpn=&encryption=none&fp=&type=grpc&serviceName=&sni=&allowInsecure=#NL🇳🇱
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638960333654557931.neyshabur-blkaft-aaak.info:8880?mode=&security=&alpn=&encryption=none&fp=&type=grpc&serviceName=&sni=&allowInsecure=#NL🇳🇱
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@77.91.123.207:8880?security=&encryption=none&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpnplusee_free%20%5B15%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.172:8880?encryption=none&security=none&type=grpc#NL🇳🇱
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.172:8880?mode=gun&security=none&encryption=none&type=grpc#NL🇳🇱
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880/?type=grpc&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40freeconfigsplus%20%5B20%5D
@@ -517,7 +516,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637251670.london-blkaft-aa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637251670.london-blkaft-aaag.info:8880?type=grpc&encryption=none&flow=#NL🇳🇱
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958548654810191.arak-blkaft-aaaj.info:8880?mode=&security=&alpn=&encryption=none&fp=&type=grpc&serviceName=&sni=&allowInsecure=#NL🇳🇱
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960333654557931.neyshabur-blkaft-aaak.info:8880?mode=&security=&alpn=&encryption=none&fp=&type=grpc&serviceName=&sni=&allowInsecure=#NL🇳🇱
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@77.91.123.207:8880?security=&encryption=none&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpnplusee_free%20%5B15%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.172:8880?encryption=none&security=none&type=grpc#NL🇳🇱
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.172:8880?mode=gun&security=none&encryption=none&type=grpc#NL🇳🇱
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880/?type=grpc&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40freeconfigsplus%20%5B20%5D
@@ -589,4 +587,5 @@ vmess://eyJhZGQiOiIxNjMuMTcyLjIyMC43MSIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIwMDNm
 vmess://eyJhZGQiOiIxODUuMTk1LjY1LjIwOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4ZDM2NzRkOC1kNTAzLTRjZjYtOTZkNi0zYjM5OTA3Yzg1NmUiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLz92IiwicG9ydCI6IjQ0MyIsInBzIjoiTkxcdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjEgfCAxODUuMTk1LjY1LjIwOS00NDMgfCAxNTguNW1zIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxOTUuNTQuMTc0LjE4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIxOTUuNTQuMTc0LjE4IiwiaWQiOiI2ZDZmNDEzZi0zZGMyLTRkMDItOGQzNS04YjQ1ZTM5ZmViNzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiLwn4ez8J+HsU5MLTE5NS41NC4xNzQuMTgtMTUxNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
 vmess://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiNDQ1NzkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwicHMiOiJcdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjEgTkwgfCBcdWQ4M2RcdWRkMTMgVk1FU1MgfCBAZnJlZTFfdnBuIFs2XSJ9
+vmess://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiNDQ1NzkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwicHMiOiJcdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjEgTkwgfCBcdWQ4M2RcdWRkMTMgVk1FU1MgfCBAcHJyb2ZpbGVfcHVycGxlIFsxNDRdIn0
 vmess://eyJhZGQiOiJlZTEuZGFhbGx5Z29sZC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWY1YTBkMGMtYzg5OC00YTUxLWJhNmEtNDcxNzlkNDgzZTQxIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MjI2MiIsInBzIjoi8J+Hs/Cfh7EgTkwgfCDwn5STIFZNRVNTIHwgQGNvbmZpZ2Zhc3QgWzFdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
