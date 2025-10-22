@@ -2043,6 +2043,7 @@ trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012/?type=tcp&sec
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012/?type=tcp&security=tls&sni=🔒
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#%3E%3E%40configV2rayNG%3A%3AUS
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#%E2%8F%B064%40ConfigV2RayNG
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=🔒
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.109:11013/?type=tcp&security=tls&sni=wus03.weyaf9sdoh2h.space#%3E%3E%40oneclickvpnkeys%3A%3AUS
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.109:11013/?type=tcp&security=tls&sni=🔒
@@ -2053,6 +2054,7 @@ trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014/?type=tcp&sec
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014/?type=tcp&security=tls&sni=🔒
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&type=tcp&sni=wus04.weyaf9sdoh2h.space#%3E%3E%40configV2rayNG%3A%3AUS
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&type=tcp&sni=wus04.weyaf9sdoh2h.space#%E2%8F%B065%40ConfigV2RayNG
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&type=tcp&sni=wus04.weyaf9sdoh2h.space#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&type=tcp&sni=🔒
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.111:11015/?type=tcp&security=tls&sni=wus05.weyaf9sdoh2h.space#%3E%3E%40oneclickvpnkeys%3A%3AUS
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.111:11015/?type=tcp&security=tls&sni=🔒
@@ -5657,8 +5659,6 @@ trojan://auto@188.114.96.0:443/?type=ws&path=%2Ftrojanfree-76s.pages.dev%2F%3Fed
 trojan://auto@188.114.99.222:443/?type=tcp&security=tls&sni=🔒
 trojan://auto@188.114.99.81:443?security=tls&sni=🔒
 trojan://auto@194.53.53.4:443/?type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev#%40Hope_N...
-trojan://auto@194.53.53.4:443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=%2F&host=e9464f45.trauma-2r4.pages.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B18%5D
-trojan://auto@194.53.53.4:443?security=tls&type=ws&sni=🔒
 trojan://auto@[2a06:98c1:3121::3]:443?security=tls&sni=🔒
 trojan://auto@dcf741e8.epeius-2gy.pages.dev:443/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=dcf741e8.epeius-2gy.pages.dev#%F0%9F%8F%81RELAY-172.66.45.2-0599
 trojan://auto@dcf741e8.epeius-2gy.pages.dev:443?security=tls&sni=dcf741e8.epeius-2gy.pages.dev&type=ws&path=/?ed=2560&Host=dcf741e8.epeius-2gy.pages.dev#%F0%9F%8F%81RELAY-172.66.45.2-0753
@@ -7718,10 +7718,8 @@ trojan://jagoanssh-Aweqdcc@104.21.32.17:443?security=tls&sni=🔒
 trojan://join-bede-daily-configs@104.18.4.46:2083/?type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&security=tls&sni=kanale-daily-configs.blackoutconnection.ir#%40Hope_Net-join-us-on-Telegram
 trojan://join-bede-daily-configs@104.18.41.190:8443/?type=ws&path=%2FTELEGRAM%3A%40Da...&security=tls&sni=kanale-daily-configs.blackoutconnection.ir
 trojan://join-bede-daily-configs@104.18.7.36:8443/?type=ws&host=kanale-daily-co...&security=tls&sni=kanale-daily-configs.blackoutconnection.ir
-trojan://join-bede-daily-configs@104.18.7.36:8443?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&host=kanale-daily-configs.blackoutconnection.ir#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B19%5D
 trojan://join-bede-daily-configs@104.18.7.36:8443?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&path=/TELEGRAM:@Daily_Configs?ed=2560&host=kanale-daily-configs.blackoutconnection.ir#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:27.49ms
 trojan://join-bede-daily-configs@104.18.7.36:8443?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&path=/TELEGRAM:@Daily_Configs?ed=2560&host=kanale-daily-configs.blackoutconnection.ir#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:27.87ms
-trojan://join-bede-daily-configs@104.18.7.36:8443?security=tls&type=ws&sni=🔒
 trojan://join-bede-daily-configs@172.64.146.66:8443/?type=ws&host=kanale-daily-configs.blackoutconnection.ir&security=tls&sni=kanale-daily-configs.blackoutconnection.ir#%40Hope_Net-join-us-on-Telegram
 trojan://juzi@104.19.57.183:2096?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#@awlix_ir
 trojan://juzi@104.19.57.183:2096?security=tls&sni=🔒
@@ -8373,6 +8371,7 @@ trojan://telegram-id-privatevpns@54.78.157.126:22222?security=tls&sni=🔒
 trojan://telegram-id-privatevpns@54.93.240.151:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-54.93.240.151-1984
 trojan://telegram-id-privatevpns@54.93.240.151:22222?security=tls&sni=🔒
 trojan://telegram-id-privatevpns@63.176.12.236:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
+trojan://telegram-id-privatevpns@63.176.244.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@63.177.14.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@63.177.155.28:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@63.177.173.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
