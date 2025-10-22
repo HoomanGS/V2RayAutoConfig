@@ -57,7 +57,6 @@ ss://af552d84-cefb-4952-a814-17f284c21080@51.68.189.39:80/?type=ws&encryption=no
 ss://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443/?type=ws&encryption=none&path=%2Fjzmdpvws&security=tls#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B9%F0%9F%87%B7
 ss://d8b42cd5-a149-4356-9e61-30ad83662600@91.107.159.217:443/?type=tcp&encryption=none&flow=#Channel%20id%3A%20%40v2rayng_021
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880/?type=grpc&encryption=none#Channel%20id%3A%20%40ShadowProxy66%20
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?security=&encryption=none&type=grpc#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%AB%F0%9F%87%B7
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880/?type=grpc&encryption=none#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638934319458527217.zagreb-drc-tusaby.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40v2rayng_021
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950330462892661.neyshabur-prx-dnraacr.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40v2rayng_021
@@ -263,7 +262,6 @@ vless://af552d84-cefb-4952-a814-17f284c21080@51.68.189.39:80/?type=ws&encryption
 vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443/?type=ws&encryption=none&path=%2Fjzmdpvws&security=tls#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B9%F0%9F%87%B7
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@91.107.159.217:443/?type=tcp&encryption=none&flow=#Channel%20id%3A%20%40v2rayng_021
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880/?type=grpc&encryption=none#Channel%20id%3A%20%40ShadowProxy66%20
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?security=&encryption=none&type=grpc#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%AB%F0%9F%87%B7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880/?type=grpc&encryption=none#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638934319458527217.zagreb-drc-tusaby.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40v2rayng_021
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950330462892661.neyshabur-prx-dnraacr.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40v2rayng_021
