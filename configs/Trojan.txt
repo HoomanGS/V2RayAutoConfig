@@ -909,6 +909,7 @@ trojan://3c4e10af98c30972@185.230.245.213:3306?security=tls&sni=🔒
 trojan://3c4e10af98c30972@23.247.137.64:443/?type=grpc&serviceName=db&security=tls&sni=🔒
 trojan://3c4e10af98c30972@60.248.114.184:3306?security=tls&sni=🔒
 trojan://3c77ad6b-9c9c-4aff-beff-0a16e2cdea15@naiu-hk.05vr9nyqg5.download:13008?allowInsecure=1&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF
+trojan://3c77ad6b-9c9c-4aff-beff-0a16e2cdea15@naiu-hk.05vr9nyqg5.download:13008?allowInsecure=1&sni=🔒
 trojan://3c77ad6b-9c9c-4aff-beff-0a16e2cdea15@naiu-hk.05vr9nyqg5.download:13008?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%AD%F0%9F%87%B0HK-103.181.165.200-1502
 trojan://3d2ed150-1019-11ee-8007-1239d0255272@206.168.190.219:2087?security=tls&sni=🔒
 trojan://3d558620-48a3-11f0-a79b-1239d0255272@sg3.6n6.net:443?security=tls&headerType=none&type=tcp
@@ -2087,14 +2088,18 @@ trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.111:11015?security=tls&
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.111:11015?security=tls&headerType=none&type=tcp&sni=🔒
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.111:11015?type=tcp&security=tls&sni=wus05.weyaf9sdoh2h.space#🇺🇸
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@37.202.200.11:12412?allowInsecure=0&sni=wjp04.weyaf9sdoh2h.space#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@37.202.200.11:12412?allowInsecure=0&sni=🔒
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@37.202.200.11:12412?allowInsecure=1&sni=wjp04.weyaf9sdoh2h.space#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@37.202.200.11:12412?allowInsecure=1&sni=wjp04.weyaf9sdoh2h.space#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@37.202.200.11:12412?allowInsecure=1&sni=🔒
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@37.202.200.11:12412?security=tls&sni=wjp04.weyaf9sdoh2h.space#%F0%9F%87%AF%F0%9F%87%B5JP-37.202.200.11-1494
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@37.202.200.11:12412?security=tls&sni=wjp04.weyaf9sdoh2h.space#%F0%9F%87%AF%F0%9F%87%B5JP-37.202.200.11-1496
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@37.202.200.11:12412?security=tls&sni=🔒
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@37.202.200.19:15013?allowInsecure=0&sni=jp02.weyaf9sdoh2h.space#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@37.202.200.19:15013?allowInsecure=0&sni=🔒
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@37.202.200.19:15013?allowInsecure=1&sni=jp02.weyaf9sdoh2h.space#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@37.202.200.19:15013?allowInsecure=1&sni=jp02.weyaf9sdoh2h.space#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@37.202.200.19:15013?allowInsecure=1&sni=🔒
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@37.202.200.19:15013?security=tls&sni=jp02.weyaf9sdoh2h.space#%F0%9F%87%AF%F0%9F%87%B5JP-37.202.200.19-1487
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@37.202.200.19:15013?security=tls&sni=jp02.weyaf9sdoh2h.space#%F0%9F%87%AF%F0%9F%87%B5JP-37.202.200.19-1498
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@37.202.200.19:15013?security=tls&sni=🔒
