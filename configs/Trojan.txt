@@ -8305,6 +8305,7 @@ trojan://telegram-id-privatevpns@15.236.122.160:22222?security=tls&sni=trj.rolli
 trojan://telegram-id-privatevpns@15.236.122.160:22222?security=tls&sni=🔒
 trojan://telegram-id-privatevpns@15.236.126.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@15.236.126.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@15.236.136.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@15.236.150.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@15.236.165.170:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B14%5D
 trojan://telegram-id-privatevpns@15.236.165.170:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=🔒
@@ -8490,7 +8491,6 @@ trojan://telegram-id-privatevpns@63.179.197.103:22222/?type=tcp&security=tls&sni
 trojan://telegram-id-privatevpns@63.179.40.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@63.179.73.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@63.179.81.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
-trojan://telegram-id-privatevpns@63.180.129.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@63.180.129.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.180.129.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪
 trojan://telegram-id-privatevpns@63.180.87.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪
@@ -9083,6 +9083,8 @@ trojan://vpn@109.120.132.80:2025?security=tls&sni=🔒
 trojan://vpn@2.56.125.113:2025/?type=ws&host=dns.google.com&path=🔒
 trojan://vpn@45.82.14.144:2025/?type=ws&host=dns.google.com&path=🔒
 trojan://vpn@45.82.14.144:2025/?type=ws&path=%2F&security=tls&sni=dns.google.com#%F0%9F%87%B7%F0%9F%87%BARU-45.82.14.144-0625
+trojan://vpn@45.82.14.144:2025?security=none&type=ws&host=dns.google.com&path=%2F#🇰🇿[openproxylist.com]
+trojan://vpn@45.82.14.144:2025?security=none&type=ws&host=dns.google.com&path=🔒
 trojan://vpn@45.82.14.144:2025?security=tls&sni=dns.google.com&type=ws&path=/&Host=dns.google.com#%F0%9F%87%B7%F0%9F%87%BARU-45.82.14.144-0826
 trojan://vpn@45.82.14.144:2025?security=tls&sni=🔒
 trojan://vpn@62.133.60.83:2025/?type=ws&host=dns.google.com&path=🔒
