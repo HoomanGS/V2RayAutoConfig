@@ -23,8 +23,8 @@ ss://0ba6ab83-ed33-4544-98b0-dcacb52799cd@109.120.150.205:443?type=tcp&encryptio
 ss://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?type=tcp&encryption=none&flow=#NL🇳🇱
 ss://0f52d2a3-151e-49ec-b816-afbfd269d521@nl2.asc-sam.ir:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=android&type=tcp#NL🇳🇱
 ss://0f52d2a3-151e-49ec-b816-afbfd269d521@nl2.asc-sam.ir:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#NL🇳🇱
-ss://12a50516-bdd0-4ca3-9260-8cccc9cb30d9@world-of.ru:443?type=tcp&encryption=none&security=reality&pbk=6bdxTggpMa9veyosJjxCvB3UPZmj-OquWTqp1iXAP3Y&fp=random&sni=google.com&sid=785be44fdf&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40config_proxy%20%5B58%5D
 ss://1901d9da-a3ca-44b2-9033-752aa449cc50@n1.robotklass.space:8443?flow=xtls-rprx-vision&fp=chrome&pbk=pUD3mOlIKBEtDyFWK0LsGkY7j__7vblFPXnEVoY9oVQ&security=reality&sid=22f040ed1037da8f&sni=google.com&type=tcp#REALITY|NL🇳🇱
+ss://19b7d4d8-de95-41cf-b270-a310cc21f151@a-lf-0.okamii.ir:2095?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40configv2rayforfree%20%5B4%5D
 ss://261e2282-9ccc-4e48-aed2-fa1244b6fdf5@85.17.142.172:1504?security=reality&encryption=none&pbk=gVZhQqdCjhe1A2HtU2yMre0dFQXX6hOOLY2vhmJhXQs&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&headerType=none&fp=random&spx=%2F&type=tcp&sni=journalofbigdata.springeropen.com#REALITY|NL🇳🇱
 ss://2b4bed25a5ef439d93b1395b7bcec58bOg==@45.131.208.238:80#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+45.131.208.238-80+%7C+6.37ms
 ss://2b4bed25a5ef439d93b1395b7bcec58bOg==@45.131.6.179:80#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+45.131.6.179-80+%7C+5.65ms
@@ -455,8 +455,8 @@ vless://0ba6ab83-ed33-4544-98b0-dcacb52799cd@109.120.150.205:443?type=tcp&encryp
 vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?type=tcp&encryption=none&flow=#NL🇳🇱
 vless://0f52d2a3-151e-49ec-b816-afbfd269d521@nl2.asc-sam.ir:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=android&type=tcp#NL🇳🇱
 vless://0f52d2a3-151e-49ec-b816-afbfd269d521@nl2.asc-sam.ir:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#NL🇳🇱
-vless://12a50516-bdd0-4ca3-9260-8cccc9cb30d9@world-of.ru:443?type=tcp&encryption=none&security=reality&pbk=6bdxTggpMa9veyosJjxCvB3UPZmj-OquWTqp1iXAP3Y&fp=random&sni=google.com&sid=785be44fdf&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40config_proxy%20%5B58%5D
 vless://1901d9da-a3ca-44b2-9033-752aa449cc50@n1.robotklass.space:8443?flow=xtls-rprx-vision&fp=chrome&pbk=pUD3mOlIKBEtDyFWK0LsGkY7j__7vblFPXnEVoY9oVQ&security=reality&sid=22f040ed1037da8f&sni=google.com&type=tcp#REALITY|NL🇳🇱
+vless://19b7d4d8-de95-41cf-b270-a310cc21f151@a-lf-0.okamii.ir:2095?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40configv2rayforfree%20%5B4%5D
 vless://261e2282-9ccc-4e48-aed2-fa1244b6fdf5@85.17.142.172:1504?security=reality&encryption=none&pbk=gVZhQqdCjhe1A2HtU2yMre0dFQXX6hOOLY2vhmJhXQs&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&headerType=none&fp=random&spx=%2F&type=tcp&sni=journalofbigdata.springeropen.com#REALITY|NL🇳🇱
 vless://2e23b585-a486-4541-83d8-5832a1409c6e@31.207.44.210:32155/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=6-b7u_t7wG_jbda_lucHW4Au9biBl1E0tA2Zkqm8mSw&sid=737af772#%3E%3E%40oneclickvpnkeys%3A%3ANL
 vless://2e23b585-a486-4541-83d8-5832a1409c6e@31.207.44.210:32155?security=reality&encryption=none&pbk=6-b7u_t7wG_jbda_lucHW4Au9biBl1E0tA2Zkqm8mSw&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=737af772#%3E%3E%40FreakConfig%3A%3ANL
