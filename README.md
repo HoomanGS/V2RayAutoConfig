@@ -7,13 +7,13 @@
   <img src="https://img.shields.io/github/last-commit/Argh94/V2RayAutoConfig?style=flat-square" alt="Last Commit" />
   <br>
   <img src="https://img.shields.io/github/issues/Argh94/V2RayAutoConfig?style=flat-square" alt="GitHub Issues" />
-  <img src="https://img.shields.io/badge/Configs-105122-blue?style=flat-square" alt="Total Configs" />
+  <img src="https://img.shields.io/badge/Configs-105054-blue?style=flat-square" alt="Total Configs" />
   <img src="https://img.shields.io/github/stars/Argh94/V2RayAutoConfig?style=social" alt="GitHub Stars" />
   <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square" alt="Project Status" />
   <img src="https://img.shields.io/badge/language-فارسی%20%26%20English-007EC6?style=flat-square" alt="Language" />
 </p>
 
-## آخرین به‌روزرسانی: 22:31 08-08-1404
+## آخرین به‌روزرسانی: 22:48 08-08-1404
 
 ---
 
@@ -25,19 +25,19 @@
 ---
 
 ## 📁 کانفیگ‌های پروتکل‌ها
-در حال حاضر 105122 کانفیگ در دسترس است.
+در حال حاضر 105054 کانفیگ در دسترس است.
 
 <div align="center">
 
 | پروتکل | تعداد | لینک دانلود |
 |:-------:|:-----:|:------------:|
 | Hysteria2 | 189 | [`Hysteria2.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Hysteria2.txt) |
-| ShadowSocks | 53688 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/ShadowSocks.txt) |
+| ShadowSocks | 53653 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/ShadowSocks.txt) |
 | ShadowSocksR | 27 | [`ShadowSocksR.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/ShadowSocksR.txt) |
-| Trojan | 9174 | [`Trojan.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Trojan.txt) |
+| Trojan | 9176 | [`Trojan.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Trojan.txt) |
 | Tuic | 13 | [`Tuic.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Tuic.txt) |
-| Vless | 34188 | [`Vless.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vless.txt) |
-| Vmess | 7843 | [`Vmess.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vmess.txt) |
+| Vless | 34157 | [`Vless.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vless.txt) |
+| Vmess | 7839 | [`Vmess.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vmess.txt) |
 </div>
 
 ---
@@ -59,7 +59,7 @@
 | <img src="https://flagcdn.com/w20/az.png" width="20" alt="Azerbaijan flag">  Azerbaijan (آذربایجان) | 6 | [`Azerbaijan.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Azerbaijan.txt) |
 | <img src="https://flagcdn.com/w20/bh.png" width="20" alt="Bahrain flag">  Bahrain (بحرین) | 6 | [`Bahrain.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Bahrain.txt) |
 | <img src="https://flagcdn.com/w20/by.png" width="20" alt="Belarus flag">  Belarus (بلاروس) | 3 | [`Belarus.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Belarus.txt) |
-| <img src="https://flagcdn.com/w20/be.png" width="20" alt="Belgium flag">  Belgium (بلژیک) | 18 | [`Belgium.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Belgium.txt) |
+| <img src="https://flagcdn.com/w20/be.png" width="20" alt="Belgium flag">  Belgium (بلژیک) | 17 | [`Belgium.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Belgium.txt) |
 | <img src="https://flagcdn.com/w20/bo.png" width="20" alt="Bolivia flag">  Bolivia (بولیوی) | 3 | [`Bolivia.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Bolivia.txt) |
 | <img src="https://flagcdn.com/w20/ba.png" width="20" alt="BosniaAndHerzegovina flag">  BosniaAndHerzegovina (بوسنی و هرزگوین) | 1 | [`BosniaAndHerzegovina.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/BosniaAndHerzegovina.txt) |
 | <img src="https://flagcdn.com/w20/br.png" width="20" alt="Brazil flag">  Brazil (برزیل) | 20 | [`Brazil.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Brazil.txt) |
