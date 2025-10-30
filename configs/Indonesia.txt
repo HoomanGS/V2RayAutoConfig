@@ -10,7 +10,6 @@ ss://12a50516-bdd0-4ca3-9260-8cccc9cb30d9@world-of.ru:443/?type=tcp&encryption=n
 ss://169824ec-2dfb-4132-932d-28eb48a74c23@hield.ru:3389/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=ios&security=reality&pbk=brMfFpfxMeNeqGqG0ZmWdwlnvZBfBTY92Jjyfz8Qyz4&sid=0274c94d298e#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%AE
 ss://1ae6dcb3-8d05-4eee-b550-32904c88c312@172.67.160.44:443/?type=ws&encryption=none&flow=&host=8dbc269c-38ed-0d38-7a26-970a14604a96.huangshang.site&path=%2F0SCvfqSaeeB74kgXZ&security=tls&sni=8dbc269c-38ed-0d38-7a26-970a14604a96.huangshang.site&fp=chrome#Channel%20id%3A%20%40ShadowProxy66%20
 ss://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&sid=2001#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B0%F0%9F%87%BF
-ss://2b7c27b9-dfba-430b-9ee7-88eb1c85af27@51.38.237.113:80?path=%2Fvless%2F&security=&encryption=none&host=---%40ShadowProxy66&type=ws#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%AB%F0%9F%87%B7
 ss://3f277f78-ef7c-4fab-982c-0ae1b0c0cf67@51.75.161.60:80/?type=ws&encryption=none&host=ShadowProxy66&path=%2Fvless%2F#Channel%20id%3A%20%40ShadowProxy66%20
 ss://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.100:80/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20
 ss://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.82:80/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20
@@ -366,7 +365,6 @@ vless://12a50516-bdd0-4ca3-9260-8cccc9cb30d9@world-of.ru:443/?type=tcp&encryptio
 vless://169824ec-2dfb-4132-932d-28eb48a74c23@hield.ru:3389/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=ios&security=reality&pbk=brMfFpfxMeNeqGqG0ZmWdwlnvZBfBTY92Jjyfz8Qyz4&sid=0274c94d298e#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%AE
 vless://1ae6dcb3-8d05-4eee-b550-32904c88c312@172.67.160.44:443/?type=ws&encryption=none&flow=&host=8dbc269c-38ed-0d38-7a26-970a14604a96.huangshang.site&path=%2F0SCvfqSaeeB74kgXZ&security=tls&sni=8dbc269c-38ed-0d38-7a26-970a14604a96.huangshang.site&fp=chrome#Channel%20id%3A%20%40ShadowProxy66%20
 vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&sid=2001#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B0%F0%9F%87%BF
-vless://2b7c27b9-dfba-430b-9ee7-88eb1c85af27@51.38.237.113:80?path=%2Fvless%2F&security=&encryption=none&host=---%40ShadowProxy66&type=ws#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%AB%F0%9F%87%B7
 vless://3f277f78-ef7c-4fab-982c-0ae1b0c0cf67@51.75.161.60:80/?type=ws&encryption=none&host=ShadowProxy66&path=%2Fvless%2F#Channel%20id%3A%20%40ShadowProxy66%20
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.100:80/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.82:80/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20
