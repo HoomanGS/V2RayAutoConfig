@@ -740,6 +740,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.160.116:22224?type=ws&securit
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.161.123:22224?type=ws&security=tls&path=🔒
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.163.65:22224/?type=ws&encryption=none&path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vlessconfig%20%5B14%5D
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.7.223:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vlessconfig%20%5B14%5D
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.7.223:22224?type=ws&security=tls&path=🔒
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.147.171:22224?type=ws&security=tls&path=🔒
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.102.149:22224?type=ws&security=tls&path=🔒
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.239.251:22224?type=ws&security=tls&path=🔒
@@ -774,7 +775,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.79.132.34:22224?type=ws&security=
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.233.14.96:22222?encryption=none&host=telegram-channel-vlessconfig.sohala.uk&path=🔒
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.218.101:22224?type=ws&security=tls&path=🔒
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.70.2:22224?type=ws&security=tls&path=🔒
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.127.0:22224?type=ws&security=tls&path=🔒
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.44.20.178:22222?encryption=none&host=telegram-channel-vlessconfig.sohala.uk&path=🔒
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.76.133.122:22222?security=tls&sni=🔒
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.173.183:22224?type=ws&security=tls&path=🔒
@@ -9484,7 +9484,7 @@ vless://4fd5c113-c44a-4af3-a113-9752bea94155@172.66.156.81:80?path=/@Shh_Proxy--
 vless://4fd5c113-c44a-4af3-a113-9752bea94155@172.66.156.81:80?path=🔒
 vless://4fd5c113-c44a-4af3-a113-9752bea94155@www.speedtest.net:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.store.&path=/%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79#🇸🇬[openproxylist.com]
 vless://4fd5c113-c44a-4af3-a113-9752bea94155@www.speedtest.net:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.store.&path=🔒
-vless://4fd5c113-c44a-4af3-a113-9752bea94155@www.speedtest.net:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.&path=/%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79#🌐سرور
+vless://4fd5c113-c44a-4af3-a113-9752bea94155@www.speedtest.net:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.&path=/%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79#🌐
 vless://4fd5c113-c44a-4af3-a113-9752bea94155@www.speedtest.net:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#r♡ya@V2rayBaaz
 vless://4fd5c113-c44a-4af3-a113-9752bea94155@www.speedtest.net:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#🇺🇸
 vless://4fd5c113-c44a-4af3-a113-9752bea94155@www.speedtest.net:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.&path=🔒
@@ -25497,7 +25497,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.201:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.201:8880?mode=gun&security=none&encryption=none&type=grpc#limo
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.201:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮@FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.201:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮[openproxylist.com]
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.201:8880?mode=gun&security=none&encryption=none&type=grpc#🌐
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.201:8880?mode=gun&security=none&encryption=none&type=grpc#🌐سرور
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.201:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:35.3ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.201:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:38.49ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.201:8880?security=&encryption=none&type=grpc#%F0%9F%A6%8042%40ConfigV2RayNG
