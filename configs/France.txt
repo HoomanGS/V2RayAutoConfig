@@ -58,6 +58,7 @@ ss://40e65a0d-df16-4759-a126-76fa359f51f5@51.159.96.121:443/?type=tcp&encryption
 ss://40e65a0d-df16-4759-a126-76fa359f51f5@51.159.96.121:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=ns3.turkeyone.org&allowInsecure=1#FR🇫🇷
 ss://43e22eed-612e-5166-6764-bf639febca7d@MPL.me1091.com:191?mode=gun&security=reality&encryption=none&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=firefox&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=e17185329455b179#REALITY|FR🇫🇷
 ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@35.181.58.119:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:188ms
+ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@51.44.175.243:443?encryption=none&security=reality&sni=store.steampowered.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&type=tcp&flow=xtls-rprx-vision&spx=%2F#France%2046%20dailyv2ry
 ss://69394f3f-e84c-44b3-96ae-46000130cf2b@5.189.190.60:34704?security=reality&encryption=none&pbk=Yl_Un-j1bd9icfC153HCUY_uRKWdj4D_PxHTQ59q5m4&headerType=none&fp=chrome&type=tcp&sni=ava.game.naver.com.lsvly.qzz.io&sid=11c996b441cf6c#REALITY|FR🇫🇷
 ss://69394f3f-e84c-44b3-96ae-46000130cf2b@5.189.190.60:34704?type=tcp&encryption=none&flow=&sni=ava.game.naver.com.lsvly.qzz.io&fp=chrome&security=reality&pbk=Yl_Un-j1bd9icfC153HCUY_uRKWdj4D_PxHTQ59q5m4&sid=11c996b441cf6c#REALITY|FR🇫🇷
 ss://745ded22-6ae3-4c4d-b31e-c42db0ae74fa@194.4.49.229:443?path=%2Fteqalfws&security=tls&encryption=none&type=ws#FR🇫🇷
@@ -371,6 +372,7 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@638964705852291950.bandar-blkaft-aaar.
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638964706453370319.birjand-blkaft-aaar.info:8880?mode=&security=&alpn=&encryption=none&fp=&type=grpc&serviceName=&sni=&allowInsecure=#France%2074%20dailyv2ry
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638964706456825160.esfahan-blkaft-aaar.info:8880?mode=&security=&alpn=&encryption=none&fp=&type=grpc&serviceName=&sni=&allowInsecure=#France%2038%20dailyv2ry
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638964706456829988.esfahan-blkaft-aaar.info:8880?mode=&security=&alpn=&encryption=none&fp=&type=grpc&serviceName=&sni=&allowInsecure=#France%2032%20dailyv2ry
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638964706456833989.esfahan-blkaft-aaar.info:8880?mode=&security=&alpn=&encryption=none&fp=&type=grpc&serviceName=&sni=&allowInsecure=#France%2017%20dailyv2ry
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638965946052583460.arak-blkaft-aaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638966622454168195.helsinki-blkaft-aaap.info:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638967288453104894.lahijan-blkaft-aaap.info:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
@@ -610,6 +612,7 @@ vless://40c4812d-b1fe-4ff1-922b-a10e95ee1d70@paris.fonixapp.org:15833?type=tcp&e
 vless://40e65a0d-df16-4759-a126-76fa359f51f5@51.159.96.121:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=ns3.turkeyone.org&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:58.89ms
 vless://40e65a0d-df16-4759-a126-76fa359f51f5@51.159.96.121:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=ns3.turkeyone.org&allowInsecure=1#FR🇫🇷
 vless://43e22eed-612e-5166-6764-bf639febca7d@MPL.me1091.com:191?mode=gun&security=reality&encryption=none&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=firefox&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=e17185329455b179#REALITY|FR🇫🇷
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@51.44.175.243:443?encryption=none&security=reality&sni=store.steampowered.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&type=tcp&flow=xtls-rprx-vision&spx=%2F#France%2046%20dailyv2ry
 vless://69394f3f-e84c-44b3-96ae-46000130cf2b@5.189.190.60:34704?security=reality&encryption=none&pbk=Yl_Un-j1bd9icfC153HCUY_uRKWdj4D_PxHTQ59q5m4&headerType=none&fp=chrome&type=tcp&sni=ava.game.naver.com.lsvly.qzz.io&sid=11c996b441cf6c#REALITY|FR🇫🇷
 vless://69394f3f-e84c-44b3-96ae-46000130cf2b@5.189.190.60:34704?type=tcp&encryption=none&flow=&sni=ava.game.naver.com.lsvly.qzz.io&fp=chrome&security=reality&pbk=Yl_Un-j1bd9icfC153HCUY_uRKWdj4D_PxHTQ59q5m4&sid=11c996b441cf6c#REALITY|FR🇫🇷
 vless://745ded22-6ae3-4c4d-b31e-c42db0ae74fa@194.4.49.229:443?path=%2Fteqalfws&security=tls&encryption=none&type=ws#FR🇫🇷
@@ -864,6 +867,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638964705852291950.bandar-blkaft-aa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638964706453370319.birjand-blkaft-aaar.info:8880?mode=&security=&alpn=&encryption=none&fp=&type=grpc&serviceName=&sni=&allowInsecure=#France%2074%20dailyv2ry
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638964706456825160.esfahan-blkaft-aaar.info:8880?mode=&security=&alpn=&encryption=none&fp=&type=grpc&serviceName=&sni=&allowInsecure=#France%2038%20dailyv2ry
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638964706456829988.esfahan-blkaft-aaar.info:8880?mode=&security=&alpn=&encryption=none&fp=&type=grpc&serviceName=&sni=&allowInsecure=#France%2032%20dailyv2ry
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638964706456833989.esfahan-blkaft-aaar.info:8880?mode=&security=&alpn=&encryption=none&fp=&type=grpc&serviceName=&sni=&allowInsecure=#France%2017%20dailyv2ry
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638965946052583460.arak-blkaft-aaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966622454168195.helsinki-blkaft-aaap.info:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638967288453104894.lahijan-blkaft-aaap.info:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
