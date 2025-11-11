@@ -5,9 +5,9 @@ ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encr
 ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?type=tcp&path=%2f#%f0%9f%87%ae%f0%9f%87%b3%20IN%203
 ss://5f39f871-2fae-446e-99ad-719fa8be687c@194.61.31.126:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=L3UuY_lketYWBrW_naLct9-VFIAGwdtMplkubdHdEHQ&sid=ce874361e8dfcd4e&type=grpc&serviceName=78e691d782c9b9b2cd3c5621#India%2069%20dailyv2ry
 ss://5f39f871-2fae-446e-99ad-719fa8be687c@194.61.31.126:8443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=L3UuY_lketYWBrW_naLct9-VFIAGwdtMplkubdHdEHQ&sid=ce874361e8dfcd4e&type=tcp&flow=xtls-rprx-vision#India%2056%20dailyv2ry
+ss://6eef4a01-455b-472f-a337-9983956cad92@13.204.17.137:443/?type=ws&encryption=none&flow=&path=%2Fnews#%3E%3E%40oneclickvpnkeys%3A%3AIN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#%F0%9F%87%AE%F0%9F%87%B3IN-103.111.114.29-0371
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#IN%F0%9F%87%AE%F0%9F%87%B3+%7C+103.111.114.29-57456+%7C+206.78ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.92:57456#%3E%3E%40configV2rayNG%3A%3AIN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.92:57456#IN%F0%9F%87%AE%F0%9F%87%B3+%7C+103.111.114.92-57456+%7C+205.57ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.92:57456#India%20Melbikomas%20UAB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@id.vpnsparta.pro:57456#IN%F0%9F%87%AE%F0%9F%87%B3+%7C+id.vpnsparta.pro-57456+%7C+320.28ms
@@ -43,6 +43,7 @@ vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&e
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?type=tcp&path=%2f#%f0%9f%87%ae%f0%9f%87%b3%20IN%203
 vless://5f39f871-2fae-446e-99ad-719fa8be687c@194.61.31.126:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=L3UuY_lketYWBrW_naLct9-VFIAGwdtMplkubdHdEHQ&sid=ce874361e8dfcd4e&type=grpc&serviceName=78e691d782c9b9b2cd3c5621#India%2069%20dailyv2ry
 vless://5f39f871-2fae-446e-99ad-719fa8be687c@194.61.31.126:8443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=L3UuY_lketYWBrW_naLct9-VFIAGwdtMplkubdHdEHQ&sid=ce874361e8dfcd4e&type=tcp&flow=xtls-rprx-vision#India%2056%20dailyv2ry
+vless://6eef4a01-455b-472f-a337-9983956cad92@13.204.17.137:443/?type=ws&encryption=none&flow=&path=%2Fnews#%3E%3E%40oneclickvpnkeys%3A%3AIN
 vless://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629/?type=tcp&encryption=none#%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ray_collector%20%5B16%5D
 vless://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629?security=&type=tcp&encryption=none#%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ray_collector%20%5B16%5D
 vless://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629?type=tcp&encryption=none&flow=#IN🇮🇳
