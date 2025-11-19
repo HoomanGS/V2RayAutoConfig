@@ -250,7 +250,6 @@ trojan://0da5acca-b556-3ed3-b6bf-645bd45d017e@112.84.125.208:55108?allowInsecure
 trojan://0dd0ae16-4081-4530-a925-c3c34ca07d57@217.79.184.18:443/?type=tcp&security=tls&sni=🔒
 trojan://0dd0ae16-4081-4530-a925-c3c34ca07d57@217.79.184.18:443?security=tls&sni=🔒
 trojan://0e17b420-48a2-11f0-8c4d-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp
-trojan://0e5d5ebb-a1bf-4d7a-9494-8b67e9d78241@www.speedtest.net:2053?encryption=none&security=tls&sni=🔒
 trojan://0e5d5ebb-a1bf-4d7a-9494-8b67e9d78241@www.speedtest.net:8443/?type=tcp&security=tls
 trojan://0e81a9cd-d849-4101-8d64-574c283207de@104.21.69.44:2083/?type=ws&host=de1.trojanvpn.de&path=%2Fwebsocket&security=tls&sni=de1.trojanvpn.de#%40Hope_Net-join-us-on-Telegram
 trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@43.154.172.79:10102?security=tls
@@ -549,6 +548,7 @@ trojan://2274c52572e721086f8bd8f88984643c@160.16.196.59:3169?security=tls&header
 trojan://2274c52572e721086f8bd8f88984643c@160.16.204.136:1334/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.204.136-0233
 trojan://2274c52572e721086f8bd8f88984643c@160.16.204.136:1334?security=tls&sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%201
 trojan://2274c52572e721086f8bd8f88984643c@160.16.204.136:1334?security=tls&sni=www.nintendogames.net&path=/#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:236.96ms
+trojan://2274c52572e721086f8bd8f88984643c@160.16.204.136:1334?security=tls&sni=🔒
 trojan://2274c52572e721086f8bd8f88984643c@160.16.214.6:4095/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.214.6-5530
 trojan://2274c52572e721086f8bd8f88984643c@160.16.236.32:5552/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.236.32-0315
 trojan://2274c52572e721086f8bd8f88984643c@160.16.236.32:5552?security=tls&sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%2023
@@ -8304,7 +8304,6 @@ trojan://telegram-id-directvpn@3.145.14.67:22222?security=tls&sni=trj.rollingnex
 trojan://telegram-id-directvpn@3.145.14.67:22222?security=tls&sni=🔒
 trojan://telegram-id-directvpn@3.21.104.170:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-3.21.104.170-8011
 trojan://telegram-id-directvpn@3.21.104.170:22222?security=tls&sni=🔒
-trojan://telegram-id-directvpn@3.21.216.163:22222?security=tls&sni=🔒
 trojan://telegram-id-directvpn@3.210.241.124:22222?security=tls&type=tcp&sni=🔒
 trojan://telegram-id-directvpn@3.226.235.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%40ConfigV2RayNGtrojan://telegram-id-directvpn@18.207.110.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#ConfigV2RayNGtrojan://telegram-id-privatevpns@13.50.26.40:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%40ConfigV2RayNGvless://4dd96d2f-6989-4046-b255-0d48c7db1fa6@avval.ir:80?path=%2Fgraphql&security=none&encryption=none&host=v5.smartyevent.click&type=ws#ConfigV2RayNGtrojan://SY3xEocCGg@45.85.119.29:8443?mode=gun&security=tls&type=grpc&serviceName=&sni=sni.v2jey.fun#Join+Tel%3A%40ConfigV2RayNG
 trojan://telegram-id-directvpn@3.226.235.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
