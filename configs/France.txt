@@ -26,6 +26,7 @@ ss://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443/?type=ws&encryption
 ss://3fc4876d-9b5a-4c78-9504-33d054c49e3f@rack4.biseda2.eu:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rack4.biseda2.eu&fp=chrome&pbk=WNcXg-3WpjyiJ0bZiQ9xeQz954-l8DHWUa2tikS2WWg&sid=7e66&type=tcp&headerType=none#REALITY|FR🇫🇷
 ss://40e65a0d-df16-4759-a126-76fa359f51f5@51.159.96.121:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ns3.turkeyone.org#FR🇫🇷
 ss://41918f0b-d0c4-401c-841b-c78ea5e29898@ov-germany7.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#FR🇫🇷
+ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@35.180.210.8:55605?encryption=none&type=tcp#France%2069%20dailyv2ry
 ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@35.181.172.196:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&sni=chatgpt.com&sid=f5#France%2042%20dailyv2ry
 ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@51.44.82.83:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&sni=chatgpt.com&sid=f5#France%2074%20dailyv2ry
 ss://59171a5a-c42c-47be-aaf1-cbaefcc5a07d@104.21.36.57:443?path=%2Fwsv%2F59171a5a-c42c-47be-aaf1-cbaefcc5a07d&security=tls&encryption=none&host=sample.fullmargintraders.com&fp=random&type=ws&sni=sample.fullmargintraders.com#FR🇫🇷
@@ -229,6 +230,7 @@ vless://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443/?type=ws&encrypt
 vless://3fc4876d-9b5a-4c78-9504-33d054c49e3f@rack4.biseda2.eu:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rack4.biseda2.eu&fp=chrome&pbk=WNcXg-3WpjyiJ0bZiQ9xeQz954-l8DHWUa2tikS2WWg&sid=7e66&type=tcp&headerType=none#REALITY|FR🇫🇷
 vless://40e65a0d-df16-4759-a126-76fa359f51f5@51.159.96.121:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ns3.turkeyone.org#FR🇫🇷
 vless://41918f0b-d0c4-401c-841b-c78ea5e29898@ov-germany7.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#FR🇫🇷
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@35.180.210.8:55605?encryption=none&type=tcp#France%2069%20dailyv2ry
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@35.181.172.196:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&sni=chatgpt.com&sid=f5#France%2042%20dailyv2ry
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@51.44.82.83:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&sni=chatgpt.com&sid=f5#France%2074%20dailyv2ry
 vless://59171a5a-c42c-47be-aaf1-cbaefcc5a07d@104.21.36.57:443?path=%2Fwsv%2F59171a5a-c42c-47be-aaf1-cbaefcc5a07d&security=tls&encryption=none&host=sample.fullmargintraders.com&fp=random&type=ws&sni=sample.fullmargintraders.com#FR🇫🇷
