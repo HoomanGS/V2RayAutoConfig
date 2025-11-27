@@ -28,6 +28,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dU1xa0dJeDZJYTA=@138.197.174.245:56443#%F0%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ3D3A==@23.95.76.147:990#CA%F0%9F%87%A8%F0%9F%87%A6+%7C+23.95.76.147-990+%7C+27.57ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ3D3A==@45.154.204.7:990#CA%F0%9F%87%A8%F0%9F%87%A6+%7C+45.154.204.7-990+%7C+24.52ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.154.204.7:990#CA%F0%9F%87%A8%F0%9F%87%A6+%7C+45.154.204.7-990+%7C+24.55ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@23.95.76.59:990#CA%20SS-122%40free-nodes
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.143:805#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.143-6595
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:804#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.178-6597
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@196.247.59.154:800#%F0%9F%87%A8%F0%9F%87%A6CA-196.247.59.154-0371
@@ -223,6 +224,7 @@ ss://bdc4302a-f0ac-4176-83d9-977cb84044f7@www.speedtest.net:2082/?type=tcp&encry
 ss://be32c9ad-92e1-485b-dc74-2a65e9dae480@86.107.168.100:7070/?type=tcp&encryption=none&flow=&security=tls&sni=src.smnsoft.com&alpn=h2%2Chttp%2F1.1&fp=chrome#%253E%253E%2540oneclickvpnkeys%3A%3ACA
 ss://be32c9ad-92e1-485b-dc74-2a65e9dae480@86.107.168.100:7070?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=src.smnsoft.com#CA🇨🇦
 ss://be32c9ad-92e1-485b-dc74-2a65e9dae480@86.107.168.100:7070?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=src.smnsoft.com#CA🇨🇦
+ss://be32c9ad-92e1-485b-dc74-2a65e9dae480@86.107.168.100:7070?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=src.smnsoft.com#CA%20VLESS-42%40free-nodes
 ss://be32c9ad-92e1-485b-dc74-2a65e9dae480@86.107.168.100:7070?security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&headerType=none&fp=chrome&type=tcp&sni=src.smnsoft.com#CA🇨🇦
 ss://c27bdfe9-929c-45cd-a917-aa47dae1cff7@172.67.166.211:443?path=/eyJqdW5rIjoiM0tYeXg5RVVNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==&security=tls&encryption=none&insecure=0&host=soft98m.dpdns.org&type=ws&allowInsecure=0&sni=soft98m.dPdNS.OrG#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:24.63ms
 ss://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@speedtest.org:443/?type=ws&encryption=none&host=iwukb.ava-shabane.com&path=%2Fharman&security=tls&sni=iwukb.ava-shabane.com#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20172.67.130.66
@@ -240,9 +242,11 @@ ss://fb76ae39-f97e-5a9f-9beb-0e7100166f69@172.67.200.209:2096/?type=ws&encryptio
 ssr://NzkuMTI3LjIzMy4xNzA6OTg5Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaamhtTjJGRGVtTlFTMkp6Umpod013Lz9ncm91cD1VMU5TVUhKdmRtbGtaWEkmcmVtYXJrcz04Si1IcVBDZmg2WWdVMU5TTGVXS29PYUx2LVdrcHkwM09TNHhNamN1TWpNekxqRTNNRG81T0RrJm9iZnNwYXJhbT0mcHJvdG9wYXJhbT0
 ssr://c3NjYS5pcnVuZG5zLm5ldDo0NDM6YXV0aF9hZXMxMjhfbWQ1OmFlcy0xMjgtY2ZiOmh0dHBfcG9zdDpKQ1JVZFhKaU1GWlFUaVFrLz9vYmZzcGFyYW09JnJlbWFya3M9OEolMkJIcVBDZmg2WkRRUzAwTlM0eE5UUXVNakEwTGpFekxUQXlNVGclM0QmcHJvdG9wYXJhbT0=
 ssr://ejAxMTUuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkhxUENmaDZaRFFTMHpMamszTGpFM015NDFMVEV6TnpjJTNEJnByb3RvcGFyYW09
+trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&headerType=none&type=tcp&sni=shoppingmall.electricbanana.click#CA%20TROJAN-66%40free-nodes
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&headerType=none&type=tcp&sni=shoppingmall.electricbanana.click#CA🇨🇦
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?type=tcp&security=tls&sni=shoppingmall.electricbanana.click&allowInsecure=1#CA🇨🇦
 trojan://286d5fae-eb42-4cd2-96c5-c7dfaaae67ac@t5.583181.xyz:1258?security=tls&sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%A6CA-172.105.29.71-2037
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#CA%20TROJAN-109%40free-nodes
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#CA🇨🇦
 trojan://8001fbf7-4b59-4415-a4bd-8bfded02c9c6@69.28.82.253:443?security=tls&sni=joss.gpj1.web.id#%F0%9F%87%A8%F0%9F%87%A6CA-69.28.82.253-1150
 trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-149.56.141.11-3085
@@ -293,6 +297,7 @@ vless://bdc4302a-f0ac-4176-83d9-977cb84044f7@www.speedtest.net:2082/?type=tcp&en
 vless://be32c9ad-92e1-485b-dc74-2a65e9dae480@86.107.168.100:7070/?type=tcp&encryption=none&flow=&security=tls&sni=src.smnsoft.com&alpn=h2%2Chttp%2F1.1&fp=chrome#%253E%253E%2540oneclickvpnkeys%3A%3ACA
 vless://be32c9ad-92e1-485b-dc74-2a65e9dae480@86.107.168.100:7070?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=src.smnsoft.com#CA🇨🇦
 vless://be32c9ad-92e1-485b-dc74-2a65e9dae480@86.107.168.100:7070?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=src.smnsoft.com#CA🇨🇦
+vless://be32c9ad-92e1-485b-dc74-2a65e9dae480@86.107.168.100:7070?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=src.smnsoft.com#CA%20VLESS-42%40free-nodes
 vless://be32c9ad-92e1-485b-dc74-2a65e9dae480@86.107.168.100:7070?security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&headerType=none&fp=chrome&type=tcp&sni=src.smnsoft.com#CA🇨🇦
 vless://c27bdfe9-929c-45cd-a917-aa47dae1cff7@172.67.166.211:443?path=/eyJqdW5rIjoiM0tYeXg5RVVNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==&security=tls&encryption=none&insecure=0&host=soft98m.dpdns.org&type=ws&allowInsecure=0&sni=soft98m.dPdNS.OrG#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:24.63ms
 vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@speedtest.org:443/?type=ws&encryption=none&host=iwukb.ava-shabane.com&path=%2Fharman&security=tls&sni=iwukb.ava-shabane.com#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20172.67.130.66
