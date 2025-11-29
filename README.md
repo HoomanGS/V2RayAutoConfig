@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/language-فارسی%20%26%20English-007EC6?style=flat-square" alt="Language" />
 </p>
 
-## آخرین به‌روزرسانی: 20:22 08-09-1404
+## آخرین به‌روزرسانی: 20:31 08-09-1404
 
 ---
 
