@@ -7,13 +7,13 @@
   <img src="https://img.shields.io/github/last-commit/Argh94/V2RayAutoConfig?style=flat-square" alt="Last Commit" />
   <br>
   <img src="https://img.shields.io/github/issues/Argh94/V2RayAutoConfig?style=flat-square" alt="GitHub Issues" />
-  <img src="https://img.shields.io/badge/Configs-109636-blue?style=flat-square" alt="Total Configs" />
+  <img src="https://img.shields.io/badge/Configs-109685-blue?style=flat-square" alt="Total Configs" />
   <img src="https://img.shields.io/github/stars/Argh94/V2RayAutoConfig?style=social" alt="GitHub Stars" />
   <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square" alt="Project Status" />
   <img src="https://img.shields.io/badge/language-فارسی%20%26%20English-007EC6?style=flat-square" alt="Language" />
 </p>
 
-## آخرین به‌روزرسانی: 11:29 12-09-1404
+## آخرین به‌روزرسانی: 12:01 12-09-1404
 
 ---
 
@@ -25,18 +25,18 @@
 ---
 
 ## 📁 کانفیگ‌های پروتکل‌ها
-در حال حاضر 109636 کانفیگ در دسترس است.
+در حال حاضر 109685 کانفیگ در دسترس است.
 
 <div align="center">
 
 | پروتکل | تعداد | لینک دانلود |
 |:-------:|:-----:|:------------:|
 | Hysteria2 | 357 | [`Hysteria2.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Hysteria2.txt) |
-| ShadowSocks | 55974 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/ShadowSocks.txt) |
+| ShadowSocks | 56001 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/ShadowSocks.txt) |
 | ShadowSocksR | 48 | [`ShadowSocksR.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/ShadowSocksR.txt) |
-| Trojan | 10336 | [`Trojan.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Trojan.txt) |
+| Trojan | 10334 | [`Trojan.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Trojan.txt) |
 | Tuic | 13 | [`Tuic.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Tuic.txt) |
-| Vless | 34970 | [`Vless.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vless.txt) |
+| Vless | 34994 | [`Vless.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vless.txt) |
 | Vmess | 7938 | [`Vmess.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vmess.txt) |
 </div>
 
@@ -82,7 +82,7 @@
 | <img src="https://flagcdn.com/w20/fi.png" width="20" alt="Finland flag">  Finland (فنلاند) | 150 | [`Finland.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Finland.txt) |
 | <img src="https://flagcdn.com/w20/fr.png" width="20" alt="France flag">  France (فرانسه) | 493 | [`France.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/France.txt) |
 | <img src="https://flagcdn.com/w20/ga.png" width="20" alt="Gabon flag">  Gabon (گابن) | 3 | [`Gabon.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Gabon.txt) |
-| <img src="https://flagcdn.com/w20/de.png" width="20" alt="Germany flag">  Germany (آلمان) | 1099 | [`Germany.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Germany.txt) |
+| <img src="https://flagcdn.com/w20/de.png" width="20" alt="Germany flag">  Germany (آلمان) | 1103 | [`Germany.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Germany.txt) |
 | <img src="https://flagcdn.com/w20/gr.png" width="20" alt="Greece flag">  Greece (یونان) | 8 | [`Greece.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Greece.txt) |
 | <img src="https://flagcdn.com/w20/gt.png" width="20" alt="Guatemala flag">  Guatemala (گواتمالا) | 2 | [`Guatemala.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Guatemala.txt) |
 | <img src="https://flagcdn.com/w20/hu.png" width="20" alt="Hungary flag">  Hungary (مجارستان) | 4 | [`Hungary.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Hungary.txt) |
@@ -91,7 +91,7 @@
 | <img src="https://flagcdn.com/w20/id.png" width="20" alt="Indonesia flag">  Indonesia (اندونزی) | 457 | [`Indonesia.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Indonesia.txt) |
 | <img src="https://flagcdn.com/w20/ir.png" width="20" alt="Iran flag">  Iran (ایران) | 882 | [`Iran.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Iran.txt) |
 | <img src="https://flagcdn.com/w20/iq.png" width="20" alt="Iraq flag">  Iraq (عراق) | 5 | [`Iraq.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Iraq.txt) |
-| <img src="https://flagcdn.com/w20/ie.png" width="20" alt="Ireland flag">  Ireland (ایرلند) | 63 | [`Ireland.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Ireland.txt) |
+| <img src="https://flagcdn.com/w20/ie.png" width="20" alt="Ireland flag">  Ireland (ایرلند) | 65 | [`Ireland.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Ireland.txt) |
 | <img src="https://flagcdn.com/w20/il.png" width="20" alt="Israel flag">  Israel (اسرائیل) | 13 | [`Israel.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Israel.txt) |
 | <img src="https://flagcdn.com/w20/it.png" width="20" alt="Italy flag">  Italy (ایتالیا) | 44 | [`Italy.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Italy.txt) |
 | <img src="https://flagcdn.com/w20/jp.png" width="20" alt="Japan flag">  Japan (ژاپن) | 441 | [`Japan.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Japan.txt) |
@@ -135,8 +135,8 @@
 | <img src="https://flagcdn.com/w20/za.png" width="20" alt="SouthAfrica flag">  SouthAfrica (آفریقای جنوبی) | 14 | [`SouthAfrica.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/SouthAfrica.txt) |
 | <img src="https://flagcdn.com/w20/kr.png" width="20" alt="SouthKorea flag">  SouthKorea (کره جنوبی) | 107 | [`SouthKorea.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/SouthKorea.txt) |
 | <img src="https://flagcdn.com/w20/ss.png" width="20" alt="SouthSudan flag">  SouthSudan (سودان جنوبی) | 139 | [`SouthSudan.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/SouthSudan.txt) |
-| <img src="https://flagcdn.com/w20/es.png" width="20" alt="Spain flag">  Spain (اسپانیا) | 78 | [`Spain.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Spain.txt) |
-| <img src="https://flagcdn.com/w20/se.png" width="20" alt="Sweden flag">  Sweden (سوئد) | 134 | [`Sweden.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Sweden.txt) |
+| <img src="https://flagcdn.com/w20/es.png" width="20" alt="Spain flag">  Spain (اسپانیا) | 82 | [`Spain.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Spain.txt) |
+| <img src="https://flagcdn.com/w20/se.png" width="20" alt="Sweden flag">  Sweden (سوئد) | 138 | [`Sweden.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Sweden.txt) |
 | <img src="https://flagcdn.com/w20/ch.png" width="20" alt="Switzerland flag">  Switzerland (سوئیس) | 233 | [`Switzerland.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Switzerland.txt) |
 | <img src="https://flagcdn.com/w20/tw.png" width="20" alt="Taiwan flag">  Taiwan (تایوان) | 88 | [`Taiwan.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Taiwan.txt) |
 | <img src="https://flagcdn.com/w20/th.png" width="20" alt="Thailand flag">  Thailand (تایلند) | 4 | [`Thailand.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Thailand.txt) |
@@ -146,7 +146,7 @@
 | <img src="https://flagcdn.com/w20/tm.png" width="20" alt="Turkmenistan flag">  Turkmenistan (ترکمنستان) | 194 | [`Turkmenistan.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Turkmenistan.txt) |
 | <img src="https://flagcdn.com/w20/ae.png" width="20" alt="UAE flag">  UAE (امارات) | 55 | [`UAE.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/UAE.txt) |
 | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="UK flag">  UK (انگلیس) | 397 | [`UK.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/UK.txt) |
-| <img src="https://flagcdn.com/w20/us.png" width="20" alt="USA flag">  USA (آمریکا) | 10599 | [`USA.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/USA.txt) |
+| <img src="https://flagcdn.com/w20/us.png" width="20" alt="USA flag">  USA (آمریکا) | 10603 | [`USA.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/USA.txt) |
 | <img src="https://flagcdn.com/w20/ua.png" width="20" alt="Ukraine flag">  Ukraine (اوکراین) | 9 | [`Ukraine.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Ukraine.txt) |
 | <img src="https://flagcdn.com/w20/vn.png" width="20" alt="Vietnam flag">  Vietnam (ویتنام) | 841 | [`Vietnam.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vietnam.txt) |
 </div>
