@@ -37,7 +37,7 @@ ss://4a0d8c6e-de69-4285-a028-aca1dcc522f0@51.77.70.198:1122?mode=auto&path=%2F%4
 ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@13.38.91.115:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=f5#REALITY|FR🇫🇷
 ss://4d89daf8-83c1-497d-af73-0d0033daadd8@104.21.36.57:443?path=%2Fwsv%2F4d89daf8-83c1-497d-af73-0d0033daadd8&security=tls&encryption=none&host=psto.fullmargintraders.com&type=ws&sni=psto.fullmargintraders.com#FR🇫🇷
 ss://50d266a9-e139-419f-a0a3-6bf5c91d9b20@51.68.198.51:8080?path=%2FYUYETrenyklxeoyemeWFCrneerV&security=none&encryption=none&type=ws#FR🇫🇷
-ss://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=%2Fcahttingws&security=tls&encryption=none&host=639004957474582477.tiguan-amsit.info&type=ws&sni=639004957474582477.tiguan-amsit.info#FR%20VLESS-33%20%7C%20free-nodes
+ss://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=%2Fcahttingws&security=tls&encryption=none&host=639004957474582477.tiguan-amsit.info&type=ws&sni=639004957474582477.tiguan-amsit.info#FR%20VLESS-42%20%7C%20free-nodes
 ss://669be00c-67b4-4b87-b08f-311c45abced2@fr.atlanta-internet.ru:8443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#REALITY|FR🇫🇷
 ss://677615f7-87d5-5019-a44d-4fc3ff8d59d7@62.133.62.31:443?security=reality&encryption=none&pbk=wnjYp5OtElhS6c2OPCvxFtC2RkJix44XysERe7htnSE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=a948a59e#REALITY|FR🇫🇷
 ss://7c435977-b45f-45c7-9857-ccc81515800f@Evay-vpn.octacityroleplay.ir:1122?encryption=none&type=xhttp&host=join-bede-evay_vpn.org&path=%2F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=reality&fp=firefox&sni=www.slideshare.net&pbk=4iCkO1B_tdvJY7x_v9izvkoNDfdGIFiL2LQX2Nqv5RI&sid=4c7b0ea36fc7f0c4#REALITY|FR🇫🇷
@@ -168,7 +168,6 @@ trojan://telegram-id-directvpn@13.39.112.204:22222?security=tls&sni=trj.rollingn
 trojan://telegram-id-directvpn@13.39.112.204:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-13.39.112.204-10909
 trojan://telegram-id-directvpn@51.45.12.251:22223?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-51.45.12.251-1818
 trojan://telegram-id-privatevpns@13.37.103.10:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-13.37.103.10-1597
-trojan://telegram-id-privatevpns@13.39.187.138:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#FR%20TROJAN-20%20%7C%20free-nodes
 trojan://telegram-id-privatevpns@13.39.187.138:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-13.39.187.138-0639
 trojan://telegram-id-privatevpns@15.188.216.8:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
 trojan://telegram-id-privatevpns@15.236.122.160:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-15.236.122.160-10814
@@ -182,11 +181,12 @@ trojan://telegram-id-privatevpns@35.180.202.29:22222?security=tls&sni=trj.rollin
 trojan://telegram-id-privatevpns@35.180.202.29:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-35.180.202.29-10342
 trojan://telegram-id-privatevpns@35.180.36.215:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-35.180.36.215-10339
 trojan://telegram-id-privatevpns@35.180.36.215:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-35.180.36.215-1171
+trojan://telegram-id-privatevpns@35.180.72.13:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B13%5D
+trojan://telegram-id-privatevpns@35.181.161.100:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B14%5D
 trojan://telegram-id-privatevpns@35.181.161.94:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-35.181.161.94-1474
 trojan://telegram-id-privatevpns@51.44.190.237:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-51.44.190.237-1523
 trojan://telegram-id-privatevpns@51.44.38.121:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-51.44.38.121-0807
 trojan://telegram-id-privatevpns@51.45.33.224:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-51.45.33.224-1154
-trojan://telegram-id-privatevpns@52.47.108.239:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B14%5D
 trojan://telegram-id-privatevpns@52.47.189.11:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
 trojan://telegram-id-privatevpns@52.47.206.247:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-52.47.206.247-0937
 trojan://zsu4Mq3A9J@51.195.254.75:8443?security=tls&sni=uk-02.allhubb.info&type=tcp#FR🇫🇷
@@ -221,7 +221,7 @@ vless://4a0d8c6e-de69-4285-a028-aca1dcc522f0@51.77.70.198:1122?mode=auto&path=%2
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@13.38.91.115:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=f5#REALITY|FR🇫🇷
 vless://4d89daf8-83c1-497d-af73-0d0033daadd8@104.21.36.57:443?path=%2Fwsv%2F4d89daf8-83c1-497d-af73-0d0033daadd8&security=tls&encryption=none&host=psto.fullmargintraders.com&type=ws&sni=psto.fullmargintraders.com#FR🇫🇷
 vless://50d266a9-e139-419f-a0a3-6bf5c91d9b20@51.68.198.51:8080?path=%2FYUYETrenyklxeoyemeWFCrneerV&security=none&encryption=none&type=ws#FR🇫🇷
-vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=%2Fcahttingws&security=tls&encryption=none&host=639004957474582477.tiguan-amsit.info&type=ws&sni=639004957474582477.tiguan-amsit.info#FR%20VLESS-33%20%7C%20free-nodes
+vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=%2Fcahttingws&security=tls&encryption=none&host=639004957474582477.tiguan-amsit.info&type=ws&sni=639004957474582477.tiguan-amsit.info#FR%20VLESS-42%20%7C%20free-nodes
 vless://669be00c-67b4-4b87-b08f-311c45abced2@fr.atlanta-internet.ru:8443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#REALITY|FR🇫🇷
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@62.133.62.31:443?security=reality&encryption=none&pbk=wnjYp5OtElhS6c2OPCvxFtC2RkJix44XysERe7htnSE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=a948a59e#REALITY|FR🇫🇷
 vless://7c435977-b45f-45c7-9857-ccc81515800f@Evay-vpn.octacityroleplay.ir:1122?encryption=none&type=xhttp&host=join-bede-evay_vpn.org&path=%2F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=reality&fp=firefox&sni=www.slideshare.net&pbk=4iCkO1B_tdvJY7x_v9izvkoNDfdGIFiL2LQX2Nqv5RI&sid=4c7b0ea36fc7f0c4#REALITY|FR🇫🇷
