@@ -1612,6 +1612,7 @@ trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&
 trojan://73ccc600-489e-11f0-bc86-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp
 trojan://740628@136.175.177.136:8000?security=tls&sni=sj.cestbon.work&fp=chrome&type=grpc&serviceName=cestbon#@V2ray_Collector
 trojan://740628@136.175.177.136:8443/?type=tcp&security=tls&sni=🔒
+trojan://7418004a-0ecd-41c0-a062-42bf966d3fb2@cf.877774.xyz:443?allowInsecure=0&sni=🔒
 trojan://74260628090146500@stirring-parakeet.shiner427.skin:443/?type=tcp&security=tls
 trojan://74260628090146500@stirring-parakeet.shiner427.skin:443?allowInsecure=0
 trojan://745654@154.3.37.9:443/?type=tcp&security=tls&sni=🔒
@@ -3058,6 +3059,7 @@ trojan://Aimer@167.68.4.131:8443/?type=tcp&security=tls&sni=agepy.aimercc.filege
 trojan://Aimer@167.68.4.131:8443/?type=tcp&security=tls&sni=🔒
 trojan://Aimer@167.68.4.199:2053/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-167.68.4.199-1477
 trojan://Aimer@167.68.4.199:2053/?type=tcp&security=tls&sni=🔒
+trojan://Aimer@167.68.4.199:2053?allowInsecure=0&sni=🔒
 trojan://Aimer@167.68.4.199:2053?allowInsecure=1&sni=🔒
 trojan://Aimer@167.68.4.199:2053?security=tls&sni=🔒
 trojan://Aimer@167.68.4.199:2053?type=ws&sni=🔒
@@ -8439,6 +8441,7 @@ trojan://telegram-id-privatevpns@15.188.240.93:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@15.188.45.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@15.224.11.50:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@15.224.2.133:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B14%5D
+trojan://telegram-id-privatevpns@15.236.119.43:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@15.236.119.43:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@15.236.119.43:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.236.122.160:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-15.236.122.160-8954
