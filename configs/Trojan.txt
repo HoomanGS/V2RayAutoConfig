@@ -1247,6 +1247,7 @@ trojan://5a2c16f9@172.64.229.33:443/?type=tcp&security=tls&sni=snippets.kkii.eu.
 trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443/?type=ws&host=snippets.kkii.eu.org&path=%2F&security=tls&sni=snippets.kkii.eu.org&allowInsecure=1#%20%F0%9F%8E%A729%40oneclickvpnkeys
 trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443/?type=ws&host=snippets.kkii.eu.org&path=/&security=tls&sni=snippets.kkii.eu.org&allowInsecure=1#
 trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443/?type=ws&host=snippets.kkii.eu.org&path=🔒
+trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443?path=%2F&security=tls&host=snippets.kkii.eu.org&type=ws&sni=snippets.kkii.eu.org#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443?path=%2F&security=tls&insecure=0&host=snippets.kkii.eu.org&type=ws&allowInsecure=0&sni=snippets.kkii.eu.org#RELAY🚩
 trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443?path=/&security=tls&host=snippets.kkii.eu.org&type=ws&sni=snippets.kkii.eu.org#𝗝𝗼𝗶𝗻
 trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443?path=🔒
@@ -4645,6 +4646,7 @@ trojan://RK_VPS@www.zula.ir:8880?type=ws&path=🔒
 trojan://RK_VPS___RK_VPS@www.speedtest.net:8880?type=ws&path=🔒
 trojan://RK_VPS___RK_VPS@www.zula.ir:8880?type=ws&path=🔒
 trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581/?type=tcp&security=tls&sni=m.vk.com&allowInsecure=1#%E2%9D%84%EF%B8%8F39%40oneclickvpnkeys
+trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&allowInsecure=true
 trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&allowInsecure=true#🇳🇴[openproxylist.com]
 trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&headerType=none&type=tcp
 trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&headerType=none&type=tcp#All_13--@V2rayAlpha
@@ -4920,6 +4922,7 @@ trojan://a5inYFE%3DJGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279/?type=tcp&security
 trojan://a5inYFE%3DJGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?type=tcp&security=tls#NO🇳🇴
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279/?type=tcp&security=tls
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279/?type=tcp&security=tls#🟩34@oneclickvpnkeys
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&allowInsecure=true
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&allowInsecure=true#🇪🇸[openproxylist.com]
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&fp=chrome&type=tcp&sni=io.ozone.ru#All_14--@V2rayAlpha
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&fp=chrome&type=tcp&sni=io.ozone.ru#WiFi-@V2rayAlpha--4
