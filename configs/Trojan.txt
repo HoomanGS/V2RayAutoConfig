@@ -1650,6 +1650,7 @@ trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&typ
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&type=tcp&sni=🔒
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990/?type=tcp&security=tls
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990/?type=tcp&security=tls&sni=diningtable.electricbanana.click#%F0%9F%87%A8%F0%9F%87%A6CA-198.57.27.27-0288
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?allowInsecure=0
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#CA🇨🇦
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=198.57.27.27#%F0%9F%87%A8%F0%9F%87%A6CA-198.57.27.27-5049
@@ -3442,9 +3443,11 @@ trojan://BxceQaOe@36.156.102.115:26876?security=tls
 trojan://BxceQaOe@36.156.102.115:26876?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.156.102.115-0588
 trojan://BxceQaOe@43.207.71.183:2173?allowInsecure=1&sni=🔒
 trojan://BxceQaOe@43.207.71.183:2173?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.71.183-1880
+trojan://BxceQaOe@43.207.71.183:2173?sni=🔒
 trojan://BxceQaOe@43.207.71.183:2673?allowInsecure=1&sni=🔒
 trojan://BxceQaOe@43.207.71.183:2673?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.71.183-1878
 trojan://BxceQaOe@43.207.71.183:2673?security=tls&sni=🔒
+trojan://BxceQaOe@43.207.71.183:2673?sni=🔒
 trojan://BxceQaOe@52.194.193.12:11945/?type=tcp&security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-52.194.193.12-4956
 trojan://BxceQaOe@52.194.193.12:11945/?type=tcp&security=tls&sni=🔒
 trojan://BxceQaOe@52.194.193.12:11945?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-52.194.193.12-5120
@@ -3459,6 +3462,7 @@ trojan://BxceQaOe@52.194.193.12:2762?sni=🔒
 trojan://BxceQaOe@52.194.193.12:4012?allowInsecure=1&sni=🔒
 trojan://BxceQaOe@52.194.193.12:4012?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-52.194.193.12-1875
 trojan://BxceQaOe@52.194.193.12:4012?security=tls&sni=🔒
+trojan://BxceQaOe@52.194.193.12:4012?sni=🔒
 trojan://BxceQaOe@54.238.137.20:3127?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://BxceQaOe@54.238.137.20:3127?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40stairnode
 trojan://BxceQaOe@54.238.137.20:3127?allowInsecure=1&sni=🔒
@@ -7067,16 +7071,20 @@ trojan://f36f4495b4b26cc2fe346cfa23e05b1b@38.180.137.196:443?security=tls&sni=�
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@54.238.137.20:1281?allowInsecure=0&sni=🔒
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@54.238.137.20:1281?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-54.238.137.20-1879
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@54.238.137.20:1281?security=tls&sni=🔒
+trojan://f36f4495b4b26cc2fe346cfa23e05b1b@54.238.137.20:1281?sni=🔒
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@54.238.137.20:1933?allowInsecure=0&sni=🔒
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@54.238.137.20:1933?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-54.238.137.20-1876
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@54.238.137.20:1933?security=tls&sni=🔒
+trojan://f36f4495b4b26cc2fe346cfa23e05b1b@54.238.137.20:1933?sni=🔒
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@54.238.137.20:3901?allowInsecure=0&sni=🔒
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@54.238.137.20:3901?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-54.238.137.20-1877
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@54.238.137.20:3901?security=tls&sni=🔒
+trojan://f36f4495b4b26cc2fe346cfa23e05b1b@54.238.137.20:3901?sni=🔒
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@58.152.18.147:443?allowInsecure=0&sni=www.nintendogames.net#🇭🇰[openproxylist.com]
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@58.152.18.147:443?allowInsecure=0&sni=🔒
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@58.152.18.147:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.18.147-1873
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@58.152.18.147:443?security=tls&sni=🔒
+trojan://f36f4495b4b26cc2fe346cfa23e05b1b@58.152.18.147:443?sni=🔒
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@58.152.18.226:443/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.18.226-1753
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@58.152.18.226:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A58
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@58.152.18.226:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#free%20vpn%20%F0%9F%86%93%20%7C%7C%20%40Kourosh_grn
@@ -7384,6 +7392,7 @@ trojan://oUFBC3Vs2rYmN8_bR-P7quoL@45.129.3.220:10668?security=tls&insecure=1&hea
 trojan://oUFBC3Vs2rYmN8_bR-P7quoL@45.129.3.220:10668?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#ConfigV2RayNG
 trojan://oUFBC3Vs2rYmN8_bR-P7quoL@45.129.3.220:10668?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#RU🇷🇺
 trojan://oUFBC3Vs2rYmN8_bR-P7quoL@45.129.3.220:10668?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🇷🇺[openproxylist.com]
+trojan://oUFBC3Vs2rYmN8_bR-P7quoL@45.129.3.220:10668?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&note=@freeOnlineVPN
 trojan://oUFBC3Vs2rYmN8_bR-P7quoL@45.135.134.198:10668/?type=tcp&security=tls&sni=api-maps.yandex.ru#%F0%9F%8E%8461%40oneclickvpnkeys
 trojan://oZAugtgF5T@146.190.87.238:443/?type=ws&host=aka.ms&path=%2F&security=tls&sni=aka.ms#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40mpmehi%20%5B1%5D
 trojan://oZAugtgF5T@146.190.87.238:443/?type=ws&host=aka.ms&path=🔒
@@ -7645,6 +7654,7 @@ trojan://telegram-id-directvpn@15.188.142.37:22223?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@15.188.153.82:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-directvpn@15.188.237.53:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-directvpn@15.188.70.236:22222?security=tls&sni=🔒
+trojan://telegram-id-directvpn@15.222.167.168:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-directvpn@15.222.9.61:22222?security=tls&sni=🔒
 trojan://telegram-id-directvpn@15.236.150.206:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-directvpn@15.236.166.144:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
