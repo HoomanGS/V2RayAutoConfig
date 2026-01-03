@@ -325,6 +325,9 @@ trojan://123456@104.25.165.83:8443/?type=ws&host=top-azx.pages.dev&security=tls&
 trojan://123456@104.25.165.83:8443/?type=ws&host=top-azx.pages.dev&security=tls&sni=🔒
 trojan://123456@198.41.208.69:8443/?type=tcp&security=tls&sni=top-azx.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://123456@198.41.208.69:8443/?type=tcp&security=tls&sni=🔒
+trojan://123456@bpbg.anguswen.top:2053?allowInsecure=0&sni=🔒
+trojan://123456@bpbg.anguswen.top:443?allowInsecure=0&sni=🔒
+trojan://123456@bpbg.anguswen.top:8443?allowInsecure=0&sni=🔒
 trojan://12d9da10-3f10-11f0-8a3f-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp
 trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@104.21.75.120:443/?type=ws&host=invincible.fafa20.shop&path=%2Ftr7PXHQRn4VPwGA2zY%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D%3Fed%3D2560&security=tls&sni=inviNcIble.fafa20.ShOp&alpn=http%2F1.1&fp=randomized#%40V2rayNGVPN
 trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@104.21.75.120:443/?type=ws&host=invincible.fafa20.shop&path=🔒
@@ -819,6 +822,14 @@ trojan://3778399737045327872@35.77.146.185:443/?type=tcp&security=tls
 trojan://3792b958-c945-4a40-a2ad-586070c3a82a@104.21.71.83:443/?type=grpc&serviceName=pEbwh6Px7dQGOpufnxBjUe&security=tls&sni=🔒
 trojan://3792b958-c945-4a40-a2ad-586070c3a82a@104.21.71.83:443/?type=ws&host=c5011f7d-70a0-6c6f-cf8c-7fb77fcc4a23.777162.xyz&path=🔒
 trojan://3817daf8-0f2b-412f-b87b-3efa585423e8@us2.vpn.ong:443?security=tls&headerType=none&type=tcp
+trojan://381f2e86233720eacda26d50e9aa26da@153.121.44.99:1281?allowInsecure=0&sni=🔒
+trojan://381f2e86233720eacda26d50e9aa26da@52.198.241.226:3901?allowInsecure=0&sni=🔒
+trojan://381f2e86233720eacda26d50e9aa26da@54.199.47.127:1281?allowInsecure=0&sni=🔒
+trojan://381f2e86233720eacda26d50e9aa26da@54.199.47.127:1933?allowInsecure=0&sni=🔒
+trojan://381f2e86233720eacda26d50e9aa26da@54.199.47.127:3901?allowInsecure=0&sni=🔒
+trojan://381f2e86233720eacda26d50e9aa26da@54.199.47.127:3901?allowInsecure=1&sni=🔒
+trojan://381f2e86233720eacda26d50e9aa26da@54.199.47.127:4006?allowInsecure=0&sni=🔒
+trojan://381f2e86233720eacda26d50e9aa26da@58.152.18.48:443?allowInsecure=0&sni=🔒
 trojan://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443/?type=ws&host=aksnmaioas.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&sni=aksnmaioas.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.47.23:443/?type=ws&path=%2FTelegram%40V2ray_Alpha%2F%3Fe...&security=tls&sni=aksnmaioas.pages.dev
 trojan://39386ab3-db28-468f-b87b-471f4ab7ca1c@170.64.130.150:443?security=tls&sni=$trxn.ballistics.top#%F0%9F%87%A6%F0%9F%87%BAAU-170.64.130.150-1599
@@ -3425,6 +3436,7 @@ trojan://BxceQaOe@18.167.99.12:1112?sni=t.me/ripaojiedian#%F0%9F%87%BA%F0%9F%87%
 trojan://BxceQaOe@18.167.99.12:1112?sni=🔒
 trojan://BxceQaOe@18.167.99.12:3579/?type=tcp&security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-18.167.99.12-4952
 trojan://BxceQaOe@18.167.99.12:3579/?type=tcp&security=tls&sni=🔒
+trojan://BxceQaOe@18.181.195.198:1112?allowInsecure=1&sni=🔒
 trojan://BxceQaOe@203.198.84.221:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-203.198.84.221-0654
 trojan://BxceQaOe@203.198.84.221:443/?type=tcp&security=tls&sni=🔒
 trojan://BxceQaOe@203.198.84.221:443?security=tls&sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-203.198.84.221-5003
@@ -3454,6 +3466,7 @@ trojan://BxceQaOe@52.198.241.226:804?allowInsecure=1&sni=🔒
 trojan://BxceQaOe@52.198.241.226:804?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-52.198.241.226-0911
 trojan://BxceQaOe@52.198.241.226:804?security=tls&sni=🔒
 trojan://BxceQaOe@52.198.241.226:804?sni=🔒
+trojan://BxceQaOe@54.199.47.127:26378?allowInsecure=1&sni=🔒
 trojan://BxceQaOe@54.238.137.20:3127?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://BxceQaOe@54.238.137.20:3127?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40stairnode
 trojan://BxceQaOe@54.238.137.20:3127?allowInsecure=1&sni=🔒
@@ -3464,6 +3477,7 @@ trojan://BxceQaOe@54.238.144.17:3194?allowInsecure=1&sni=🔒
 trojan://BxceQaOe@54.238.144.17:3194?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-54.238.144.17-0906
 trojan://BxceQaOe@54.238.144.17:3194?security=tls&sni=🔒
 trojan://BxceQaOe@54.238.144.17:3194?sni=🔒
+trojan://BxceQaOe@54.249.149.192:3127?allowInsecure=1&sni=🔒
 trojan://BxceQaOe@58.152.18.95:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.18.95-1186
 trojan://BxceQaOe@58.152.25.20:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.25.20-6912
 trojan://BxceQaOe@58.152.25.236:443?allowInsecure=0&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40stairnode
@@ -6689,6 +6703,7 @@ trojan://da88864b-6aa5-4d18-8e36-ac809a24c571@usajs.stablize.top:443?type=tcp&al
 trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443/?type=ws&host=blueivy.qzz.io&path=%2F192.252.182.52%3A7602&security=tls&sni=blueivy.qzz.io&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
 trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443/?type=ws&host=blueivy.qzz.io&path=%2F192.252.182.52%3A7602&security=tls&sni=blueivy.qzz.io&allowInsecure=1#%F0%9F%8E%A720%40oneclickvpnkeys
 trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443/?type=ws&host=blueivy.qzz.io&path=🔒
+trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?allowInsecure=0&sni=🔒
 trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?path=%2F192.252.182.52%3A7602&security=tls&host=blueivy.qzz.io&type=ws&sni=blueivy.qzz.io#RELAY🚩
 trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?path=%2F192.252.182.52%3A7602&security=tls&insecure=0&host=blueivy.qzz.io&type=ws&allowInsecure=0&sni=blueivy.qzz.io#%40Vpn_Sky
 trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?path=%2F192.252.182.52%3A7602&security=tls&insecure=0&host=blueivy.qzz.io&type=ws&allowInsecure=0&sni=blueivy.qzz.io#RELAY🚩
@@ -7292,6 +7307,7 @@ trojan://installshield@38.180.249.177:8443?security=tls&allowInsecure=1&type=tcp
 trojan://iwangjie@135.125.232.253:2053/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=nodes.830901.xyz#%F0%9F%87%AB%F0%9F%87%B7FR-135.125.232.253-1390
 trojan://iwangjie@141.94.68.216:2053/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=nodes.830901.xyz#%F0%9F%87%AB%F0%9F%87%B7FR-141.94.68.216-1389
 trojan://iwangjie@158.101.11.204:15805/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=nodes.830901.xyz#%F0%9F%87%BA%F0%9F%87%B8US-158.101.11.204-0698
+trojan://iwangjie@158.101.11.204:15805?allowInsecure=0&sni=🔒
 trojan://iwangjie@158.101.11.204:15805?security=tls&sni=nodes.830901.xyz#%F0%9F%87%BA%F0%9F%87%B8US-158.101.11.204-1768
 trojan://iwangjie@158.101.11.204:15805?security=tls&sni=🔒
 trojan://iwangjie@83.147.254.185:443/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=nodes.830901.xyz#%F0%9F%87%B8%F0%9F%87%AASE-83.147.254.185-1391
@@ -8603,6 +8619,7 @@ trojan://xstack-1718-9761-freevpn@cdn-gr-3.goldaccess.xyz:1935/?type=tcp&securit
 trojan://xstack-1718-9761-freevpn@cdn-gr-3.goldaccess.xyz:1935?security=tls
 trojan://xstack-1718-9761-freevpn@cdn-gr-3.goldaccess.xyz:1935?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-13.248.169.48-8253
 trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443/?type=ws&host=free-de-3.undef.network&path=🔒
+trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443?allowInsecure=0&sni=🔒
 trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443?path=%2Ff2fc2a1f&security=tls&insecure=0&host=free-de-3.undef.network&type=ws&allowInsecure=0&sni=free-de-3.undef.network#%F0%9F%8E%8A48%40ConfigV2RayNG
 trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443?path=%2Ff2fc2a1f&security=tls&insecure=0&host=free-de-3.undef.network&type=ws&allowInsecure=0&sni=free-de-3.undef.network#🇩🇪[openproxylist.com]
 trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443?path=🔒
