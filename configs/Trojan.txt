@@ -1357,8 +1357,8 @@ trojan://61d8077bfb174e171b8283f155a555ad@160.16.72.33:1281?allowInsecure=0&sni=
 trojan://61d8077bfb174e171b8283f155a555ad@160.16.72.33:1281?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.72.33-0870
 trojan://61d8077bfb174e171b8283f155a555ad@160.16.72.33:1281?security=tls&sni=🔒
 trojan://61d8077bfb174e171b8283f155a555ad@160.16.72.33:1281?sni=🔒
-trojan://61d8077bfb174e171b8283f155a555ad@160.16.72.33:3076?allowInsecure=0&sni=www.nintendogames.net#🇸🇬[openproxylist.com]
 trojan://61d8077bfb174e171b8283f155a555ad@160.16.72.33:3076?allowInsecure=0&sni=🔒
+trojan://61d8077bfb174e171b8283f155a555ad@160.16.72.33:3076?allowInsecure=1&sni=www.nintendogames.net#🇸🇬[openproxylist.com]
 trojan://61d8077bfb174e171b8283f155a555ad@160.16.72.33:3076?allowInsecure=1&sni=🔒
 trojan://61d8077bfb174e171b8283f155a555ad@160.16.72.33:3076?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.72.33-0866
 trojan://61d8077bfb174e171b8283f155a555ad@160.16.72.33:3076?security=tls&sni=🔒
@@ -7443,6 +7443,7 @@ trojan://telegram-id-directvpn@63.178.27.188:22223/?type=tcp&security=tls&sni=�
 trojan://telegram-id-directvpn@63.179.40.205:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-directvpn@63.181.201.60:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-directvpn@63.181.28.78:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
+trojan://telegram-id-directvpn@63.181.90.241:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-directvpn@63.182.39.77:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-privatevpns@13.36.1.246:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@13.36.1.246:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
