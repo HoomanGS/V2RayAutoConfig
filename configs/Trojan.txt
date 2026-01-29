@@ -2153,9 +2153,9 @@ trojan://869e9086806483ca4744a4cb0f3d6e16@52.195.170.6:491?security=tls&sni=www.
 trojan://869e9086806483ca4744a4cb0f3d6e16@58.152.110.193:443?security=tls&type=
 trojan://869e9086806483ca4744a4cb0f3d6e16@58.152.110.193:443?security=tls&type=#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C@ripaojiedian
 trojan://869e9086806483ca4744a4cb0f3d6e16@58.152.110.193:443?security=tls&type=#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C@stairnode
-trojan://869e9086806483ca4744a4cb0f3d6e16@58.152.110.210:443?allowInsecure=1&sni=www.nintendogames.net#🇭🇰[openproxylist.com]
 trojan://869e9086806483ca4744a4cb0f3d6e16@58.152.110.210:443?allowInsecure=1&sni=🔒
 trojan://869e9086806483ca4744a4cb0f3d6e16@58.152.110.210:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.110.210-0411
+trojan://869e9086806483ca4744a4cb0f3d6e16@58.152.110.210:443?security=tls&sni=www.nintendogames.net#🇭🇰[openproxylist.com]
 trojan://869e9086806483ca4744a4cb0f3d6e16@58.152.110.210:443?security=tls&sni=www.nintendogames.net&path=%2f#%f0%9f%87%ad%f0%9f%87%b0%20HK%202
 trojan://869e9086806483ca4744a4cb0f3d6e16@58.152.110.210:443?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=%2f#%f0%9f%87%ad%f0%9f%87%b0%20HK%204
 trojan://869e9086806483ca4744a4cb0f3d6e16@58.152.110.210:443?security=tls&sni=🔒
@@ -7588,7 +7588,6 @@ trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&host=www.gossi
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#@accessoryFardad
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#⚡Telegram
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2rays_ha
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇫🇷[openproxylist.com]
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#@vpnbaz
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇳🇱[openproxylist.com]
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#@Vip_fragment_v2ray
@@ -7597,6 +7596,7 @@ trojan://humanity@172.64.152.23:443?path=🔒
 trojan://humanity@172.64.152.23:443?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&allowInsecure=1#RELAY🚩
 trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#RELAY🚩
 trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%3E%3E%40configV2rayForFree%3A%3ANL
+trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇫🇷[openproxylist.com]
 trojan://humanity@188.114.96.3:443?path=🔒
 trojan://humanity@208.103.161.110:443?alpn=h2%2Chttp%2F1.1&fp=chrome&host=speedtest.net&security=tls&type=ws
 trojan://humanity@208.103.161.110:443?alpn=h2%2Chttp%2F1.1&fp=chrome&host=speedtest.net&security=tls&type=ws#208.103.161.110:443%20(1)
@@ -7849,8 +7849,8 @@ trojan://nodes-b211f28a@node-id-1.v2sv.top:2083?security=tls&type=#%F0%9F%87%AE%
 trojan://nodes-b211f28a@node-id-1.v2sv.top:2083?sni=node-id-1.v2sv.top&path=%2F#ID🇮🇩
 trojan://nodes-b211f28a@node-id-1.v2sv.top:2083?sni=node-id-1.v2sv.top&path=%2f#%f0%9f%87%ae%f0%9f%87%a9%20ID%201
 trojan://nodes-b211f28a@node-tr-1.v2sv.top:2083?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=node-tr-1.v2sv.top#%3E%3E%40v2rayNG_Matsuri%3A%3ATR
+trojan://nodes-b211f28a@node-tr-1.v2sv.top:2083?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=node-tr-1.v2sv.top#🇹🇷[openproxylist.com]
 trojan://nodes-b211f28a@node-tr-1.v2sv.top:2083?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=🔒
-trojan://nodes-b211f28a@node-tr-1.v2sv.top:2083?security=tls&insecure=0&host=TELEGRAM--JKVPN&headerType=none&type=tcp&allowInsecure=0&sni=node-tr-1.v2sv.top#🇹🇷[openproxylist.com]
 trojan://nodes-b211f28a@node-tr-1.v2sv.top:2083?security=tls&insecure=0&host=TELEGRAM--JKVPN&headerType=none&type=tcp&allowInsecure=0&sni=🔒
 trojan://nodes-b211f28a@node-tr-1.v2sv.top:2083?security=tls&type=
 trojan://nodes-b211f28a@node-tr-1.v2sv.top:2083?security=tls&type=#%3E%3E@v2rayNG_Matsuri::TR
@@ -8111,8 +8111,8 @@ trojan://t2vt6i26autu@104.17.162.123:8443?security=tls&sni=zm2ah07zrkwrfxrjr71.z
 trojan://t2vt6i26autu@104.17.162.123:8443?security=tls&sni=🔒
 trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106/?type=tcp&security=tls&sni=binaryboots.algorithmblanket.click#%F0%9F%9F%A998%40oneclickvpnkeys
 trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=binaryboots.algorithmblanket.click#%3E%3E%40ultrasurf_12%3A%3ANZ
+trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=binaryboots.algorithmblanket.click#🇳🇿[openproxylist.com]
 trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=🔒
-trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?security=tls&sni=binaryboots.algorithmblanket.click&fp=chrome&headerType=none&allowInsecure=0&type=tcp#🇳🇿[openproxylist.com]
 trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?security=tls&sni=binaryboots.algorithmblanket.click&type=tcp&headerType=none&path=%2f&allow_insecure=1#%f0%9f%87%b3%f0%9f%87%bf%20NZ%201
 trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?security=tls&sni=🔒
 trojan://tXsBdKfoe9@104.25.145.188:2083/?type=ws&host=cpuhot.boshrachoice.ir.&path=%2FVPNTV20%40_TOP.COM.VPNTV20%40_TOP.COM.VPNTV20%40_TOP.COM%3Fed%3D2048&security=tls&sni=cpuhot.boshrachoice.ir.#33%F0%9F%A7%BF%40oneclickvpnkeys
