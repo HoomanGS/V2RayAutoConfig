@@ -1288,7 +1288,9 @@ trojan://5fb072e0ddd631cf66cf752b09210480@52.195.8.127:3373?allowInsecure=1&sni=
 trojan://5fb072e0ddd631cf66cf752b09210480@52.195.8.127:3373?allowInsecure=1&sni=🔒
 trojan://5fb072e0ddd631cf66cf752b09210480@52.195.8.127:3373?sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20&allowInsecure=1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AD%F0%9F%87%B0HK_3%20%F0%9F%A7%AD%201.3MB%2Fs
 trojan://5fb072e0ddd631cf66cf752b09210480@52.195.8.127:3373?sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF4
+trojan://5fb072e0ddd631cf66cf752b09210480@52.195.8.127:3373?sni=www.nintendogames.net&allowInsecure=1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AD%F0%9F%87%B0HK_1%20%F0%9F%A7%AD%201.7MB%2Fs#کانفیگ_تست_شده
 trojan://5fb072e0ddd631cf66cf752b09210480@52.195.8.127:3373?sni=www.nintendogames.net&allowInsecure=1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AD%F0%9F%87%B0HK_4%20%F0%9F%A7%AD%201.4MB%2Fs
+trojan://5fb072e0ddd631cf66cf752b09210480@52.195.8.127:3373?sni=www.nintendogames.net&allowInsecure=1&fp=chrome#🌐سرور
 trojan://5fb072e0ddd631cf66cf752b09210480@52.195.8.127:3373?sni=🔒
 trojan://5fb072e0ddd631cf66cf752b09210480@54.168.105.60:4006?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-54.168.105.60-0894
 trojan://5fb072e0ddd631cf66cf752b09210480@54.250.24.198:127?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
@@ -1689,7 +1691,6 @@ trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.124.55:2890/?type=tcp&security=
 trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.242.183:1331/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.242.183-1621
 trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.89.176:4054/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.89.176-0377
 trojan://76d630f2af6619c4a5de0ef953df3c6a@202.181.103.246:2760/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-202.181.103.246-0980
-trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@hl-freedom-0.undef.network:443?security=tls&sni=🔒
 trojan://7743e1b5-d301-4a66-b765-17094890fae2@108.162.196.130:443/?type=tcp&security=tls&sni=🔒
 trojan://7743e1b5-d301-4a66-b765-17094890fae2@162.159.128.101:443/?type=tcp&security=tls&sni=🔒
 trojan://7743e1b5-d301-4a66-b765-17094890fae2@190.93.244.105:443/?type=tcp&security=tls&sni=🔒
@@ -3325,7 +3326,6 @@ trojan://BxceQaOe@43.198.233.56:381?allowInsecure=1&sni=t.me%252Fripaojiedian#%F
 trojan://BxceQaOe@43.198.233.56:381?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40stairnode
 trojan://BxceQaOe@43.198.233.56:381?allowInsecure=1&sni=t.me%252Fripaojiedian#🏳[openproxylist.com]
 trojan://BxceQaOe@43.198.233.56:381?allowInsecure=1&sni=🔒
-trojan://BxceQaOe@43.198.233.56:381?mux=&security=tls&headerType=none&type=tcp&muxConcurrency=-1
 trojan://BxceQaOe@43.198.233.56:381?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://BxceQaOe@43.198.233.56:381?sni=🔒
 trojan://BxceQaOe@43.199.47.199:2569?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
@@ -3337,12 +3337,10 @@ trojan://BxceQaOe@43.199.47.199:3292?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0
 trojan://BxceQaOe@43.199.47.199:3292?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40stairnode
 trojan://BxceQaOe@43.199.47.199:3292?allowInsecure=1&sni=t.me%2Fripaojiedian#🇭🇰[openproxylist.com]
 trojan://BxceQaOe@43.199.47.199:3292?allowInsecure=1&sni=🔒
-trojan://BxceQaOe@43.199.47.199:3292?mux=&security=tls&headerType=none&type=tcp&muxConcurrency=-1
 trojan://BxceQaOe@43.199.47.199:3292?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%40FreakConfig
 trojan://BxceQaOe@43.199.47.199:3292?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me/ripaojiedian#@filembad
 trojan://BxceQaOe@43.199.47.199:3292?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me/ripaojiedian#🇭🇰@FreakConfig
 trojan://BxceQaOe@43.199.47.199:3292?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=🔒
-trojan://BxceQaOe@43.199.47.199:3292?security=tls&sni=🔒
 trojan://BxceQaOe@43.199.47.199:3292?sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
 trojan://BxceQaOe@43.199.47.199:3292?sni=🔒
 trojan://BxceQaOe@43.199.47.199:4183?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
@@ -7012,6 +7010,7 @@ trojan://h0i1j2k3-4567-8bcd-9abc-0123abcdef45@104.21.25.80:443/?type=tcp&securit
 trojan://hByrXHXE8v@www.speedtest.net:8880?type=ws&path=🔒
 trojan://hByrXHXE8v@www.zula.ir:8880?type=ws&path=🔒
 trojan://hI70tn0ifx@162.159.198.189:443?path=%2FhI70tn0ifx%3Fed%3D128&security=tls&alpn=http%2F1.1&insecure=0&host=my-new-worker.khiarshorplus.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=my-new-worker.khiarshorplus.workers.dev#🌐سرور
+trojan://hI70tn0ifx@162.159.198.189:443?path=🔒
 trojan://hZ7JkYVAfB@141.227.138.29:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=🔒
 trojan://hZ7JkYVAfB@141.227.138.29:1935?security=tls&alpn=h3,h2,http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://hZ7JkYVAfB@141.227.138.29:1935?security=tls&headerType=&type=tcp&sni=🔒
@@ -7033,7 +7032,6 @@ trojan://humanity@104.18.32.37:443?path=/assignment&security=tls&insecure=0&fp=c
 trojan://humanity@104.18.32.37:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#shankamil
 trojan://humanity@104.18.32.37:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#⚡Telegram
 trojan://humanity@104.18.32.37:443?path=🔒
-trojan://humanity@104.18.32.37:443?security=tls&sni=🔒
 trojan://humanity@104.18.32.37:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment#%E6%9C%AA%E7%9F%A512
 trojan://humanity@104.18.32.37:443?security=tls&type=ws&sni=🔒
 trojan://humanity@104.18.32.47:443/?allowInsecure=1&fp=chrome&host=www.multiplydose.com&insecure=1&path=/assignment&security=tls&sni=www.multiplydose.com&type=ws#@v2rays_ha
@@ -7815,7 +7813,6 @@ trojan://telegram-id-directvpn@52.47.41.227:22222?type=tcp&sni=🔒
 trojan://telegram-id-directvpn@52.51.114.1:22222?security=tls&sni=🔒
 trojan://telegram-id-directvpn@52.58.206.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور
 trojan://telegram-id-directvpn@52.58.206.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
-trojan://telegram-id-directvpn@52.58.59.127:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-directvpn@54.191.230.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#ConfigV2RayNGtrojan://telegram-id-directvpn@18.191.41.168:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%40ConfigV2RayNG
 trojan://telegram-id-directvpn@54.191.230.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-directvpn@54.76.45.13:22222?security=tls&sni=🔒
@@ -7935,7 +7932,6 @@ trojan://telegram-id-privatevpns@18.196.217.14:22222?security=tls&sni=🔒
 trojan://telegram-id-privatevpns@18.196.39.57:22222?type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@18.197.119.26:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@18.198.111.78:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
-trojan://telegram-id-privatevpns@18.199.2.96:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=🔒
 trojan://telegram-id-privatevpns@18.199.2.96:22222?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40privatevpns%20%231
 trojan://telegram-id-privatevpns@18.199.2.96:22222?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=🔒
 trojan://telegram-id-privatevpns@18.199.2.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
@@ -8012,7 +8008,6 @@ trojan://telegram-id-privatevpns@35.180.9.127:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@35.180.9.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@35.181.136.255:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#⚡Telegram
 trojan://telegram-id-privatevpns@35.181.136.255:22222?alpn=http/1.1&headerType=none&security=tls&sni=🔒
-trojan://telegram-id-privatevpns@35.181.136.255:22222?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=🔒
 trojan://telegram-id-privatevpns@35.181.136.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@35.181.136.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.136.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور
@@ -8095,7 +8090,6 @@ trojan://telegram-id-privatevpns@63.180.39.147:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@63.180.39.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور
 trojan://telegram-id-privatevpns@63.180.39.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@63.181.22.229:22222?alpn=http/1.1&headerType=none&security=tls&sni=🔒
-trojan://telegram-id-privatevpns@63.181.22.229:22222?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=🔒
 trojan://telegram-id-privatevpns@63.181.22.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@63.181.22.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.181.22.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور
