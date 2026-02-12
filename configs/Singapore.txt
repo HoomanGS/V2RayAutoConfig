@@ -2,6 +2,7 @@ hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000/?insecure=1&sni=bing.com#SG
 ss://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 ss://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?encryption=none&security=none&type=ws&host=Fastapi.Org&path=%2F%3Fed%3D1024#SG🇸🇬
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@143.198.213.40:443?path=/%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&%3Bsecurity=tls&%3Bencryption=none&%3Bhost=sni.111000.v6.navy&%3Bfp=chrome&%3Btype=ws&%3Bsni=sni.111000.v6.navy%3C/code%3E%3Cbr/%3E%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20VLESS%20%7C%20%40v2raych%20%231
 ss://844e0f15-6ea4-4dd7-8f08-11311c9c23e8@206.238.237.211:2083/?type=tcp&encryption=none&flow=#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20VLESS%20%7C%20%40vmesc%20%231
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MmQyYjQ3MTgxYTMyZGU3@154.26.132.38:16922#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+154.26.132.38-16922+%7C+177.6ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0SHViMmY5SnloRUN5QXEyT3BtME5T@51.79.161.232:443#%F0%9F%87%B8%F0%9F%87%ACSG-51.79.161.232-8156
@@ -160,6 +161,7 @@ trojan://iyinglong@18.141.8.87:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.14
 trojan://oZAugtgF5T@146.190.87.238:443/?type=ws&host=aka.ms&path=%2F&security=tls&sni=aka.ms#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40mpmehi%20%5B1%5D
 vless://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?encryption=none&security=none&type=ws&host=Fastapi.Org&path=%2F%3Fed%3D1024#SG🇸🇬
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@143.198.213.40:443?path=/%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&%3Bsecurity=tls&%3Bencryption=none&%3Bhost=sni.111000.v6.navy&%3Bfp=chrome&%3Btype=ws&%3Bsni=sni.111000.v6.navy%3C/code%3E%3Cbr/%3E%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20VLESS%20%7C%20%40v2raych%20%231
 vless://844e0f15-6ea4-4dd7-8f08-11311c9c23e8@206.238.237.211:2083/?type=tcp&encryption=none&flow=#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20VLESS%20%7C%20%40vmesc%20%231
 vless://e85ce618-50cd-42e0-a8ba-5052e6be9498@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 vmess://ewogICAgImFkZCI6ICI0NS43Ni4xODEuMjQ2IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI1MjI2MzkwMS1iM2NmLTRkN2QtYjRmZC1hMTJmZTE3OGVmMmEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMTIzNDUsCiAgICAicHMiOiAi8J+HuPCfh6xTRy00NS43Ni4xODEuMjQ2LTcwODMiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
