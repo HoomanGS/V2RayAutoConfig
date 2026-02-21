@@ -7,7 +7,6 @@ ss://0fd6389a-acb9-48b4-8d2c-63edc5dbc4ba@135.181.205.220:31421?type=tcp&encrypt
 ss://0fd6389aacb948b48d2c63edc5dbc4baOg==@135.181.205.220:31421#FI%F0%9F%87%AB%F0%9F%87%AE+%7C+135.181.205.220-31421+%7C+182.62ms
 ss://192f7c25-0c3a-4089-a67b-5138c5d5d561@144.31.90.119:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&fp=chrome&security=reality&pbk=1zFPeiVWBcIJay74YmHtU38qRsUQGpMqG6zEAGu_BHM&sid=15affa0af66dfc79#REALITY|FI🇫🇮
 ss://192f7c250c3a4089a67b5138c5d5d561Og==@144.31.90.119:443#REALITY%7CFI%F0%9F%87%AB%F0%9F%87%AE+%7C+144.31.90.119-443+%7C+159.55ms
-ss://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@95.217.175.232:8888?security=reality&%3Bencryption=none&%3Bpbk=gGCW-DyND3BcwwcMHQj3tXassswAt3C7hw1Obl9GdCo&%3BheaderType=none&%3Bfp=chrome&%3Bspx=/&%3Btype=tcp&%3Bsni=tgju.org&%3Bsid=ffffffffff#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20VLESS%20%7C%20%40vpnplusee_free%20%231
 ss://2b7b924528da470f9e19150a1099319cOg==@64.188.80.115:7443#REALITY%7CFI%F0%9F%87%AB%F0%9F%87%AE+%7C+64.188.80.115-7443+%7C+174.92ms
 ss://309fa273-6579-4cb2-9143-7cad50401eba@135.181.155.97:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040#REALITY|FI🇫🇮
 ss://32609032-c9d6-487c-a1fd-0e4b09661e1d@65.109.229.174:34224?encryption=mlkem768x25519plus.native.0rtt.jg1YgNFyOMWZTDGBfLaD0TC9StfclQx_yyck7YOSry8&security=none&type=grpc&authority=&serviceName=grpc&mode=multi#FI🇫🇮
@@ -105,7 +104,6 @@ vless://0fd6389a-acb9-48b4-8d2c-63edc5dbc4ba@135.181.205.220:31421?security=&enc
 vless://0fd6389a-acb9-48b4-8d2c-63edc5dbc4ba@135.181.205.220:31421?security=none&encryption=none&headerType=none&type=tcp#FI🇫🇮
 vless://0fd6389a-acb9-48b4-8d2c-63edc5dbc4ba@135.181.205.220:31421?type=tcp&encryption=none#FI🇫🇮
 vless://192f7c25-0c3a-4089-a67b-5138c5d5d561@144.31.90.119:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&fp=chrome&security=reality&pbk=1zFPeiVWBcIJay74YmHtU38qRsUQGpMqG6zEAGu_BHM&sid=15affa0af66dfc79#REALITY|FI🇫🇮
-vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@95.217.175.232:8888?security=reality&%3Bencryption=none&%3Bpbk=gGCW-DyND3BcwwcMHQj3tXassswAt3C7hw1Obl9GdCo&%3BheaderType=none&%3Bfp=chrome&%3Bspx=/&%3Btype=tcp&%3Bsni=tgju.org&%3Bsid=ffffffffff#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20VLESS%20%7C%20%40vpnplusee_free%20%231
 vless://309fa273-6579-4cb2-9143-7cad50401eba@135.181.155.97:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040#REALITY|FI🇫🇮
 vless://32609032-c9d6-487c-a1fd-0e4b09661e1d@65.109.229.174:34224?encryption=mlkem768x25519plus.native.0rtt.jg1YgNFyOMWZTDGBfLaD0TC9StfclQx_yyck7YOSry8&security=none&type=grpc&authority=&serviceName=grpc&mode=multi#FI🇫🇮
 vless://32edf232-b762-4326-85db-94e54cd40b7d@my.kiomars.shop:6620?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=c3b6ed4da7a983c7#REALITY|FI🇫🇮
