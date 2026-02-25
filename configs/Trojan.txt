@@ -1522,6 +1522,7 @@ trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@hjk.freevpn2027.dpdns.org:443?alpn
 trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@hjk.freevpn2027.dpdns.org:443?alpn=http%2F1.1&host=hjk.freevpn2027.dpdns.org&path=%2FElrtQ8CAz6RgfMaiN9LMya&security=tls&sni=hjk.freevpn2027.dpdns.org&type=ws#RELAY🚩
 trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@hjk.freevpn2027.dpdns.org:443?security=tls&sni=hjk.freevpn2027.dpdns.org&type=ws&host=hjk.freevpn2027.dpdns.org&path=%2FElrtQ8CAz6RgfMaiN9LMya#RELAY🚩
 trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@jjjki.dddct.us.ci:443?alpn=h2&security=tls&serviceName=ElrtQ8CAz6RgfMaQ7PCejkt2o&sni=jjjki.dddct.us.ci&type=grpc#RELAY🚩
+trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@jjjki.dddct.us.ci:443?alpn=h2&security=tls&serviceName=ElrtQ8CAz6RgfMaQ7PCejkt2o&type=grpc#🌐سرور
 trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@jjjki.dddct.us.ci:443?alpn=http%2F1.1&host=jjjki.dddct.us.ci&path=%2FElrtQ8CAz6RgfMaiN9LMya&security=tls&sni=jjjki.dddct.us.ci&type=ws#RELAY🚩
 trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@jki.huangdi.indevs.in:443?alpn=h2&security=tls&serviceName=ElrtQ8CAz6RgfMaQ7PCejkt2o&sni=jki.huangdi.indevs.in&type=grpc#RELAY🚩
 trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@jki.huangdi.indevs.in:443?alpn=http%2F1.1&host=jki.huangdi.indevs.in&path=%2FElrtQ8CAz6RgfMaiN9LMya&security=tls&sni=jki.huangdi.indevs.in&type=ws#RELAY🚩
@@ -5689,7 +5690,6 @@ trojan://p3q4r5s6-7890-1bcd-2abc-3456abcdef78@104.21.25.180:443/?type=tcp&securi
 trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443/?type=tcp&security=tls&sni=free-de-2.undef.network#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool%20%282%29
 trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=free-de-2.undef.network#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443?security=tls&sni=free-de-2.undef.network#%F0%9F%87%A9%F0%9F%87%AADE-185.235.137.29-0296
-trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443?security=tls&sni=free-de-2.undef.network#🇩🇪[openproxylist.com]
 trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443?security=tls&sni=🔒
 trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443?type=tcp&security=tls&allowInsecure=1#DE🇩🇪
 trojan://pgn1vq7r-e5mh-5nil-dnfd-10zn5wm44r2f@127.0.0.1:1080?security=tls&type=tcp
