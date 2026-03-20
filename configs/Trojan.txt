@@ -259,7 +259,6 @@ trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@104.21.95.229:2083/?type=ws&host=i
 trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@172.67.175.148:443/?type=ws&host=invincible.fafa20.shop&path=🔒
 trojan://13561080-8b99-11ee-8d87-1239d0255272@162.159.137.232:443/?type=tcp&security=tls&sni=🔒
 trojan://13561080-8b99-11ee-8d87-1239d0255272@162.159.137.232:443?security=tls&sni=🔒
-trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#🇸🇬[openproxylist.com]
 trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=🔒
 trojan://13e26f64-2e0c-4461-92cd-d83294cc18f0@104.21.76.21:443?security=tls&sni=🔒
 trojan://13e26f64-2e0c-4461-92cd-d83294cc18f0@104.21.94.69:443?security=tls&sni=🔒
@@ -2699,10 +2698,11 @@ trojan://IL37892054@growing-tuna.rooster465.autos:443?security=tls
 trojan://IL37892054@growing-tuna.rooster465.autos:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-185.244.208.189-0830
 trojan://IL37892054@growing-tuna.rooster465.autos:443?security=tls&type=tcp&headerType=none
 trojan://IL37892054@growing-tuna.rooster465.autos:443?security=tls&type=tcp&headerType=none#🇭🇰[openproxylist.com]
-trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?allowInsecure=0&sni=outgoing-ladybird.rooster465.autos#🇵🇱[openproxylist.com]
 trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?allowInsecure=0&sni=🔒
 trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outgoing-ladybird.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.103-0813
 trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&sni=🔒
+trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&type=tcp&headerType=none
+trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&type=tcp&headerType=none#🇵🇱[openproxylist.com]
 trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?sni=outgoing-ladybird.rooster465.autos#%F0%9F%87%AD%F0%9F%87%BAHU%E5%8C%88%E7%89%99%E5%88%A9%2040.3KB%2Fs
 trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?sni=🔒
 trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls&sni=select-marmoset.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.140.83-0228
@@ -5377,6 +5377,8 @@ trojan://telegram-id-privatevpns@18.158.21.192:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@18.158.21.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.158.21.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@18.158.32.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
+trojan://telegram-id-privatevpns@18.159.140.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
+trojan://telegram-id-privatevpns@18.159.140.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@18.168.239.61:22222?security=tls&sni=🔒
 trojan://telegram-id-privatevpns@18.170.53.62:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@18.184.151.107:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=🔒
@@ -5526,9 +5528,7 @@ trojan://telegram-id-privatevpns@54.93.56.163:22222?security=tls&alpn=http%2F1.1
 trojan://telegram-id-privatevpns@54.93.56.163:22222?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=🔒
 trojan://telegram-id-privatevpns@63.176.182.62:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 trojan://telegram-id-privatevpns@63.176.182.62:22222?allowInsecure=0&sni=🔒
-trojan://telegram-id-privatevpns@63.176.237.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@63.176.237.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@63.176.237.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@63.177.155.28:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@63.177.173.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@63.177.18.31:22222/?type=tcp&security=tls&sni=🔒
