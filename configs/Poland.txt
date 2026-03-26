@@ -61,7 +61,6 @@ ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@217.30.10.63:9093#%F0%9F%87%B5%F0%
 ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@217.30.10.68:9093#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8325
 ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg==@217.30.10.68:9057#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8309
 ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg==@217.30.10.70:9057#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-4869
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#%F0%9F%87%B5%F0%9F%87%B1PL-57.128.214.100-0250
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#%F0%9F%87%B5%F0%9F%87%B1PL-57.128.214.100-4755
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#PL%F0%9F%87%B5%F0%9F%87%B1+%7C+57.128.214.100-12000+%7C+131.71ms
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7306#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-1786
@@ -96,16 +95,12 @@ ss://fd37be2f-f8d1-47de-97e8-13c28107d31e@138.124.104.221:443?flow=xtls-rprx-vis
 trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-51.83.186.142-2544
 trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-51.83.186.142-3573
 trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?security=tls&sni=fluent-stingray.crayfish192.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.55-0207
-trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?security=tls&sni=fluent-stingray.crayfish192.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.55-1668
 trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?security=tls&sni=fluent-stingray.crayfish192.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.55-1685
 trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?allowInsecure=1#PL🇵🇱
-trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outgoing-ladybird.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.103-0208
 trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outgoing-ladybird.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.103-0211
 trojan://WF42809561@funky-platypus.rooster465.autos:443?security=tls&sni=funky-platypus.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.54-0222
-trojan://WF42809561@funky-platypus.rooster465.autos:443?security=tls&sni=funky-platypus.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.54-0503
 trojan://WF42809561@outgoing-cockatoo.rooster465.autos:443?security=tls&sni=outgoing-cockatoo.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.171-0209
 trojan://WF42809561@top-goshawk.rooster465.autos:443?security=tls&sni=top-goshawk.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.76-0212
-trojan://WF42809561@top-goshawk.rooster465.autos:443?security=tls&sni=top-goshawk.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.76-0504
 vless://07cd9dbe-21ac-4871-817d-c772687e4b7c@178.17.59.73:2053?security=reality&encryption=none&pbk=WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ibm.com&sid=423bccc9c13fb509#REALITY|PL🇵🇱
 vless://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=plb.tunnelguard.ru#PL🇵🇱
 vless://201cb355-27c3-4bcc-a27f-50394519d242@pol1.linkey37.ru:443?security=reality&encryption=none&pbk=z6ja1quSA8bpLdIzWDb9Yj8mnl8Mw_Q0PZB6-3Jgg2U&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru#REALITY|PL🇵🇱
