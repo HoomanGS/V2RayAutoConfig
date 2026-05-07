@@ -1,6 +1,5 @@
 ss://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
-ss://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Fastapi.Org&type=ws#SG🇸🇬
-ss://6f99505678024a1dbff761678e626c3fOg==@52.187.36.104:443#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+52.187.36.104-443+%7C+232.98ms
+ss://6f99505678024a1dbff761678e626c3fOg==@52.187.36.104:443#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+52.187.36.104-443+%7C+221.41ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0SHViMmY5SnloRUN5QXEyT3BtME5T@51.79.161.232:443#%F0%9F%87%B8%F0%9F%87%ACSG-51.79.161.232-8084
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#%3E%3E%40v2ray_configs_pool%3A%3ASG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#%F0%9F%87%B8%F0%9F%87%ACSG-38.89.142.56-0340
@@ -97,8 +96,10 @@ ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:80#%3E%3E%40OutlineVp
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@139.99.68.21:6379#%F0%9F%87%B8%F0%9F%87%ACSG-139.99.68.21-5564
 ss://bafacd98-136a-4530-838d-4e5c51838dac@139.59.107.148:443?encryption=none&security=tls&sni=juzi8186.qea.ccwu.cc&fp=firefox&insecure=0&allowInsecure=0&ech=encryptedsni.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=juzi8186.qea.ccwu.cc&path=%2Fad%2Fjuzibaipiao%3Fed%3D2560#%3E%3E%40v2ray_configs_pool%3A%3ASG
 ss://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?sni=node1.nanonet.host&fp=chrome&security=tls#%3E%3E%40v2nodes%3A%3ASG
+ss://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?sni=node1.nanonet.host&fp=chrome&security=tls#SG🇸🇬
 ss://e85ce618-50cd-42e0-a8ba-5052e6be9498@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@27.50.48.29:8880#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+27.50.48.29-8880+%7C+2.09ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@27.50.48.29:8880#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+27.50.48.29-8880+%7C+5.48ms
+ss://fac62eac-1eec-4260-a991-0cac2f8745a3@141.193.213.21:80?type=ws&host=free-server.techsonic.ggff.net&path=%2F%40Tech_Sonic#SG🇸🇬
 trojan://08964210-e7b8-11ec-95aa-1239d0255272@w12.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.177.105-5575
 trojan://0c6a3341e8d5ab17@103.172.116.196:3389?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.196-2025
 trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#%3E%3E%40configshub2%3A%3ASG
@@ -137,10 +138,11 @@ trojan://iyinglong@18.140.67.76:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.1
 trojan://iyinglong@18.141.8.87:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.141.8.87-5569
 trojan://pro@_LlpRWwEh4tRl4cSzc0TZDxM@starlink-sg2.mfa.cat:20000?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-47.129.98.240-4708
 vless://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Fastapi.Org&type=ws#SG🇸🇬
 vless://bafacd98-136a-4530-838d-4e5c51838dac@139.59.107.148:443?encryption=none&security=tls&sni=juzi8186.qea.ccwu.cc&fp=firefox&insecure=0&allowInsecure=0&ech=encryptedsni.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=juzi8186.qea.ccwu.cc&path=%2Fad%2Fjuzibaipiao%3Fed%3D2560#%3E%3E%40v2ray_configs_pool%3A%3ASG
 vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?sni=node1.nanonet.host&fp=chrome&security=tls#%3E%3E%40v2nodes%3A%3ASG
+vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?sni=node1.nanonet.host&fp=chrome&security=tls#SG🇸🇬
 vless://e85ce618-50cd-42e0-a8ba-5052e6be9498@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
+vless://fac62eac-1eec-4260-a991-0cac2f8745a3@141.193.213.21:80?type=ws&host=free-server.techsonic.ggff.net&path=%2F%40Tech_Sonic#SG🇸🇬
 vmess://ewogICAgImFkZCI6ICI0NS43Ni4xODEuMjQ2IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI1MjI2MzkwMS1iM2NmLTRkN2QtYjRmZC1hMTJmZTE3OGVmMmEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMTIzNDUsCiAgICAicHMiOiAi8J+HuPCfh6xTRy00NS43Ni4xODEuMjQ2LTcxMTkiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vmess://ewogICAgImFkZCI6ICI0Ny44NC42Mi4xIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJkMmEwYmNkNy1lMzJkLTRiNzEtOTFhOS01ZmQ3MDQzYjcwMjUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjAwODYsCiAgICAicHMiOiAi8J+HuPCfh6xTRy00Ny44NC42Mi4xLTczNTkiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vmess://ewogICAgImFkZCI6ICI0Ny4yNDEuMTg3LjI1MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImpwLnNheXVyaS5jZiIsCiAgICAiaWQiOiAiMWFiMmJhMmMtMWI2ZS00MWEyLWUwM2YtZGJmNzVkYzNmNzgyIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2ZyZWUiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HuPCfh6xTRy00Ny4yNDEuMTg3LjI1MC0wMDUyIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
