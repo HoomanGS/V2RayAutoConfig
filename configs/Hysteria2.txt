@@ -7,6 +7,7 @@ hysteria2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@107.173.127.166:25000?insecure=
 hysteria2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@198.23.130.211:25000?insecure=1&sni=api.push.apple.com#
 hysteria2://39c2e591-2ebe-4a6f-bea4-803783cd5183@sg05.453521.xyz:8080?sni=sg05.453521.xyz#
 hysteria2://3f2d3497-6843-46f1-aa34-5469dc953259@sg05.453521.xyz:8080?sni=sg05.453521.xyz#
+hysteria2://3f2d3497-6843-46f1-aa34-5469dc953259@sg05.453521.xyz:8080?sni=sg05.453521.xyz&insecure=0#
 hysteria2://3f2d3497-6843-46f1-aa34-5469dc953259@sg21.453521.xyz:8080?sni=sg21.453521.xyz#
 hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056/?insecure=1&sni=flkf.mangshe.xyz#
 hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056?insecure=1&sni=flkf.mangshe.xyz#
@@ -100,4 +101,7 @@ hysteria2://hysteria2_fastlane_210pha9tw%3AvpgCasGegr3TmyztgCbfrGSR2wVre8Rt@150.
 hysteria2://hysteria2_fastlane_210pha9tw%3AvpgCasGegr3TmyztgCbfrGSR2wVre8Rt@150.241.79.106:1935?sni=de2.h.fastlanehosting.ru&insecure=0#
 hysteria2://hysteria2_fastlane_210pha9tw:vpgCasGegr3TmyztgCbfrGSR2wVre8Rt@150.241.79.106:1935/?sni=de2.h.fastlanehosting.ru#
 hysteria2://hysteria2_fastlane_210pha9tw@150.241.79.106:443?sni=de2.h.fastlanehosting.ru#
+hysteria2://xyk5qkzq731vqp6n@uswp.zlr.dpdns.org:15861?sni=uswp.zlr.dpdns.org#
+hysteria2://xyk5qkzq731vqp6n@uswp.zlr.dpdns.org:15861?sni=uswp.zlr.dpdns.org&insecure=0#
+hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#
