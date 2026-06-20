@@ -19,7 +19,6 @@ hysteria2://%40Masir_Sefid@18.157.222.169:443?insecure=0&sni=free.masir-sefid.sh
 hysteria2://%40Masir_Sefid@18.157.222.169:443?obfs=salamander&obfs-password=Masir_Sefid&sni=free.masir-sefid.shop&insecure=0#
 hysteria2://%40Masir_Sefid@18.157.222.169:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#
 hysteria2://%40Masir_Sefid@18.157.222.169:443?sni=free.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#
-hysteria2://%40Masir_Sefid@18.157.222.169:443?sni=free.masir-sefid.shop&insecure=0&obfs=salamander#
 hysteria2://%40Masir_Sefid@18.157.222.169:444?insecure=0&sni=free.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#
 hysteria2://%40Masir_Sefid@18.157.222.169:444?obfs=salamander&obfs-password=Masir_Sefid&sni=free.masir-sefid.shop&insecure=0#
 hysteria2://%40Masir_Sefid@18.157.222.169:444?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#
@@ -94,6 +93,7 @@ hysteria2://71b0bd15-a03a-481e-a52d-74042c8db157@103.88.241.133:8443?sni=sloplle
 hysteria2://71b0bd15-a03a-481e-a52d-74042c8db157@103.88.241.133:8443?sni=slopllex.app&insecure=0&allowInsecure=0#
 hysteria2://83fz46anjge1ntdy@139.59.94.41:443?alpn=h3&fp=firefox&security=tls&sni=139.59.94.41#
 hysteria2://940f51d6-e0a4-4add-b96b-328e4a84b642@140.245.27.220:51000/?insecure=1&sni=cn.cremedelamer.com#
+hysteria2://940f51d6-e0a4-4add-b96b-328e4a84b642@140.245.27.220:51000?insecure=1&sni=cn.cremedelamer.com#
 hysteria2://9P5zfc7S0s@srm.kishonline.online:443?security=tls&obfs=salamander&obfs-password=kish-data-center&insecure=0&sni=srm.kishonline.online#
 hysteria2://9f5ce1f6-d223-4f80-b848-72b7d662f189@5.39.202.94:443?sni=cz2.helper-internet.com&pinSHA256=random#
 hysteria2://9f5ce1f6-d223-4f80-b848-72b7d662f189@88.119.176.134:443?sni=lit7.helper-internet.com&pinSHA256=random#
@@ -161,11 +161,9 @@ hysteria2://Masir_Sefid@18.193.90.31:443?security=tls&obfs=salamander&obfs-passw
 hysteria2://Masir_Sefid@18.193.90.31:444?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qs.masir-sefid.shop#
 hysteria2://Masir_Sefid@206.189.58.246:1040?insecure=0&sni=Api1.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid#
 hysteria2://Masir_Sefid@206.189.58.246:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=Api1.masir-sefid-1.my#
-hysteria2://Masir_Sefid@206.189.58.246:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=Api1.masir-sefid-1.my#@prrofile_purple
 hysteria2://Masir_Sefid@206.189.58.246:1040?sni=Api1.masir-sefid-1.my&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#
 hysteria2://Masir_Sefid@206.189.58.246:2053?insecure=0&sni=Api1.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid#
 hysteria2://Masir_Sefid@206.189.58.246:2053?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=Api1.masir-sefid-1.my#
-hysteria2://Masir_Sefid@206.189.58.246:2053?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=Api1.masir-sefid-1.my#@prrofile_purple
 hysteria2://Masir_Sefid@206.189.58.246:2053?sni=Api1.masir-sefid-1.my&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#
 hysteria2://Masir_Sefid@206.189.58.246:2087?insecure=0&sni=Api1.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid#
 hysteria2://Masir_Sefid@206.189.58.246:2087?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=Api1.masir-sefid-1.my#
@@ -181,7 +179,6 @@ hysteria2://Masir_Sefid@206.189.58.246:54040?security=tls&obfs=salamander&obfs-p
 hysteria2://Masir_Sefid@206.189.58.246:54040?sni=Api1.masir-sefid-1.my&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#
 hysteria2://Masir_Sefid@206.189.58.246:8443?insecure=0&sni=Api1.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid#
 hysteria2://Masir_Sefid@206.189.58.246:8443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=Api1.masir-sefid-1.my#
-hysteria2://Masir_Sefid@206.189.58.246:8443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=Api1.masir-sefid-1.my#@prrofile_purple
 hysteria2://Masir_Sefid@207.154.242.160:1040?sni=Api.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid&insecure=0#
 hysteria2://Masir_Sefid@207.154.242.160:2053?sni=Api.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid&insecure=0#
 hysteria2://Masir_Sefid@207.154.242.160:2087?sni=Api.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid&insecure=0#
@@ -224,6 +221,8 @@ hysteria2://T$me$V2RayyNGvpn@70.34.205.15:443?security=tls&obfs=salamander&obfs-
 hysteria2://T$me$V2RayyNGvpn@70.34.205.15:443?security=tls&obfs=salamander&obfs-password=T.me$V2RayyNGvpn&insecure=1&sni=www.wordreference.com#🇸🇪@V2RayyNGvpn🇸🇪
 hysteria2://T$me$V2RayyNGvpn@70.34.206.217:443?security=tls&obfs=salamander&obfs-password=T$me$V2RayyNGVpn@V2RayyNGvpn&insecure=1&sni=www.wordreference.com#
 hysteria2://T$me$V2RayyNGvpn@70.34.206.217:443?security=tls&obfs=salamander&obfs-password=T$me$V2RayyNGVpn@V2RayyNGvpn&insecure=1&sni=www.wordreference.com#🇸🇪@V2RayyNGvpn🇸🇪
+hysteria2://T%24me%24V2RayyNGvpn@70.34.205.15:443?security=tls&obfs=salamander&obfs-password=T.me%24V2RayyNGvpn&insecure=1&sni=www.wordreference.com#
+hysteria2://T%24me%24V2RayyNGvpn@70.34.206.217:443?security=tls&obfs=salamander&obfs-password=T%24me%24V2RayyNGVpn%40V2RayyNGvpn&insecure=1&sni=www.wordreference.com#
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&note=@FreeOnlineVPN#
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&note=@FreeOnlineVPN#🇳🇱
@@ -346,13 +345,14 @@ hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?security=tls&obfs=sala
 hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?security=tls&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ&insecure=0&sni=tunel1.washing.help#@prrofile_purple
 hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?security=tls&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ&insecure=0&sni=tunel1.washing.help#telegram
 hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?security=tls&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ&insecure=0&sni=tunel1.washing.help#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️405🌐🆕️
-hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?security=tls&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ&insecure=0&sni=tunel1.washing.help#🇷🇺@FreakConfig
 hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?security=tls&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ&insecure=0&sni=tunel1.washing.help%23telegram%20@mtmvpn#
 hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?sni=tunel1.washing.help&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#
 hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?sni=tunel1.washing.help&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#✅
 hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?sni=tunel1.washing.help&insecure=0&obfs=salamander#
 hysteria2://vlxjqoiauby22dvb@n.acp.us.ci:443?security=tls&obfs=salamander&obfs-password=%40arshiacomplus&insecure=0&sni=n.acp.us.ci#
 hysteria2://vlxjqoiauby22dvb@n.acp.us.ci:443?sni=n.acp.us.ci&insecure=0&obfs=salamander#
+hysteria2://wundefinedg2dqmQqM@82.47.63.181:443?security=tls&obfs=salamander&obfs-password=T%24me%24V2RayyNGvpn%40V2RayyNGvpn&insecure=1&sni=#
+hysteria2://wundefinedg2dqmQqM@82.47.63.181:443?security=tls&obfs=salamander&obfs-password=T%24me%24V2RayyNGvpn%40V2RayyNGvpn&insecure=1&sni=www.wordreference.com#
 hysteria2://zZlPDO5jYeaE9rYtNnjlBI0igvbIdjRX@endpoint.neoservers.ir:30781?alpn=h3%2Ch2%2Chttp/1.1&fp=chrome&sni=www.microsoft.com&obfs=salamander&obfs-password=8s7t1sNDH36vU8_Ixd7MckIY#
 hysteria2://zZlPDO5jYeaE9rYtNnjlBI0igvbIdjRX@endpoint.neoservers.ir:30781?insecure=0&sni=www.microsoft.com&obfs=salamander&obfs-password=8s7t1sNDH36vU8_Ixd7MckIY#
 hysteria2://zZlPDO5jYeaE9rYtNnjlBI0igvbIdjRX@endpoint.neoservers.ir:30781?obfs=salamander&obfs-password=8s7t1sNDH36vU8_Ixd7MckIY&fm={#
