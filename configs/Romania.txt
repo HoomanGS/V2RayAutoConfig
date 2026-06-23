@@ -131,7 +131,7 @@ ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.245:8443?encryption=none&ty
 ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.248:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#RO🇷🇴
 ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.248:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn9-33.vk-cdnvideo.com&insecure=1&allowInsecure=1#RO🇷🇴
 ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.251:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#RO🇷🇴
-ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?encryption=none&%3Btype=tcp&%3Bsecurity=tls&%3BheaderType=none&%3Bsni=cdn3-87.vk-cdnvideo.com&%3Balpn=http/1.1&%3Bfp=safari&%3Binsecure=0&%3BallowInsecure=0#%F0%9F%87%B7%F0%9F%87%B4%20RO%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%231
+ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?security=tls&%3Bencryption=none&%3Binsecure=0&%3BheaderType=none&%3Bfp=chrome&%3Btype=tcp&%3BallowInsecure=0&%3Bsni=cdn3-87.vk-cdnvideo.com#%F0%9F%87%B7%F0%9F%87%B4%20RO%20%7C%20VLESS%20%7C%20%40v2rayprotocol%20%231
 ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&fp=safari&type=tcp&sni=cdn3-87.vk-cdnvideo.com#RO🇷🇴
 ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#RO🇷🇴
 ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-09.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=cdn7-09.vk-cdnvideo.com#RO🇷🇴
@@ -152,7 +152,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989#%F0%9F%87%B7%F0
 ss://c0d445a7-4f33-446f-a113-2180ef25ed2d@64.7.199.242:14342/?type=ws&encryption=none&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3ARO%20%281%29
 ss://d342d11ed4244583b36e524ab1f0afa4Og==@45.85.118.93:2095#RO%F0%9F%87%B7%F0%9F%87%B4+%7C+45.85.118.93-2095+%7C+3.04ms
 ss://fa18024e-748c-44cd-904a-438d5b40d086@cdn.fonix1.com:443?alpn=h2,http/1.1,h3&encryption=mlkem768x25519plus.native.0rtt.62YY_jpg69jtl9KquG9Tvq3jOk4dTf72BtNqvNr5byw&fp=chrome&host=&path=/lwpjefo9d25496wekkpo@@VPNine1&security=tls&sni=dustream.hediehjavani.com&type=ws#🇷🇴RO-🚀@VPNine1
-trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.154:443?allowInsecure=0&sni=fra154.clientfirewall.click#%F0%9F%87%B7%F0%9F%87%B4%20%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%20V2CROSS.COM
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.120:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#%3E%3E%40v2nodes%3A%3ARO
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.80:8443?encryption=none&security=tls&sni=buh-ro-01.fromblancwithlove.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARO
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.98:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&fp=chrome&type=tcp&headerType=none#🇷🇴RO-🚀@VPNine1
@@ -284,7 +283,7 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.245:8443?encryption=none
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.248:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#RO🇷🇴
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.248:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn9-33.vk-cdnvideo.com&insecure=1&allowInsecure=1#RO🇷🇴
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.251:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#RO🇷🇴
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?encryption=none&%3Btype=tcp&%3Bsecurity=tls&%3BheaderType=none&%3Bsni=cdn3-87.vk-cdnvideo.com&%3Balpn=http/1.1&%3Bfp=safari&%3Binsecure=0&%3BallowInsecure=0#%F0%9F%87%B7%F0%9F%87%B4%20RO%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%231
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?security=tls&%3Bencryption=none&%3Binsecure=0&%3BheaderType=none&%3Bfp=chrome&%3Btype=tcp&%3BallowInsecure=0&%3Bsni=cdn3-87.vk-cdnvideo.com#%F0%9F%87%B7%F0%9F%87%B4%20RO%20%7C%20VLESS%20%7C%20%40v2rayprotocol%20%231
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&fp=safari&type=tcp&sni=cdn3-87.vk-cdnvideo.com#RO🇷🇴
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#RO🇷🇴
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-09.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=cdn7-09.vk-cdnvideo.com#RO🇷🇴
