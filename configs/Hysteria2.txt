@@ -103,7 +103,6 @@ hysteria2://2f4c3fc5-8fa2-4576-a583-8f98a6026887@hkt.ccwink.cc:56309?sni=hkt.ccw
 hysteria2://3ea36b4b-11d3-48a1-81c5-efe576787d6e@hk.baiyi.cloudns.org:57790?sni=hk.baiyi.cloudns.org#
 hysteria2://3ea36b4b-11d3-48a1-81c5-efe576787d6e@hk.baiyi.cloudns.org:57790?sni=hk.baiyi.cloudns.org&insecure=0#
 hysteria2://3oj4zp0tzjlwj7jv@104.233.209.232:33321?insecure=0&sni=104.233.209.232&obfs=salamander&obfs-password=iclkvfpcr5clinjs#
-hysteria2://3oj4zp0tzjlwj7jv@104.233.209.232:33321?sni=&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=iclkvfpcr5clinjs#
 hysteria2://3oj4zp0tzjlwj7jv@104.233.209.232:33321?sni=104.233.209.232&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=iclkvfpcr5clinjs#
 hysteria2://3oj4zp0tzjlwj7jv@104.233.209.232:33321?sni=104.233.209.232&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=iclkvfpcr5clinjs#EPODONIOS
 hysteria2://3xkqzhpnfhaahx0q@atts5vkx96ec.dxdx5.com:5426?insecure=0&obfs=salamander&obfs-password=lmzo7ebpr6m8theh#
@@ -520,6 +519,7 @@ hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?sni=tunel1.washing.hel
 hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?sni=tunel1.washing.help&path=%2f&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#
 hysteria2://sm6wj2kn4v412om3@nf.easyiran.org:33027?alpn=h2,http/1.1,h3&fm={
 hysteria2://sm6wj2kn4v412om3@nf.easyiran.org:33027?alpn=h2,http/1.1,h3&fm={#
+hysteria2://sm6wj2kn4v412om3@nf.easyiran.org:33027?insecure=0&alpn=h2%2Chttp/1.1%2Ch3&fp=chrome&sni=nf.easyiran.org&obfs=salamander&obfs-password=6b95esw2d7h3r7kl#
 hysteria2://vlxjqoiauby22dvb@n.acp.us.ci:443?security=tls&obfs=salamander&obfs-password=%40arshiacomplus&insecure=0&sni=n.acp.us.ci#
 hysteria2://vlxjqoiauby22dvb@n.acp.us.ci:443?sni=n.acp.us.ci&insecure=0&obfs=salamander#
 hysteria2://yifh0qs77eizisrw@media.metsima.com:52002?security=tls&obfs=salamander&obfs-password=24c62hlvn16z8tps&insecure=0&sni=media.metsima.com#
