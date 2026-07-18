@@ -3737,6 +3737,7 @@ trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?sni=www.vk.com&allowInsecure=
 trojan://2eutknankxtbgkwcajzt@193.148.19.213:52794?allowInsecure=1&sni=193.148.19.213#
 trojan://2eutknankxtbgkwcajzt@193.148.19.213:52794?allowInsecure=1&sni=193.148.19.213#🇪🇸[openproxylist.com]
 trojan://2eutknankxtbgkwcajzt@193.148.19.213:52794?security=tls&sni=193.148.19.213#
+trojan://2eutknankxtbgkwcajzt@193.148.19.213:52794?sni=193.148.19.213#
 trojan://2f03a750-b17c-11ee-9fb0-1239d0255272@zula.ir:443?path=%2Fhowdy&security=tls&host=de2.test3.net&type=ws&sni=de2.test3.net#
 trojan://2f0cf409-6dd6-4eda-b4b6-c136391f309f@185.22.154.115:14866?security=tls&headerType=none&type=tcp&sni=els_trojanone.yunjisuan.cf#
 trojan://2f180bce-4190-4bc3-88ce-5cffb75cf0ac@aws.untilmu.com:443?allowInsecure=1&sni=aws.untilmu.com#
@@ -5327,9 +5328,7 @@ trojan://4aFbwy5BHa@151.101.34.144:443?mode=packet-up&path=/db&security=tls&alpn
 trojan://4aFbwy5BHa@151.101.34.144:443?mode=packet-up&path=/db&security=tls&alpn=h2,http/1.1&insecure=0&host=edgezvx.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=global.fastly.com#EPODONIOS
 trojan://4aFbwy5BHa@151.101.34.144:443?mode=packet-up&path=/db&security=tls&alpn=h2,http/1.1&insecure=0&host=edgezvx.global.ssl.fastly.n…#
 trojan://4aFbwy5BHa@151.101.34.144:443?type=xhttp&host=edgezvx.global.ssl.fastly.net&path=/db&mode=auto&security=tls&sni=global.fastly.com&alpn=h2,http/1.1&fp=chrome#
-trojan://4aFbwy5BHa@151.101.34.144:443?type=xhttp&mode=auto&host=edgezvx.global.ssl.fastly.net&path=%2Fdb&security=tls&alpn=h2%2Chttp%2F1.1&sni=global.fastly.com#
 trojan://4aFbwy5BHa@151.101.34.144:443?type=xhttp&security=tls&path=%2Fdb&host=edgezvx.global.ssl.fastly.net&mode=auto&sni=global.fastly.com&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0#
-trojan://4aFbwy5BHa@151.101.34.144:443?type=xhttp&security=tls&path=%2Fdb&host=edgezvx.global.ssl.fastly.net&mode=auto&sni=global.fastly.com&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0#@meliproxyy
 trojan://4aFbwy5BHa@151.101.34.144:443?type=xhttp&security=tls&path=%2Fdb&host=edgezvx.global.ssl.fastly.net&mode=auto&sni=global.fastly.com&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0#https://t.me/ShadowsocksM
 trojan://4aFbwy5BHa@151.101.34.144:443?type=xhttp&security=tls&path=%2Fdb&host=edgezvx.global.ssl.fastly.net&mode=packet-up&sni=global.fastly.com&alpn=h2%2Chttp%2F1.1&fp=firefox&insecure=0&allowInsecure=0#
 trojan://4aFbwy5BHa@151.101.34.144:443?type=xhttp&security=tls&path=/db&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=edgezvx.global.ssl.fastly.net&mode=packet-up&sni=global.fastly.com&alpn=h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#EPODONIOS
@@ -7093,6 +7092,7 @@ trojan://521314@131.186.27.112:2096?host=tjplay.lxdxo.kdns.fr&path=%2F&security=
 trojan://521314@131.186.27.112:2096?security=tls&sni=tjplay.lxdxo.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=tjplay.lxdxo.kdns.fr&path=%2F#
 trojan://521314@131.186.27.112:2096?sni=tjplay.lxdxo.kdns.fr#
 trojan://521314@161.33.76.218:8443?host=tjplay.lxdxo.kdns.fr&path=%2F&security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws#
+trojan://521314@198.177.57.9:443#
 trojan://521314@198.177.57.9:443?host=tjplay.lxdxo.kdns.fr&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws#
 trojan://521314@198.177.57.9:443?host=tjplay.lxdxo.kdns.fr&path=/Telegram+@WangCai2&sni=tjplay.lxdxo.kdns.fr&type=ws#
 trojan://521314@198.177.57.9:443?host=tjplay.lxdxo.kdns.fr&path=/Telegram🇨🇳+@WangCai2&sni=tjplay.lxdxo.kdns.fr&type=ws#
@@ -7582,6 +7582,7 @@ trojan://5a49a39d-e88d-466c-808d-446556fdfd83@awshk10-tg-data.amazonwebservicess
 trojan://5a49a39d-e88d-466c-808d-446556fdfd83@awshk12-data.amazon-azure.com:443?allowInsecure=1&sni=data.amazon-azure.com#
 trojan://5a49a39d-e88d-466c-808d-446556fdfd83@awsjp11-data.amazon-azure.com:443?allowInsecure=1&sni=data.amazon-azure.com#
 trojan://5a49a39d-e88d-466c-808d-446556fdfd83@stw9-tg-data.amazonwebservicess.com:443?allowInsecure=1&sni=data.amazonwebservicess.com#
+trojan://5a4ea216-9597-4df7-a119-02949a3b6b82@ger.wafer.fun:443?security=tls&sni=ger.wafer.fun&alpn=http%2F1.1&type=ws&host=ger.wafer.fun&path=%2FChGF4VS2wmOOrQCXl1#
 trojan://5a4ea216-9597-4df7-a119-02949a3b6b82@ger.wafer.fun:443?sni=ger.wafer.fun&peer=ger.wafer.fun&security=tls#
 trojan://5a4ea216-9597-4df7-a119-02949a3b6b82@ger.wafer.fun:443?type=ws&security=tls&path=%2FChGF4VS2wmOOrQCXl1&host=ger.wafer.fun&sni=ger.wafer.fun&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#
 trojan://5a5a6d81-1953-48aa-a73d-22d8f449085d@gzyd.jcnode.top:20002?allowInsecure=1&sni=hk01.ckcloud.info#
@@ -8041,6 +8042,7 @@ trojan://62ab7405-f2f3-4e76-b2d8-b6b1b1fe4fd0@172.67.136.117:443/?type=tcp&secur
 trojan://62ab7405-f2f3-4e76-b2d8-b6b1b1fe4fd0@vn5.myviefast.viefast.net:443/?type=tcp&security=tls&sni=kdlsupport.zendesk.com#
 trojan://62b37717-4ae9-4445-ab46-c137754b68cc@us226.ljydw.top:443#
 trojan://62b3fbc0-1580-11ee-98d0-1239d0255272@51.81.82.15:443?security=tls&headerType=none&type=tcp&sni=zula.ir#
+trojan://62b78c9b-16cb-4ee6-824b-a4f856cf18f3@transfer01.kaochangonline.online:443#
 trojan://62c4eec5-87f0-47e8-8850-78158acfdd96@148.59.74.237:443#
 trojan://62fe12a0-8a05-11ee-85b2-1239d0255272@104.16.125.175:443/?type=tcp&security=tls&sni=de1.test3.net#
 trojan://62fe12a0-8a05-11ee-85b2-1239d0255272@104.16.125.175:443?security=tls&sni=de1.test3.net&type=ws&path=/howdy&host=de1.test3.net#
@@ -25129,6 +25131,7 @@ trojan://BxceQaOe@16.163.142.40:22657?security=tls&sni=t.me%2Fripaojiedian#
 trojan://BxceQaOe@16.163.142.40:22657?sni=t.me/ripaojiedian#
 trojan://BxceQaOe@16.163.145.248:7674/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#
 trojan://BxceQaOe@16.163.145.248:7674?allowInsecure=1&sni=t.me%2Fripaojiedian#
+trojan://BxceQaOe@16.163.145.248:7674?sni=t.me/ripaojiedian#
 trojan://BxceQaOe@16.163.145.82:22459/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#
 trojan://BxceQaOe@16.163.145.82:22459?allowInsecure=1&sni=t.me%252Fripaojiedian#
 trojan://BxceQaOe@16.163.145.82:22459?security=tls&sni=t.me%252Fripaojiedian#
@@ -25647,6 +25650,7 @@ trojan://BxceQaOe@43.199.159.115:3292?security=tls#
 trojan://BxceQaOe@43.199.202.34:25651/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#
 trojan://BxceQaOe@43.199.202.34:25651?allowInsecure=1&sni=t.me%2Fripaojiedian#
 trojan://BxceQaOe@43.199.202.34:25651?security=tls&sni=t.me%252Fripaojiedian#
+trojan://BxceQaOe@43.199.202.34:25651?sni=t.me/ripaojiedian#
 trojan://BxceQaOe@43.199.202.97:51396/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#
 trojan://BxceQaOe@43.199.202.97:51396?allowInsecure=0&sni=t.me%252Fripaojiedian#
 trojan://BxceQaOe@43.199.202.97:51396?allowInsecure=1#
@@ -25889,6 +25893,7 @@ trojan://BxceQaOe@54.238.245.134:24397/?type=tcp&security=tls&sni=t.me%252Fripao
 trojan://BxceQaOe@54.238.245.134:24397?allowInsecure=1&sni=t.me%252Fripaojiedian#
 trojan://BxceQaOe@54.238.245.134:24397?allowInsecure=1&sni=t.me/ripaojiedian#
 trojan://BxceQaOe@54.238.245.134:24397?allowInsecure=1&sni=t.me/ripaojiedian#EPODONIOS
+trojan://BxceQaOe@54.238.245.134:24397?sni=t.me%2Fripaojiedian#
 trojan://BxceQaOe@54.238.245.134:24397?sni=t.me%2Fripaojiedian&peer=t.me%2Fripaojiedian&security=tls#
 trojan://BxceQaOe@54.248.176.41:4633/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#
 trojan://BxceQaOe@54.248.176.41:4633?allowInsecure=1&sni=t.me%252Fripaojiedian#
@@ -25942,8 +25947,11 @@ trojan://BxceQaOe@54.46.123.9:22057?security=tls&sni=t.me%2Fripaojiedian#
 trojan://BxceQaOe@54.46.123.9:22057?sni=t.me/ripaojiedian#
 trojan://BxceQaOe@54.46.125.103:32434/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#
 trojan://BxceQaOe@54.46.125.103:32434?allowInsecure=1&sni=t.me%252Fripaojiedian#
+trojan://BxceQaOe@54.46.125.103:32434?allowInsecure=1&sni=t.me%2Fripaojiedian#
+trojan://BxceQaOe@54.46.125.103:32434?sni=t.me%2Fripaojiedian#
 trojan://BxceQaOe@54.46.125.103:50115/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#
 trojan://BxceQaOe@54.46.125.103:50115?allowInsecure=1&sni=t.me%2Fripaojiedian#
+trojan://BxceQaOe@54.46.125.103:50115?sni=t.me/ripaojiedian#
 trojan://BxceQaOe@54.46.14.161:9149/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#
 trojan://BxceQaOe@54.46.14.161:9149?allowInsecure=1&sni=t.me%252Fripaojiedian#
 trojan://BxceQaOe@54.46.14.161:9149?security=tls&sni=t.me%252Fripaojiedian#
@@ -27470,7 +27478,6 @@ trojan://CF68213490@polite-coyote.rooster465.autos:443?security=tls&sni=polite-c
 trojan://CF68213490@polite-coyote.rooster465.autos:443?sni=polite-coyote.rooster465.autos#
 trojan://CF68213490@polite-coyote.rooster465.autos:443?sni=polite-coyote.rooster465.autos&allowInsecure=1&type=tcp#
 trojan://CF68213490@polite-coyote.rooster465.autos:443?sni=polite-coyote.rooster465.autos&type=tcp&fp=chrome#
-trojan://CF68213490@polite-coyote.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=polite-coyote.rooster465.autos#
 trojan://CF68213490@popular-meerkat.rooster465.autos:443?sni=popular-meerkat.rooster465.autos&type=tcp&fp=chrome#
 trojan://CF68213490@powerful-troll.rooster465.autos:443/?type=tcp&security=tls&sni=powerful-troll.rooster465.autos&fp=chrome#
 trojan://CF68213490@powerful-troll.rooster465.autos:443?allowInsecure=0#
@@ -28715,6 +28722,7 @@ trojan://HTrovQkamDxNfaD5@185.253.46.69:443?sni=cz5.v2ce.com#
 trojan://HTrovQkamDxNfaD5@cz5.v2ce.com:443#
 trojan://HTrovQkamDxNfaD5@cz5.v2ce.com:443?allowInsecure=0#
 trojan://HTrovQkamDxNfaD5@cz5.v2ce.com:443?allowInsecure=1#
+trojan://HW85960347@exciting-turtle.rooster465.autos:443?allowInsecure=0&sni=exciting-turtle.rooster465.autos#
 trojan://HW85960347@happy-monkfish.rooster465.autos:443#
 trojan://HW85960347@happy-monkfish.rooster465.autos:443?allowInsecure=0#
 trojan://HW85960347@happy-monkfish.rooster465.autos:443?allowInsecure=0&sni=#
@@ -28722,6 +28730,14 @@ trojan://HW85960347@happy-monkfish.rooster465.autos:443?allowInsecure=1#
 trojan://HW85960347@happy-monkfish.rooster465.autos:443?security=tls#
 trojan://HW85960347@happy-monkfish.rooster465.autos:443?security=tls&sni=happy-monkfish.rooster465.autos#
 trojan://HW85960347@happy-monkfish.rooster465.autos:443?sni=happy-monkfish.rooster465.autos&type=tcp&fp=chrome#
+trojan://HW85960347@hopeful-burro.rooster465.autos:443?allowInsecure=1&sni=hopeful-burro.rooster465.autos#
+trojan://HW85960347@lucky-primate.rooster465.autos:443?allowInsecure=0&sni=lucky-primate.rooster465.autos#
+trojan://HW85960347@major-cobra.rooster465.autos:443?allowInsecure=0&sni=major-cobra.rooster465.autos#
+trojan://HW85960347@normal-dory.rooster465.autos:443?allowInsecure=1&sni=normal-dory.rooster465.autos#
+trojan://HW85960347@outgoing-eagle.rooster465.autos:443?allowInsecure=1&sni=outgoing-eagle.rooster465.autos#
+trojan://HW85960347@quality-sheepdog.rooster465.autos:443?allowInsecure=0&sni=quality-sheepdog.rooster465.autos#
+trojan://HW85960347@saved-mantis.rooster465.autos:443?allowInsecure=0&sni=saved-mantis.rooster465.autos#
+trojan://HW85960347@sharing-fawn.rooster465.autos:443?allowInsecure=0&sni=sharing-fawn.rooster465.autos#
 trojan://Ha3cjmE05j@manager.xyzxz.qzz.io:443?security=tls&sni=manager.xyzxz.qzz.io&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=httpupgrade&host=manager.xyzxz.qzz.io&path=%2F45215%2Fmehdi#
 trojan://Ha3cjmE05j@manager.xyzxz.qzz.io:443?security=tls&sni=manager.xyzxz.qzz.io&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=httpupgrade&host=manager.xyzxz.qzz.io&path=/45215/mehdi#
 trojan://Ha3cjmE05j@manager.xyzxz.qzz.io:443?type=httpupgrade&host=manager.xyzxz.qzz.io&path=%2F45215%2Fmehdi&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=manager.xyzxz.qzz.io#
@@ -28952,6 +28968,9 @@ trojan://J64JLZPG-rlhq2Wb-8DsmO5s66f9g7v72z@38.60.226.78:443?sni=38.60.226.78&ty
 trojan://J64JLZPG-rlhq2Wb-8DsmO5s66f9g7v72z@38.60.226.78:443?sni=38.60.226.78&type=tcp&fp=chrome#
 trojan://J64JLZPG-rlhq2Wb-8DsmO5s66f9g7v72z@38.60.226.78:443?type=tcp&security=tls&sni=38.60.226.78&fp=chrome&alpn=http%252F1.1&allowInsecure=1#
 trojan://J64JLZPG-rlhq2Wb-8DsmO5s66f9g7v72z@38.60.226.78:443?type=tcp&security=tls&sni=38.60.226.78&fp=chrome&alpn=http/1.1&allowInsecure=1#
+trojan://JA96378052@bursting-baboon.rooster465.autos:443?allowInsecure=0&sni=bursting-baboon.rooster465.autos#
+trojan://JA96378052@modest-coral.rooster465.autos:443?allowInsecure=0&sni=modest-coral.rooster465.autos#
+trojan://JA96378052@primary-mallard.rooster465.autos:443?allowInsecure=1&sni=primary-mallard.rooster465.autos#
 trojan://JByTyDrdqS@104.19.28.7:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&path=/mobotouch&host=mobo.zironet.top&security=tls&fp=chrome&alpn=http/1.1&sni=mobo.zironet.top#
 trojan://JByTyDrdqS@104.19.28.7:443?type=ws&path=%2Fmobotouch&host=mobo.zironet.top&security=tls&fp=chrome&alpn=http%2F1.1&sni=mobo.zironet.top#
 trojan://JByTyDrdqS@104.19.28.7:443?type=ws&path=/mobotouch&host=mobo.zironet.top&security=tls&fp=chrome&alpn=http/1.1&sni=mobo.zironet.top#
@@ -29770,6 +29789,7 @@ trojan://MITIVPN@151.101.110.219:443?Telegram=@GozargahAzad,@GozargahAzad,@Gozar
 trojan://MITIVPN@151.101.110.219:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=global.fastly.com&fp=chrome&alpn=http%2F1.1%2Ch2&insecure=1&allowInsecure=1&type=ws&host=mitivpn-6.global.ssl.fastly.net&path=%2Fed%3Dmitivpn#
 trojan://MITIVPN@151.101.110.219:443?path=%2FMiTiVPN%3DDe&security=tls&alpn=http%2F1.1&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&sni=global.fastly.com#
 trojan://MITIVPN@151.101.110.219:443?path=%2FMiTiVPN%3DDe&security=tls&alpn=http%2F1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#
+trojan://MITIVPN@151.101.110.219:443?path=%2FMiTiVPN%3DDe&security=tls&alpn=http%2F1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
 trojan://MITIVPN@151.101.110.219:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1%2Ch2&insecure=1&host=mitivpn-6.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#
 trojan://MITIVPN@151.101.110.219:443?path=%2Fed%3Dmitivpn&security=tls&host=mitivpn-6.global.ssl.fastly.net&fp=chrome&type=ws&sni=global.fastly.com#
 trojan://MITIVPN@151.101.110.219:443?path=%2Fed%3Dmitivpn&security=tls&insecure=1&host=mitivpn-6.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#
@@ -29807,6 +29827,7 @@ trojan://MITIVPN@151.101.56.6:443#
 trojan://MITIVPN@151.101.56.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#
 trojan://MITIVPN@151.101.56.6:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&sni=global.fastly.com#
 trojan://MITIVPN@151.101.56.6:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#
+trojan://MITIVPN@151.101.56.6:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
 trojan://MITIVPN@151.101.56.6:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#
 trojan://MITIVPN@151.101.56.6:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#EPODONIOS
 trojan://MITIVPN@151.101.56.6:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#
@@ -30124,6 +30145,7 @@ trojan://MITIVPN@188.114.97.6:443?Telegram=@GozargahAzad,@GozargahAzad,@Gozargah
 trojan://MITIVPN@188.114.97.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=pagess.ir&fp=chrome&alpn=http%2F1.1%2Ch2&insecure=1&allowInsecure=1&type=ws&host=www.pagess.ir&path=%2Fed%3Dmitivpn#
 trojan://MITIVPN@188.114.97.6:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Ddde&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=x---d-e.MaqRoR.iR&fp=chrome&type=ws&allowInsecure=1&sni=d5-8-82-9.MaqRoR.iR#
 trojan://MITIVPN@188.114.97.6:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dde--win&security=tls&alpn=http%2F1.1&insecure=0&host=8jidkdj282-2ododb-28.mAQror.Ir&fp=chrome&type=ws&allowInsecure=0&sni=9bvv292-28bv3-3j82vv-jkk282-8bvc2.Maqror.Ir#
+trojan://MITIVPN@188.114.97.6:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dwin---usa&security=tls&alpn=http%2F1.1&host=8jidkdj282-2ododvb-28.App-ClouD.Ir&fp=chrome&type=ws&sni=9bvv292-28bv3v-3j82vvb-jkk282-8bvc2.App-ClouD.Ir#
 trojan://MITIVPN@188.114.97.6:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dwin-de&security=tls&alpn=http%2F1.1&insecure=0&host=8282-282-382-28.App-Cloud.Ir&fp=chrome&type=ws&allowInsecure=0&sni=9292-283-382-282-82.App-Cloud.Ir#
 trojan://MITIVPN@188.114.97.6:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dwin-de&security=tls&alpn=http%2F1.1&insecure=0&host=8282-282-382-28.App-Cloud.Ir&fp=chrome&type=ws&allowInsecure=0&sni=9292-283-382-282-82.App-Cloud.Ir#%40outline_ir
 trojan://MITIVPN@188.114.97.6:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dwin-de&security=tls&alpn=http%2F1.1&insecure=0&host=8282-282-382-28.App-Cloud.Ir&fp=chrome&type=ws&allowInsecure=0&sni=9292-283-382-282-82.App-Cloud.Ir#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
@@ -30133,6 +30155,7 @@ trojan://MITIVPN@188.114.97.6:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@
 trojan://MITIVPN@188.114.97.6:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=dde&security=tls&alpn=h2,http/1.1&insecure=1&host=x---d-e.MaqRoR.iR&fp=chrome&type=ws&allowInsecure=1&sni=d5-8-82-9.MaqRoR.iR#EPODONIOS
 trojan://MITIVPN@188.114.97.6:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=de--win&security=tls&alpn=http/1.1&insecure=0&host=8jidkdj282-2ododb-28.mAQror.Ir&fp=chrome&type=ws&allowInsecure=0&sni=9bvv292-28bv3-3j82vv-jkk282-8bvc2.Maqror.Ir#
 trojan://MITIVPN@188.114.97.6:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=de--win&security=tls&alpn=http/1.1&insecure=0&host=8jidkdj282-2ododb-28.mAQror.Ir&fp=chrome&type=ws&allowInsecure=0&sni=9bvv292-28bv3-3j82vv-jkk282-8bvc2.Maqror.Ir#EPODONIOS
+trojan://MITIVPN@188.114.97.6:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=win---usa&security=tls&alpn=http/1.1&host=8jidkdj282-2ododvb-28.App-ClouD.Ir&fp=chrome&type=ws&sni=9bvv292-28bv3v-3j82vvb-jkk282-8bvc2.App-ClouD.Ir#
 trojan://MITIVPN@188.114.97.6:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=win---usa&security=tls&alpn=http/1.1&insecure=0&host=8jidkdj282-2ododvb-28.App-ClouD.Ir&fp=chrome&type=ws&allowInsecure=0&sni=9bvv292-28bv3v-3j82vvb-jkk282-8bvc2.App-ClouD.Ir#
 trojan://MITIVPN@188.114.97.6:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=win---usa&security=tls&alpn=http/1.1&insecure=0&host=8jidkdj282-2ododvb-28.App-ClouD.Ir&fp=chrome&type=ws&allowInsecure=0&sni=9bvv292-28bv3v-3j82vvb-jkk282-8bvc2.App-ClouD.Ir#EPODONIOS
 trojan://MITIVPN@188.114.97.6:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=win-de&security=tls&alpn=http/1.1&insecure=0&host=8282-282-382-28.App-Cloud.Ir&fp=chrome&type=ws&allowInsecure=0&sni=9292-283-382-282-82.App-Cloud.Ir#
@@ -31039,6 +31062,7 @@ trojan://MiTiVPN@104.16.72.2:2083?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40
 trojan://MiTiVPN@104.16.72.2:2083?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=nll-l&security=tls&alpn=h2,http/1.1&host=9282-272-2774-8.MaqRoR.iR&fp=chrome&type=ws&sni=8162-272-282-9.MaqRoR.iR#
 trojan://MiTiVPN@104.16.72.2:2083?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=nll-l&security=tls&alpn=h2,http/1.1&insecure=1&host=9282-272-2774-8.MaqRoR.iR&fp=chrome&type=ws&allowInsecure=1&sni=8162-272-282-9.MaqRoR.iR#
 trojan://MiTiVPN@104.16.72.2:2083?path=/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1=nll-l&security=tls&alpn=h2,http/1.1&insecure=1&host=9282-272-2774-8.MaqRoR.iR&fp=chrome&type=ws&allowInsecure=1&sni=8162-272-282-9.MaqRoR.iR#
+trojan://MiTiVPN@104.16.72.2:2083?security=tls&sni=8162-272-282-9.MaqRoR.iR&type=ws&host=9282-272-2774-8.MaqRoR.iR&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dnll-l#
 trojan://MiTiVPN@104.16.72.2:2083?security=tls&type=ws&sni=8162-272-282-9.MaqRoR.iR&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=nll-l&host=9282-272-2774-8.MaqRoR.iR#
 trojan://MiTiVPN@104.16.72.2:2083?sni=8162-272-282-9.MaqRoR.iR&peer=8162-272-282-9.MaqRoR.iR&security=tls#
 trojan://MiTiVPN@104.16.72.2:2083?sni=8162-272-282-9.MaqRoR.iR&type=ws&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=nll-l&alpn=h2,http/1.1&fp=chrome#
@@ -31692,6 +31716,7 @@ trojan://MiTiVPN@151.101.110.219:443?allowInsecure=1&sni=global.fastly.com&ws=1&
 trojan://MiTiVPN@151.101.110.219:443?amp%3Bsecurity=tls&%3Balpn=http/1.1&%3Binsecure=1&%3Bhost=mitivpn-77.global.ssl.fastly.net&%3Bfp=chrome&%3Btype=ws&%3BallowInsecure=1&%3Bsni=default.ssl.fastly.net#
 trojan://MiTiVPN@151.101.110.219:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&host=esalat-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&sni=ssl.fastly.com#
 trojan://MiTiVPN@151.101.110.219:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#
+trojan://MiTiVPN@151.101.110.219:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
 trojan://MiTiVPN@151.101.110.219:443?path=%2Fde%3Dmitivpn&security=tls&alpn=http%2F1.1&host=cdn2-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#
 trojan://MiTiVPN@151.101.110.219:443?path=%2Fde%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=cdn2-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#
 trojan://MiTiVPN@151.101.110.219:443?path=%2Fde%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=1&host=cdn2-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#
@@ -32028,6 +32053,7 @@ trojan://MiTiVPN@151.101.56.6:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host
 trojan://MiTiVPN@151.101.56.6:443?allowInsecure=1&alpn=http/1.1&fp=chrome&host=cdn-mitivpn.global.ssl.fastly.net&path=/de&sni=global.fastly.com&type=ws#
 trojan://MiTiVPN@151.101.56.6:443?path=%2FMiTiVPN%3DfL&security=tls&alpn=http%2F1.1&host=esalat-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&sni=ssl.fastly.com#
 trojan://MiTiVPN@151.101.56.6:443?path=%2FMiTiVPN%3DfL&security=tls&alpn=http%2F1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#
+trojan://MiTiVPN@151.101.56.6:443?path=%2FMiTiVPN%3DfL&security=tls&alpn=http%2F1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
 trojan://MiTiVPN@151.101.56.6:443?path=%2Fde%3Dmitivpn&security=tls&alpn=http%2F1.1&host=cdn-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&sni=global.fastly.com#
 trojan://MiTiVPN@151.101.56.6:443?path=%2Fde%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=1&host=cdn-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=1&sni=global.fastly.com#
 trojan://MiTiVPN@151.101.56.6:443?path=%2Fde&security=tls&alpn=http%2F1.1&insecure=0&host=cdn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#
@@ -32434,6 +32460,7 @@ trojan://MiTiVPN@188.114.97.6:2087?sni=fl-bo--7---u.aPp-cLoud.IR&allowInsecure=1
 trojan://MiTiVPN@188.114.97.6:2087?type=ws&host=f--l---g--s-.aPp-cLoud.IR&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Df--ll&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=fl-bo--7---u.aPp-cLoud.IR#
 trojan://MiTiVPN@188.114.97.6:2087?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Df--ll&host=f--l---g--s-.aPp-cLoud.IR&sni=fl-bo--7---u.aPp-cLoud.IR&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&allowInsecure=1#
 trojan://MiTiVPN@188.114.97.6:2096?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=n---l&security=tls&alpn=h2,http/1.1&insecure=1&host=n-hdk-k-o.aPp-cLoud.IR&fp=chrome&type=ws&allowInsecure=1&sni=nl-a-ndif-o-j.aPp-cLoud.IR#
+trojan://MiTiVPN@188.114.97.6:2096?allowInsecure=1&sni=nl-a-ndif-o-j.aPp-cLoud.IR&ws=1&wspath=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dn---l#
 trojan://MiTiVPN@188.114.97.6:2096?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=n---l&security=tls&alpn=h2,http/1.1&insecure=1&host=n-hdk-k-o.aPp-cLoud.IR&fp=chrome&type=ws&allowInsecure=1&sni=nl-a-ndif-o-j.aPp-cLoud.IR#
 trojan://MiTiVPN@188.114.97.6:2096?path=/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1/---@VPNine1=n---l&security=tls&alpn=h2,http/1.1&insecure=1&host=n-hdk-k-o.aPp-cLoud.IR&fp=chrome&type=ws&allowInsecure=1&sni=nl-a-ndif-o-j.aPp-cLoud.IR#
 trojan://MiTiVPN@188.114.97.6:2096?sni=nl-a-ndif-o-j.aPp-cLoud.IR&allowInsecure=1&type=ws&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=n---l&alpn=h2,http/1.1&fp=chrome#
@@ -32623,6 +32650,7 @@ trojan://MiTiVPN@199.232.209.242:80?host=www.f6r.ir&path=%2F%3Fhttps%3A%2F%2Ft.m
 trojan://MiTiVPN@199.232.213.242:80?host=www.f6r.ir&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws#
 trojan://MiTiVPN@199.232.217.242:80#
 trojan://MiTiVPN@199.232.217.242:80?host=www.f6r.ir&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws#
+trojan://MiTiVPN@199.232.22.39:443?allowInsecure=1&sni=default.ssl.fastly.com&ws=1&wspath=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Df--ll#
 trojan://MiTiVPN@199.232.22.39:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Df--ll&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=mitivpn--mitivpn---mitivpn---mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=default.ssl.fastly.com#
 trojan://MiTiVPN@199.232.22.39:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dfl-La&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=mitivpn--mitivpn---mitivpn---mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=default.ssl.fastly.com#
 trojan://MiTiVPN@199.232.22.39:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=f--ll&security=tls&alpn=h2,http/1.1&insecure=1&host=mitivpn--mitivpn---mitivpn---mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=default.ssl.fastly.com#
@@ -35954,6 +35982,7 @@ trojan://NQ26071394@capable-jay.rooster465.autos:443?security=tls&sni=capable-ja
 trojan://NQ26071394@capable-jay.rooster465.autos:443?sni=capable-jay.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#
 trojan://NQ26071394@capable-jay.rooster465.autos:443?sni=capable-jay.rooster465.autos&peer=capable-jay.rooster465.autos&security=tls#
 trojan://NQ26071394@capable-jay.rooster465.autos:443?sni=capable-jay.rooster465.autos&type=tcp&fp=chrome#
+trojan://NQ26071394@certain-prawn.rooster465.autos:443#
 trojan://NQ26071394@certain-prawn.rooster465.autos:443?fp=chrome#
 trojan://NQ26071394@certain-prawn.rooster465.autos:443?fp=chrome#DE🇩🇪
 trojan://NQ26071394@certain-prawn.rooster465.autos:443?fp=chrome#EPODONIOS
@@ -35965,6 +35994,7 @@ trojan://NQ26071394@certain-prawn.rooster465.autos:443?security=tls&sni=certain-
 trojan://NQ26071394@certain-prawn.rooster465.autos:443?security=tls&sni=certain-prawn.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#
 trojan://NQ26071394@certain-prawn.rooster465.autos:443?sni=certain-prawn.rooster465.autos&type=tcp&fp=chrome#
 trojan://NQ26071394@chief-antelope.rooster465.autos:443?sni=chief-antelope.rooster465.autos&type=tcp&fp=chrome#
+trojan://NQ26071394@chief-cricket.rooster465.autos:443#
 trojan://NQ26071394@chief-cricket.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&fp=chrome#
 trojan://NQ26071394@chief-cricket.rooster465.autos:443?allowInsecure=0#
 trojan://NQ26071394@chief-cricket.rooster465.autos:443?allowInsecure=1&sni=chief-cricket.rooster465.autos#
@@ -36023,10 +36053,12 @@ trojan://NQ26071394@dynamic-eel.rooster465.autos:443?sni=dynamic-eel.rooster465.
 trojan://NQ26071394@electric-gibbon.rooster465.autos:443?sni=electric-gibbon.rooster465.autos&type=tcp&fp=chrome#
 trojan://NQ26071394@elegant-marten.rooster465.autos:443?allowInsecure=1&sni=elegant-marten.rooster465.autos#
 trojan://NQ26071394@elegant-marten.rooster465.autos:443?allowInsecure=1&sni=elegant-marten.rooster465.autos#🇯🇵[openproxylist.com]
+trojan://NQ26071394@elegant-marten.rooster465.autos:443?sni=elegant-marten.rooster465.autos#
 trojan://NQ26071394@elegant-marten.rooster465.autos:443?sni=elegant-marten.rooster465.autos&peer=elegant-marten.rooster465.autos&security=tls#
 trojan://NQ26071394@elegant-marten.rooster465.autos:443?sni=elegant-marten.rooster465.autos&type=tcp&fp=chrome#
 trojan://NQ26071394@emerging-baboon.rooster465.autos:443?allowInsecure=1&sni=emerging-baboon.rooster465.autos#
 trojan://NQ26071394@emerging-baboon.rooster465.autos:443?allowInsecure=1&sni=emerging-baboon.rooster465.autos#🇸🇬[openproxylist.com]
+trojan://NQ26071394@emerging-baboon.rooster465.autos:443?sni=emerging-baboon.rooster465.autos#
 trojan://NQ26071394@emerging-baboon.rooster465.autos:443?sni=emerging-baboon.rooster465.autos&peer=emerging-baboon.rooster465.autos&security=tls#
 trojan://NQ26071394@emerging-baboon.rooster465.autos:443?sni=emerging-baboon.rooster465.autos&type=tcp&fp=chrome#
 trojan://NQ26071394@emerging-hagfish.rooster465.autos:443?sni=emerging-hagfish.rooster465.autos&type=tcp&fp=chrome#
@@ -36058,6 +36090,7 @@ trojan://NQ26071394@equal-labrador.rooster465.autos:443?sni=equal-labrador.roost
 trojan://NQ26071394@evident-ant.rooster465.autos:443?allowInsecure=1&sni=evident-ant.rooster465.autos#
 trojan://NQ26071394@evident-ant.rooster465.autos:443?allowInsecure=1&sni=evident-ant.rooster465.autos#EPODONIOS
 trojan://NQ26071394@evident-ant.rooster465.autos:443?allowInsecure=1&sni=evident-ant.rooster465.autos#🇸🇬[openproxylist.com]
+trojan://NQ26071394@evident-ant.rooster465.autos:443?sni=evident-ant.rooster465.autos#
 trojan://NQ26071394@evident-ant.rooster465.autos:443?sni=evident-ant.rooster465.autos&peer=evident-ant.rooster465.autos&security=tls#
 trojan://NQ26071394@evident-ant.rooster465.autos:443?sni=evident-ant.rooster465.autos&type=tcp&fp=chrome#
 trojan://NQ26071394@expert-muskrat.rooster465.autos:443?allowInsecure=1&sni=expert-muskrat.rooster465.autos#
@@ -36080,6 +36113,7 @@ trojan://NQ26071394@fit-marten.rooster465.autos:443?allowInsecure=1&sni=fit-mart
 trojan://NQ26071394@fit-marten.rooster465.autos:443?security=tls&sni=fit-marten.rooster465.autos#
 trojan://NQ26071394@fit-marten.rooster465.autos:443?security=tls&sni=fit-marten.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.249.164.14-3104
 trojan://NQ26071394@fit-marten.rooster465.autos:443?security=tls&sni=fit-marten.rooster465.autos#EPODONIOS
+trojan://NQ26071394@fit-marten.rooster465.autos:443?sni=fit-marten.rooster465.autos#
 trojan://NQ26071394@fit-marten.rooster465.autos:443?sni=fit-marten.rooster465.autos&allowInsecure=1&type=tcp#
 trojan://NQ26071394@fit-marten.rooster465.autos:443?sni=fit-marten.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#
 trojan://NQ26071394@fit-marten.rooster465.autos:443?sni=fit-marten.rooster465.autos&peer=fit-marten.rooster465.autos&security=tls#
@@ -36095,6 +36129,7 @@ trojan://NQ26071394@flexible-titmouse.rooster465.autos:443?allowInsecure=0&sni=f
 trojan://NQ26071394@flexible-titmouse.rooster465.autos:443?allowInsecure=1&sni=flexible-titmouse.rooster465.autos#
 trojan://NQ26071394@flexible-titmouse.rooster465.autos:443?allowInsecure=1&sni=flexible-titmouse.rooster465.autos#EPODONIOS
 trojan://NQ26071394@flexible-titmouse.rooster465.autos:443?allowInsecure=1&sni=flexible-titmouse.rooster465.autos#🇰🇷[openproxylist.com]
+trojan://NQ26071394@flexible-titmouse.rooster465.autos:443?sni=flexible-titmouse.rooster465.autos#
 trojan://NQ26071394@flexible-titmouse.rooster465.autos:443?sni=flexible-titmouse.rooster465.autos&path=%2f#
 trojan://NQ26071394@flexible-titmouse.rooster465.autos:443?sni=flexible-titmouse.rooster465.autos&path=/#
 trojan://NQ26071394@flexible-titmouse.rooster465.autos:443?sni=flexible-titmouse.rooster465.autos&peer=flexible-titmouse.rooster465.autos&security=tls#
@@ -36141,7 +36176,6 @@ trojan://NQ26071394@gentle-turtle.rooster465.autos:443?security=tls&sni=gentle-t
 trojan://NQ26071394@gentle-turtle.rooster465.autos:443?sni=gentle-turtle.rooster465.autos&path=%2f#
 trojan://NQ26071394@gentle-turtle.rooster465.autos:443?sni=gentle-turtle.rooster465.autos&path=/#
 trojan://NQ26071394@gentle-turtle.rooster465.autos:443?sni=gentle-turtle.rooster465.autos&type=tcp&fp=chrome#
-trojan://NQ26071394@gentle-turtle.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=gentle-turtle.rooster465.autos#
 trojan://NQ26071394@genuine-cougar.rooster465.autos:443?allowInsecure=0&sni=genuine-cougar.rooster465.autos#
 trojan://NQ26071394@genuine-cougar.rooster465.autos:443?allowInsecure=1&sni=genuine-cougar.rooster465.autos#
 trojan://NQ26071394@genuine-cougar.rooster465.autos:443?security=tls&sni=genuine-cougar.rooster465.autos#
@@ -36178,6 +36212,7 @@ trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?sni=grateful-bedbug.roo
 trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?sni=grateful-bedbug.rooster465.autos&type=tcp&fp=chrome#
 trojan://NQ26071394@grateful-crawdad.rooster465.autos:443?allowInsecure=1&sni=grateful-crawdad.rooster465.autos#
 trojan://NQ26071394@grateful-crawdad.rooster465.autos:443?allowInsecure=1&sni=grateful-crawdad.rooster465.autos#🇯🇵[openproxylist.com]
+trojan://NQ26071394@grateful-crawdad.rooster465.autos:443?sni=grateful-crawdad.rooster465.autos#
 trojan://NQ26071394@grateful-crawdad.rooster465.autos:443?sni=grateful-crawdad.rooster465.autos&peer=grateful-crawdad.rooster465.autos&security=tls#
 trojan://NQ26071394@grateful-crawdad.rooster465.autos:443?sni=grateful-crawdad.rooster465.autos&type=tcp&fp=chrome#
 trojan://NQ26071394@guided-ferret.rooster465.autos:443?sni=guided-ferret.rooster465.autos&type=tcp&fp=chrome#
@@ -36192,6 +36227,7 @@ trojan://NQ26071394@guided-pelican.rooster465.autos:443?sni=guided-pelican.roost
 trojan://NQ26071394@harmless-lab.rooster465.autos:443?sni=harmless-lab.rooster465.autos&type=tcp&fp=chrome#
 trojan://NQ26071394@harmless-pegasus.rooster465.autos:443?allowInsecure=1&sni=harmless-pegasus.rooster465.autos#
 trojan://NQ26071394@harmless-pegasus.rooster465.autos:443?allowInsecure=1&sni=harmless-pegasus.rooster465.autos#🇯🇵[openproxylist.com]
+trojan://NQ26071394@harmless-pegasus.rooster465.autos:443?sni=harmless-pegasus.rooster465.autos#
 trojan://NQ26071394@harmless-pegasus.rooster465.autos:443?sni=harmless-pegasus.rooster465.autos&peer=harmless-pegasus.rooster465.autos&security=tls#
 trojan://NQ26071394@harmless-pegasus.rooster465.autos:443?sni=harmless-pegasus.rooster465.autos&type=tcp&fp=chrome#
 trojan://NQ26071394@helped-jennet.rooster465.autos:443?allowInsecure=0&sni=helped-jennet.rooster465.autos#
@@ -36353,6 +36389,7 @@ trojan://NQ26071394@modest-amoeba.rooster465.autos:443?allowInsecure=1&sni=modes
 trojan://NQ26071394@modest-amoeba.rooster465.autos:443?security=tls&sni=modest-amoeba.rooster465.autos#
 trojan://NQ26071394@modest-amoeba.rooster465.autos:443?security=tls&sni=modest-amoeba.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.203.215.162-3128
 trojan://NQ26071394@modest-amoeba.rooster465.autos:443?security=tls&sni=modest-amoeba.rooster465.autos#EPODONIOS
+trojan://NQ26071394@modest-amoeba.rooster465.autos:443?sni=modest-amoeba.rooster465.autos#
 trojan://NQ26071394@modest-amoeba.rooster465.autos:443?sni=modest-amoeba.rooster465.autos&type=tcp&fp=chrome#
 trojan://NQ26071394@musical-mouse.rooster465.autos:443?allowInsecure=0&sni=musical-mouse.rooster465.autos#
 trojan://NQ26071394@musical-mouse.rooster465.autos:443?allowInsecure=1&sni=musical-mouse.rooster465.autos#
@@ -36420,10 +36457,12 @@ trojan://NQ26071394@picked-guinea.rooster465.autos:443?sni=picked-guinea.rooster
 trojan://NQ26071394@picked-guinea.rooster465.autos:443?sni=picked-guinea.rooster465.autos&type=tcp&fp=chrome#
 trojan://NQ26071394@polished-shrew.rooster465.autos:443?allowInsecure=1&sni=polished-shrew.rooster465.autos#
 trojan://NQ26071394@polished-shrew.rooster465.autos:443?allowInsecure=1&sni=polished-shrew.rooster465.autos#🇰🇷[openproxylist.com]
+trojan://NQ26071394@polished-shrew.rooster465.autos:443?sni=polished-shrew.rooster465.autos#
 trojan://NQ26071394@polished-shrew.rooster465.autos:443?sni=polished-shrew.rooster465.autos&path=%2f#
 trojan://NQ26071394@polished-shrew.rooster465.autos:443?sni=polished-shrew.rooster465.autos&path=/#
 trojan://NQ26071394@polished-shrew.rooster465.autos:443?sni=polished-shrew.rooster465.autos&type=tcp&fp=chrome#
 trojan://NQ26071394@polite-coyote.rooster465.autos:443?sni=polite-coyote.rooster465.autos&type=tcp&fp=chrome#
+trojan://NQ26071394@powerful-squid.rooster465.autos:443?fp=chrome#
 trojan://NQ26071394@powerful-squid.rooster465.autos:443?sni=powerful-squid.rooster465.autos&type=tcp&fp=chrome#
 trojan://NQ26071394@powerful-troll.rooster465.autos:443?sni=powerful-troll.rooster465.autos&type=tcp&fp=chrome#
 trojan://NQ26071394@prepared-thrush.rooster465.autos:443?sni=prepared-thrush.rooster465.autos&type=tcp&fp=chrome#
@@ -36438,6 +36477,7 @@ trojan://NQ26071394@prime-quail.rooster465.autos:443?sni=prime-quail.rooster465.
 trojan://NQ26071394@promoted-rattler.rooster465.autos:443?allowInsecure=1&sni=promoted-rattler.rooster465.autos#
 trojan://NQ26071394@promoted-rattler.rooster465.autos:443?allowInsecure=1&sni=promoted-rattler.rooster465.autos#EPODONIOS
 trojan://NQ26071394@promoted-rattler.rooster465.autos:443?allowInsecure=1&sni=promoted-rattler.rooster465.autos#🇸🇬[openproxylist.com]
+trojan://NQ26071394@promoted-rattler.rooster465.autos:443?sni=promoted-rattler.rooster465.autos#
 trojan://NQ26071394@promoted-rattler.rooster465.autos:443?sni=promoted-rattler.rooster465.autos&path=%2f#
 trojan://NQ26071394@promoted-rattler.rooster465.autos:443?sni=promoted-rattler.rooster465.autos&path=/#
 trojan://NQ26071394@promoted-rattler.rooster465.autos:443?sni=promoted-rattler.rooster465.autos&peer=promoted-rattler.rooster465.autos&security=tls#
@@ -36495,6 +36535,7 @@ trojan://NQ26071394@real-ewe.rooster465.autos:443?sni=real-ewe.rooster465.autos&
 trojan://NQ26071394@real-ewe.rooster465.autos:443?sni=real-ewe.rooster465.autos&type=tcp&fp=chrome#
 trojan://NQ26071394@renewed-phoenix.rooster465.autos:443?allowInsecure=1&sni=renewed-phoenix.rooster465.autos#
 trojan://NQ26071394@renewed-phoenix.rooster465.autos:443?allowInsecure=1&sni=renewed-phoenix.rooster465.autos#🇳🇱[openproxylist.com]
+trojan://NQ26071394@renewed-phoenix.rooster465.autos:443?fp=chrome#
 trojan://NQ26071394@renewed-phoenix.rooster465.autos:443?sni=renewed-phoenix.rooster465.autos#
 trojan://NQ26071394@renewed-phoenix.rooster465.autos:443?sni=renewed-phoenix.rooster465.autos&path=%2f#
 trojan://NQ26071394@renewed-phoenix.rooster465.autos:443?sni=renewed-phoenix.rooster465.autos&path=/#
@@ -36631,6 +36672,7 @@ trojan://NQ26071394@soskeynets-unicorn.rooster465.autos:443?allowInsecure=0&sni=
 trojan://NQ26071394@square-gnat.rooster465.autos:443?allowInsecure=1&sni=square-gnat.rooster465.autos#
 trojan://NQ26071394@square-gnat.rooster465.autos:443?allowInsecure=1&sni=square-gnat.rooster465.autos#EPODONIOS
 trojan://NQ26071394@square-gnat.rooster465.autos:443?allowInsecure=1&sni=square-gnat.rooster465.autos#🇸🇬[openproxylist.com]
+trojan://NQ26071394@square-gnat.rooster465.autos:443?sni=square-gnat.rooster465.autos#
 trojan://NQ26071394@square-gnat.rooster465.autos:443?sni=square-gnat.rooster465.autos&peer=square-gnat.rooster465.autos&security=tls#
 trojan://NQ26071394@square-gnat.rooster465.autos:443?sni=square-gnat.rooster465.autos&type=tcp&fp=chrome#
 trojan://NQ26071394@square-pheasant.rooster465.autos:443?fp=chrome#
@@ -36916,6 +36958,7 @@ trojan://OD90375861@3.67.171.41:443?sni=busy-hermit.rooster465.autos&path=/#
 trojan://OD90375861@3.67.171.41:443?sni=busy-hermit.rooster465.autos&type=tcp&fp=chrome#
 trojan://OD90375861@52.212.156.233:443#
 trojan://OD90375861@52.212.156.233:443?allowInsecure=0&sni=wired-tick.rooster465.autos#
+trojan://OD90375861@52.212.156.233:443?fp=chrome&sni=wired-tick.rooster465.autos#
 trojan://OD90375861@52.212.156.233:443?sni=wired-tick.rooster465.autos&path=%2f#
 trojan://OD90375861@52.212.156.233:443?sni=wired-tick.rooster465.autos&path=/#
 trojan://OD90375861@52.212.156.233:443?sni=wired-tick.rooster465.autos&type=tcp&fp=chrome#
@@ -37043,7 +37086,6 @@ trojan://OD90375861@wired-tick.rooster465.autos:443?allowInsecure=0&sni=wired-ti
 trojan://OD90375861@wired-tick.rooster465.autos:443?security=tls#
 trojan://OD90375861@wired-tick.rooster465.autos:443?security=tls#%F0%9F%87%AE%F0%9F%87%AAIE-52.212.156.233-5974
 trojan://OD90375861@wired-tick.rooster465.autos:443?sni=wired-tick.rooster465.autos&type=tcp&fp=chrome#
-trojan://OD90375861@wired-tick.rooster465.autos:443?type=raw&headerType=none&security=tls#
 trojan://OLq0FfOlp7@141.227.160.88:1935?security=tls&sni=x1-sweden-ovh-v2.devefun.net&type=tcp#
 trojan://OON2jW@120.82.67.220:28101?allowInsecure=1#
 trojan://OON2jW@120.82.67.220:28132?allowInsecure=1#
@@ -37144,6 +37186,20 @@ trojan://P9ryw2@120.82.67.243:28101?allowInsecure=1#
 trojan://P9ryw2@183.213.200.206:28101?allowInsecure=1#
 trojan://PA3T770NLx@rozegar.ddns.net:2087?mode=gun&security=tls&type=grpc&serviceName=&sni=love.ddrasoo.site#
 trojan://PCcU595qxV@join1antimelinet.melin.shop:2096?mode=gun&security=tls&type=grpc&serviceName=&sni=Heli.melin.shop#
+trojan://PD07395842@certain-egret.rooster465.autos:443?allowInsecure=1&sni=certain-egret.rooster465.autos#
+trojan://PD07395842@excited-ghoul.rooster465.autos:443?allowInsecure=1&sni=excited-ghoul.rooster465.autos#
+trojan://PD07395842@excited-sole.rooster465.autos:443?allowInsecure=1&sni=excited-sole.rooster465.autos#
+trojan://PD07395842@frank-turtle.rooster465.autos:443?allowInsecure=1&sni=frank-turtle.rooster465.autos#
+trojan://PD07395842@hopeful-burro.rooster465.autos:443?allowInsecure=1&sni=hopeful-burro.rooster465.autos#
+trojan://PD07395842@key-pony.rooster465.autos:443?allowInsecure=1&sni=key-pony.rooster465.autos#
+trojan://PD07395842@learning-ladybug.rooster465.autos:443?allowInsecure=1&sni=learning-ladybug.rooster465.autos#
+trojan://PD07395842@main-fawn.rooster465.autos:443?allowInsecure=1&sni=main-fawn.rooster465.autos#
+trojan://PD07395842@national-dingo.rooster465.autos:443?allowInsecure=1&sni=national-dingo.rooster465.autos#
+trojan://PD07395842@on-roughy.rooster465.autos:443?allowInsecure=1&sni=on-roughy.rooster465.autos#
+trojan://PD07395842@pro-crane.rooster465.autos:443?allowInsecure=1&sni=pro-crane.rooster465.autos#
+trojan://PD07395842@pumped-sailfish.rooster465.autos:443?allowInsecure=1&sni=pumped-sailfish.rooster465.autos#
+trojan://PD07395842@together-amoeba.rooster465.autos:443?allowInsecure=1&sni=together-amoeba.rooster465.autos#
+trojan://PD07395842@true-pony.rooster465.autos:443?allowInsecure=1&sni=true-pony.rooster465.autos#
 trojan://PFmduUyIB3@www.visa.com.sg:2087?security=tls&sni=welfare.yycx.eu.org#
 trojan://PFmduUyIB3@www.visa.com.sg:2087?security=tls&sni=welfare.yycx.eu.org&type=ws&host=welfare.yycx.eu.org&path=%2F#
 trojan://PFmduUyIB3@www.visa.com.sg:2087?type=ws&host=welfare.yycx.eu.org&path=%2F&security=tls&sni=welfare.yycx.eu.org#
@@ -37597,7 +37653,6 @@ trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?sni=149.104.104.5
 trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?sni=149.104.104.58&peer=149.104.104.58&security=tls#
 trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?sni=149.104.104.58&type=tcp&fp=chrome#
 trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?type=raw&headerType=none&security=tls&fp=chrome&sni=149.104.104.58#
-trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?type=raw&headerType=none&security=tls&sni=149.104.104.58#
 trojan://S1apO)aZireU@35.95.151.36:14814?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#
 trojan://S8wG5SmFw5wVDeLG4K2N6Mqr2mSPjrpBd7QCHcK4F8fYRfiN@104.26.12.198:443?security=tls&sni=usa2.bw8848.org&type=ws&host=usa2.bw8848.org&path=/usa2-usa2-yuyv2d#
 trojan://S8wG5SmFw5wVDeLG4K2N6Mqr2mSPjrpBd7QCHcK4F8fYRfiN@172.67.70.65:443?security=tls&sni=usa2.bw8848.org&type=ws&host=usa2.bw8848.org&path=/usa2-usa2-yuyv2d#
@@ -39693,6 +39748,7 @@ trojan://XG59623478@united-grouse.rooster465.autos:443?allowInsecure=1#
 trojan://XG59623478@united-grouse.rooster465.autos:443?security=tls#
 trojan://XG59623478@up-dinosaur.rooster465.autos:443?allowInsecure=1#
 trojan://XG59623478@up-dinosaur.rooster465.autos:443?security=tls#
+trojan://XG59623478@upward-hedgehog.rooster465.autos:443#
 trojan://XG59623478@upward-hedgehog.rooster465.autos:443?allowInsecure=1#
 trojan://XG59623478@upward-hedgehog.rooster465.autos:443?allowInsecure=1#EPODONIOS
 trojan://XG59623478@upward-hedgehog.rooster465.autos:443?allowInsecure=1&sni=upward-hedgehog.rooster465.autos#
@@ -42345,8 +42401,10 @@ trojan://b490740312aedb5f9f6b84c7aebd08c0@16.163.103.15:49277?sni=www.nintendoga
 trojan://b490740312aedb5f9f6b84c7aebd08c0@16.163.108.33:17005/?type=tcp&security=tls&sni=www.nintendogames.net#
 trojan://b490740312aedb5f9f6b84c7aebd08c0@16.163.108.33:17005?allowInsecure=0&sni=www.nintendogames.net#
 trojan://b490740312aedb5f9f6b84c7aebd08c0@16.163.108.33:17005?security=tls&sni=www.nintendogames.net#
+trojan://b490740312aedb5f9f6b84c7aebd08c0@16.163.108.33:17005?sni=www.nintendogames.net#
 trojan://b490740312aedb5f9f6b84c7aebd08c0@16.163.108.33:49277/?type=tcp&security=tls&sni=www.nintendogames.net#
 trojan://b490740312aedb5f9f6b84c7aebd08c0@16.163.108.33:49277?allowInsecure=0&sni=www.nintendogames.net#
+trojan://b490740312aedb5f9f6b84c7aebd08c0@16.163.108.33:49277?sni=www.nintendogames.net#
 trojan://b490740312aedb5f9f6b84c7aebd08c0@16.163.109.165:24370/?type=tcp&security=tls&sni=www.nintendogames.net#
 trojan://b490740312aedb5f9f6b84c7aebd08c0@16.163.109.165:24370?allowInsecure=0&sni=www.nintendogames.net#
 trojan://b490740312aedb5f9f6b84c7aebd08c0@16.163.109.165:24370?security=tls&sni=www.nintendogames.net#
@@ -42365,8 +42423,10 @@ trojan://b490740312aedb5f9f6b84c7aebd08c0@16.163.109.165:6357?security=tls&sni=w
 trojan://b490740312aedb5f9f6b84c7aebd08c0@16.163.109.165:6357?sni=www.nintendogames.net#
 trojan://b490740312aedb5f9f6b84c7aebd08c0@16.163.40.213:38937/?type=tcp&security=tls&sni=www.nintendogames.net#
 trojan://b490740312aedb5f9f6b84c7aebd08c0@16.163.40.213:38937?allowInsecure=0&sni=www.nintendogames.net#
+trojan://b490740312aedb5f9f6b84c7aebd08c0@16.163.40.213:38937?sni=www.nintendogames.net#
 trojan://b490740312aedb5f9f6b84c7aebd08c0@16.163.40.213:40138/?type=tcp&security=tls&sni=www.nintendogames.net#
 trojan://b490740312aedb5f9f6b84c7aebd08c0@16.163.40.213:40138?allowInsecure=0&sni=www.nintendogames.net#
+trojan://b490740312aedb5f9f6b84c7aebd08c0@16.163.40.213:40138?sni=www.nintendogames.net#
 trojan://b490740312aedb5f9f6b84c7aebd08c0@16.163.41.104:13118/?type=tcp&security=tls&sni=www.nintendogames.net#
 trojan://b490740312aedb5f9f6b84c7aebd08c0@16.163.41.104:13118?allowInsecure=0&sni=www.nintendogames.net#
 trojan://b490740312aedb5f9f6b84c7aebd08c0@16.163.41.104:13118?security=tls&sni=www.nintendogames.net#
@@ -42463,9 +42523,11 @@ trojan://b490740312aedb5f9f6b84c7aebd08c0@18.166.55.241:24370?sni=www.nintendoga
 trojan://b490740312aedb5f9f6b84c7aebd08c0@18.166.74.220:47867/?type=tcp&security=tls&sni=www.nintendogames.net#
 trojan://b490740312aedb5f9f6b84c7aebd08c0@18.166.74.220:47867?allowInsecure=0&sni=www.nintendogames.net#
 trojan://b490740312aedb5f9f6b84c7aebd08c0@18.166.74.220:47867?security=tls&sni=www.nintendogames.net#
+trojan://b490740312aedb5f9f6b84c7aebd08c0@18.166.74.220:47867?sni=www.nintendogames.net#
 trojan://b490740312aedb5f9f6b84c7aebd08c0@18.166.74.220:6357/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#
 trojan://b490740312aedb5f9f6b84c7aebd08c0@18.166.74.220:6357?allowInsecure=1&sni=www.nintendogames.net#
 trojan://b490740312aedb5f9f6b84c7aebd08c0@18.166.74.220:6357?security=tls&sni=www.nintendogames.net#
+trojan://b490740312aedb5f9f6b84c7aebd08c0@18.166.74.220:6357?sni=www.nintendogames.net#
 trojan://b490740312aedb5f9f6b84c7aebd08c0@18.167.116.129:48738/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#
 trojan://b490740312aedb5f9f6b84c7aebd08c0@18.167.116.129:48738?allowInsecure=1&sni=www.nintendogames.net#
 trojan://b490740312aedb5f9f6b84c7aebd08c0@18.167.116.129:48738?security=tls&sni=www.nintendogames.net#
@@ -42537,6 +42599,7 @@ trojan://b490740312aedb5f9f6b84c7aebd08c0@95.40.52.88:48738/?type=tcp&security=t
 trojan://b490740312aedb5f9f6b84c7aebd08c0@95.40.52.88:48738?allowInsecure=0&sni=www.nintendogames.net#
 trojan://b490740312aedb5f9f6b84c7aebd08c0@95.40.52.88:48738?allowInsecure=1&sni=www.nintendogames.net#
 trojan://b490740312aedb5f9f6b84c7aebd08c0@95.40.52.88:48738?security=tls&sni=www.nintendogames.net#
+trojan://b490740312aedb5f9f6b84c7aebd08c0@95.40.52.88:48738?sni=www.nintendogames.net#
 trojan://b49df800-061e-3282-a34c-70c864c83e8a@ascjp.ntt1.ccddn4.icu:65302?security=tls#
 trojan://b49df800-061e-3282-a34c-70c864c83e8a@ntnt2.x2k8m9q3.top:65302?security=tls#
 trojan://b49df800-061e-3282-a34c-70c864c83e8a@ntnt2.x2k8m9q3.top:65302?security=tls&sni=cdnjp.douyinvod.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#
@@ -46591,7 +46654,6 @@ trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.142:443?sni=185.137.157.
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.142:443?sni=185.137.157.142&path=%2f#
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.142:443?sni=185.137.157.142&path=/#
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.142:443?sni=185.137.157.142&type=tcp&fp=chrome#
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.142:443?type=raw&headerType=none&security=tls#
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.142:443?type=tcp&security=tls#
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.142:443?type=tcp&security=tls&headerType=none&insecure=0&allowInsecure=0#
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.142:443?type=tcp&security=tls&insecure=1&allowInsecure=1#DE🇩🇪
@@ -46765,6 +46827,7 @@ trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?security=tls&typ
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?security=tls&type=tcp&path=%2f&allow_insecure=0#
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?security=tls&type=tcp&path=/#
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?security=tls&type=tcp&path=/&allow_insecure=0#
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?security=tls&type=tcp&sni=185.137.157.151#
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?sni=185.137.157.151#
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?sni=185.137.157.151&fp=chrome&type=tcp&path=%2f#
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?sni=185.137.157.151&fp=chrome&type=tcp&path=/#
@@ -49247,7 +49310,6 @@ trojan://ewpvezqjycgfeebg@38.79.154.34:1818?security=reality&pbk=_PvxwvgQue6Gt2n
 trojan://ewpvezqjycgfeebg@38.79.154.34:1818?security=reality&pbk=_PvxwvgQue6Gt2nbnPXRtkmLVu_gH2-rBK_7lgUFXUY&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&spx=%2F353add2ce7a3241&type=tcp&sni=www.cloudflare.com&sid=cee1b559#
 trojan://ewpvezqjycgfeebg@38.79.154.34:1818?security=reality&pbk=_PvxwvgQue6Gt2nbnPXRtkmLVu_gH2-rBK_7lgUFXUY&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&spx=%2F353add2ce7a3241&type=tcp&sni=www.cloudflare.com&sid=cee1b559#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%B4
 trojan://ewpvezqjycgfeebg@38.79.154.34:1818?security=reality&pbk=_PvxwvgQue6Gt2nbnPXRtkmLVu_gH2-rBK_7lgUFXUY&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&spx=/353add2ce7a3241&type=tcp&sni=www.cloudflare.com&sid=cee1b559#
-trojan://ewpvezqjycgfeebg@38.79.154.34:1818?type=raw&headerType=none&security=reality&fp=chrome&pbk=_PvxwvgQue6Gt2nbnPXRtkmLVu_gH2-rBK_7lgUFXUY&sni=www.cloudflare.com&sid=cee1b559&spx=%2F353add2ce7a3241#
 trojan://ewpwq62OW2@de.melov2ray.shop:2087?type=ws&path=/@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=De.melOV2ray.shop#
 trojan://f0283949-16ba-3060-89f4-4dacb9451ce7@jpdhn3.susun.co:2087?allowInsecure=1&sni=jpdhn3.susun.co#
 trojan://f0283949-16ba-3060-89f4-4dacb9451ce7@jpdhn3.susun.co:2087?allowInsecure=1&sni=jpdhn3.susun.co&type=grpc&serviceName=zhs#
@@ -50956,6 +51018,7 @@ trojan://humanity@104.16.174.36:443?security=tls&sni=www.ignitelimit.com&type=ws
 trojan://humanity@104.16.174.36:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#
 trojan://humanity@104.16.174.36:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#
 trojan://humanity@104.16.174.36:443?sni=www.ignitelimit.com#
+trojan://humanity@104.16.174.36:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#
 trojan://humanity@104.16.174.36:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#
 trojan://humanity@104.16.174.36:443?type=ws&host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com#
 trojan://humanity@104.16.174.36:443?type=ws&security=tls&path=%2Fassignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&insecure=0&allowInsecure=0#
@@ -51324,6 +51387,7 @@ trojan://humanity@104.16.80.73:443?sni=www.creationlong.org&allowInsecure=1&type
 trojan://humanity@104.16.80.73:443?sni=www.creationlong.org&type=ws&path=%2Fassignment&fp=chrome#
 trojan://humanity@104.16.80.73:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#
 trojan://humanity@104.16.80.73:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#
+trojan://humanity@104.16.80.73:443?sni=www.gossipglove.com&type=ws&path=%2Fassignment&fp=chrome#
 trojan://humanity@104.16.80.73:443?sni=www.gossipglove.com&type=ws&path=/assignment&fp=chrome#
 trojan://humanity@104.16.80.73:443?type=ws&security=tls&path=%2Fassignment&host=www.gossipglove.com&sni=www.gossipglove.com&allowInsecure=1#
 trojan://humanity@104.16.80.73:443?type=ws&security=tls&path=%2Fassignment&sni=www.gossipglove.com&fp=chrome&allowInsecure=1#
@@ -51363,6 +51427,8 @@ trojan://humanity@104.17.111.3:443?security=tls&sni=www.ignitelimit.com&insecure
 trojan://humanity@104.17.111.4:443#
 trojan://humanity@104.17.111.4:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#
 trojan://humanity@104.17.111.4:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
+trojan://humanity@104.17.111.8:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#
+trojan://humanity@104.17.111.8:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@meliproxyy
 trojan://humanity@104.17.111.8:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#
 trojan://humanity@104.17.111.8:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 trojan://humanity@104.17.111.8:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#
@@ -52719,6 +52785,7 @@ trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&host=www.calm
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&allowinsecure=0&type=ws&sni=www.calmlunch.com#
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#RELAY🚩
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#
@@ -53503,6 +53570,7 @@ trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=0&ho
 trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#
 trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#
 trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#
+trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#%F0%9F%87%AB%F0%9F%87%B7%20%40FreakConfig
 trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#RELAY🚩
 trojan://humanity@104.21.40.34:443?path=/assignment&%3Bsecurity=tls&%3Bhost=www.gossipglove.com&%3Btype=ws&%3Bsni=www.gossipglove.com#
 trojan://humanity@104.21.40.34:443?path=/assignment&%3Bsecurity=tls&%3Bhost=www.multiplydose.com&%3Btype=ws&%3Bsni=www.multiplydose.com#
@@ -53582,6 +53650,7 @@ trojan://humanity@104.26.6.159:443?security=tls&sni=www.creationlong.org#
 trojan://humanity@104.26.6.159:443?security=tls&sni=www.creationlong.org&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=%2Fassignment#
 trojan://humanity@104.26.6.159:443?security=tls&type=ws&sni=www.creationlong.org&path=/assignment#
 trojan://humanity@104.26.6.159:443?security=tls&type=ws&sni=www.creationlong.org&path=/assignment&host=www.creationlong.org#
+trojan://humanity@104.26.6.159:443?sni=www.creationlong.org#
 trojan://humanity@104.26.6.159:443?sni=www.creationlong.org&type=ws&path=%2Fassignment&fp=chrome#
 trojan://humanity@104.26.6.159:443?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#
 trojan://humanity@104.27.113.179:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&alpn=http%2F1.1#
@@ -54426,7 +54495,6 @@ trojan://humanity@172.64.147.224:443?security=tls&sni=www.gossipglove.com&insecu
 trojan://humanity@172.64.147.224:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#
 trojan://humanity@172.64.147.224:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#
 trojan://humanity@172.64.147.227:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&allowInsecure=1#
-trojan://humanity@172.64.147.227:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#
 trojan://humanity@172.64.147.227:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#
 trojan://humanity@172.64.147.227:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#
 trojan://humanity@172.64.147.227:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#
@@ -54604,6 +54672,7 @@ trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&h
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%87%B3%F0%9F%87%B1%20%40FreakConfig
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#RELAY🚩
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#
@@ -54911,6 +54980,7 @@ trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&host=www.mul
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#
+trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#@meliproxyy
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%8F%B3%EF%B8%8F
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#RELAY🚩
@@ -55780,6 +55850,7 @@ trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&ho
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#RELAY🚩
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%40FreakConfig
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#RELAY🚩
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
@@ -55861,7 +55932,6 @@ trojan://humanity@188.114.98.0:443?type=ws&security=tls&path=%2Fassignment&sni=w
 trojan://humanity@188.114.98.0:443?type=ws&security=tls&path=/assignment&sni=www.multiplydose.com&fp=chrome&insecure=0&allowInsecure=0#
 trojan://humanity@188.114.99.0:443#
 trojan://humanity@188.114.99.0:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com#
-trojan://humanity@188.114.99.0:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#
 trojan://humanity@188.114.99.0:443?allowInsecure=0&sni=www.gossipglove.com&ws=1&wspath=%2Fassignment#
 trojan://humanity@188.114.99.0:443?host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#
 trojan://humanity@188.114.99.0:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#
@@ -56503,6 +56573,7 @@ trojan://humanity@2.185.76.213:40443?path=/assignment&security=tls&insecure=1&ho
 trojan://humanity@2.185.76.213:40443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=/assignment&allowInsecure=1#
 trojan://humanity@2.187.37.157:40443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=/assignment#
 trojan://humanity@2.187.37.157:40443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=/assignment&allowInsecure=1#
+trojan://humanity@202.37.33.80:443#
 trojan://humanity@202.37.33.80:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#
 trojan://humanity@202.37.33.80:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#%40internet_azad_2026%20%2828%29
 trojan://humanity@202.37.33.80:443?allowInsecure=0&sni=www.creationlong.org&ws=1&wspath=%2Fassignment#
@@ -57164,7 +57235,6 @@ trojan://humanity@45.130.125.160:443?sni=www.ignitelimit.com&type=ws&path=%2Fass
 trojan://humanity@45.130.125.160:443?sni=www.ignitelimit.com&type=ws&path=/assignment&fp=chrome#
 trojan://humanity@45.130.125.160:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=0#
 trojan://humanity@45.130.125.160:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=0#
-trojan://humanity@45.130.125.162:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=www.multiplydose.com&fp=ios&type=ws&allowInsecure=0&sni=www.multiplydose.com#
 trojan://humanity@45.130.125.162:443?encryption=none&security=tls&sni=www.multiplydose.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&type=ws&host=www.multiplydose.com&path=%2Fassignment#
 trojan://humanity@45.130.125.162:443?encryption=none&security=tls&sni=www.multiplydose.com&alpn=h3,h2,http/1.1&fp=chrome&type=ws&host=www.multiplydose.com&path=/assignment#
 trojan://humanity@45.130.125.162:443?path=%2Fassignment&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#
@@ -59401,6 +59471,7 @@ trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?allowInsecure=1#
 trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?allowInsecure=1&fp=chrome&security=tls&sni=38.54.64.247&type=tcp#
 trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome#
 trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?allowInsecure=1&sni=38.54.64.247#
+trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?fp=chrome&security=tls&sni=38.54.64.247&type=tcp#
 trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls#
 trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-38.54.64.247-0259
 trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls#EPODONIOS
@@ -59486,7 +59557,6 @@ trojan://lKwC5b3iFW@179.237.75.28:61235?security=reality&pbk=oNsecxmNieB69yz09Gh
 trojan://lKwC5b3iFW@179.237.75.28:61235?security=reality&pbk=oNsecxmNieB69yz09GhDj87Bcz4vgeokWlrZO1qJlmY&host=yahoo.com&headerType=http&fp=firefox&spx=%2F&type=tcp&sni=yahoo.com#EPODONIOS
 trojan://lKwC5b3iFW@179.237.75.28:61235?security=reality&pbk=oNsecxmNieB69yz09GhDj87Bcz4vgeokWlrZO1qJlmY&host=yahoo.com&headerType=http&fp=firefox&spx=/&type=tcp&sni=yahoo.com#
 trojan://lKwC5b3iFW@179.237.75.28:61235?sni=yahoo.com&peer=yahoo.com&security=reality#
-trojan://lKwC5b3iFW@179.237.75.28:61235?type=raw&headerType=http&host=yahoo.com&path=%2F&security=reality&fp=chrome&pbk=oNsecxmNieB69yz09GhDj87Bcz4vgeokWlrZO1qJlmY&sni=yahoo.com&spx=%2F#
 trojan://lKwC5b3iFW@179.237.75.28:61235?type=raw&headerType=http&host=yahoo.com&path=%2F&security=reality&fp=firefox&pbk=oNsecxmNieB69yz09GhDj87Bcz4vgeokWlrZO1qJlmY&sni=yahoo.com&spx=%2F#
 trojan://lKwC5b3iFW@179.237.75.28:61235?type=tcp&security=reality&headerType=http&host=yahoo.com&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=oNsecxmNieB69yz09GhDj87Bcz4vgeokWlrZO1qJlmY&spx=/#
 trojan://lKwC5b3iFW@179.237.75.28:61235?type=tcp&security=reality&headerType=http&host=yahoo.com&sni=yahoo.com&fp=firefox&insecure=1&allowInsecure=1&pbk=oNsecxmNieB69yz09GhDj87Bcz4vgeokWlrZO1qJlmY&spx=%2F#
@@ -62326,6 +62396,7 @@ trojan://telegram-id-directvpn@13.51.244.45:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@13.53.240.142:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#
 trojan://telegram-id-directvpn@13.53.249.38:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
 trojan://telegram-id-directvpn@13.58.156.102:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#
+trojan://telegram-id-directvpn@13.60.133.253:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#
 trojan://telegram-id-directvpn@15.157.221.210:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#
 trojan://telegram-id-directvpn@15.157.221.210:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#
 trojan://telegram-id-directvpn@15.188.0.98:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
@@ -67675,6 +67746,7 @@ trojan://tg-dns68@162.159.153.216:443?security=tls&type=ws&sni=vip.putata.eu.org
 trojan://tg-dns68@162.159.153.219:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#
 trojan://tg-dns68@162.159.153.230:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#
 trojan://tg-dns68@162.159.153.230:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#RELAY🚩
+trojan://tg-dns68@162.159.153.2:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#
 trojan://tg-dns68@162.159.153.31:443?security=tls&type=ws&sni=vip.putata.eu.org&path=%2F%3Fed%3D2560&host=vip.putata.eu.org#RELAY🚩
 trojan://tg-dns68@162.159.153.31:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#
 trojan://tg-dns68@162.159.153.38:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#
