@@ -15,10 +15,6 @@ ss://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@64.227.64.52:443/?type=ws&encryption=n
 ss://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.google.com&security=reality&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&sid=b9988c11#%3E%3E%40oneclickvpnkeys%3A%3ANL%20%2810%29
 ss://0fccbf30-7e79-455b-a756-548f9ba43ec2@static2.hexogate.net:443?security=reality&encryption=none&pbk=I2_bIN-vkKdu02l_1TXzb1FCu5oZHMvx6s_j6lqL7zI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=4fbe35a79c1e884d#REALITY|NL🇳🇱
 ss://1281ef13-f1cd-493b-903e-4c2f4ffe1eba@82.41.131.21:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ao6HM6jT7l8F-c54woAti7flDZW0GU0thRNKYzu9kQ0&security=reality&sid=57cc65bfd5ef7465&sni=pypi.org&type=tcp#REALITY|NL🇳🇱
-ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.139:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#%3E%3E%40outline_vpn%3A%3ANL
-ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?encryption=none&security=tls&sni=vangoghhh.info&type=ws&host=vangoghhh.info&path=%2Frdfgtws#%3E%3E%40ISVvpn%3A%3ANL
-ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?encryption=none&security=tls&sni=vangoghhh.info&type=ws&host=vangoghhh.info&path=%2Frdfgtws#%3E%3E%40ISVvpn%3A%3ANL
-ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@91.193.58.201:443?encryption=none&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=vangoghhh.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 ss://1e7a509e-93c7-46fe-84e3-106279ab8db1@89.124.64.16:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=UGKx4Kydrtu6oCJJPXOtR57bzIUIPK9meIy5ubEDHQM&security=reality&sid=94&sni=www.sony.com&type=tcp#REALITY|NL🇳🇱
 ss://1f4c983e-382c-d2fa-b2dc-7981f02b34de@138.124.113.18:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1RFs75L42oUjmgEKqahFVrKKN52cosDkrWskT053D3o&security=reality&sid=0aafc7b3b9&sni=iamsterdam.com&type=tcp#REALITY|NL🇳🇱
 ss://22730179-0c97-4f09-8cd1-ea1633c35fe0@141.227.131.75:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&fp=chrome&security=reality&pbk=pC3gjEZry8tb6WtRQ-uyBeaJhr4AFkbGVmiCymwAUC8&sid=4f79496def0b3a9c#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B3%F0%9F%87%B1%C2%AE%EF%B8%8FThe%20Netherlands%C2%A9%EF%B8%8FBerkenwoude%F0%9F%85%BF%EF%B8%8Fping%3A41ms
@@ -261,7 +257,6 @@ trojan://NQ26071394@powerful-squid.rooster465.autos:443?fp=chrome#%3E%3E%40onecl
 trojan://NQ26071394@powerful-squid.rooster465.autos:443?fp=chrome#NL🇳🇱
 trojan://NQ26071394@renewed-phoenix.rooster465.autos:443?fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://NQ26071394@renewed-phoenix.rooster465.autos:443?fp=chrome#NL🇳🇱
-trojan://NQ26071394@thorough-falcon.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://NQ26071394@thorough-falcon.rooster465.autos:443?allowInsecure=1#NL🇳🇱
 trojan://ON38567014@actual-aardvark.rooster465.autos:443?fp=chrome#NL🇳🇱
 trojan://ON38567014@literate-coyote.rooster465.autos:443?fp=chrome#NL🇳🇱
@@ -305,10 +300,6 @@ vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@64.227.64.52:443/?type=ws&encryptio
 vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.google.com&security=reality&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&sid=b9988c11#%3E%3E%40oneclickvpnkeys%3A%3ANL%20%2810%29
 vless://0fccbf30-7e79-455b-a756-548f9ba43ec2@static2.hexogate.net:443?security=reality&encryption=none&pbk=I2_bIN-vkKdu02l_1TXzb1FCu5oZHMvx6s_j6lqL7zI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=4fbe35a79c1e884d#REALITY|NL🇳🇱
 vless://1281ef13-f1cd-493b-903e-4c2f4ffe1eba@82.41.131.21:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ao6HM6jT7l8F-c54woAti7flDZW0GU0thRNKYzu9kQ0&security=reality&sid=57cc65bfd5ef7465&sni=pypi.org&type=tcp#REALITY|NL🇳🇱
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.139:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#%3E%3E%40outline_vpn%3A%3ANL
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?encryption=none&security=tls&sni=vangoghhh.info&type=ws&host=vangoghhh.info&path=%2Frdfgtws#%3E%3E%40ISVvpn%3A%3ANL
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?encryption=none&security=tls&sni=vangoghhh.info&type=ws&host=vangoghhh.info&path=%2Frdfgtws#%3E%3E%40ISVvpn%3A%3ANL
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@91.193.58.201:443?encryption=none&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=vangoghhh.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 vless://1e7a509e-93c7-46fe-84e3-106279ab8db1@89.124.64.16:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=UGKx4Kydrtu6oCJJPXOtR57bzIUIPK9meIy5ubEDHQM&security=reality&sid=94&sni=www.sony.com&type=tcp#REALITY|NL🇳🇱
 vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@138.124.113.18:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1RFs75L42oUjmgEKqahFVrKKN52cosDkrWskT053D3o&security=reality&sid=0aafc7b3b9&sni=iamsterdam.com&type=tcp#REALITY|NL🇳🇱
 vless://22730179-0c97-4f09-8cd1-ea1633c35fe0@141.227.131.75:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&fp=chrome&security=reality&pbk=pC3gjEZry8tb6WtRQ-uyBeaJhr4AFkbGVmiCymwAUC8&sid=4f79496def0b3a9c#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B3%F0%9F%87%B1%C2%AE%EF%B8%8FThe%20Netherlands%C2%A9%EF%B8%8FBerkenwoude%F0%9F%85%BF%EF%B8%8Fping%3A41ms
