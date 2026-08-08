@@ -357,6 +357,7 @@ trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19248?security=tls#
 trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19248?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-120.226.39.25-2752
 trojan://0b5fa773-6f37-4134-87d4-0c349742b6f6@104.21.43.90:443?sni=app-538961.user-y0o4gm.workers.dev&type=ws&path=/&fp=chrome#
 trojan://0b5fa773-6f37-4134-87d4-0c349742b6f6@172.67.177.105:443?sni=app-538961.user-y0o4gm.workers.dev&allowInsecure=1&type=ws&path=/cmh#
+trojan://0b5fa773-6f37-4134-87d4-0c349742b6f6@172.67.177.105:443?sni=app-538961.user-y0o4gm.workers.dev&type=ws&path=/&fp=chrome#
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@104.21.12.87:443/?type=ws&path=%2F43xf5zgeApzDAfhOHq&security=tls&sni=series-v1.samanehha.co#
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@104.21.12.87:443?security=tls&sni=series-v1.samanehha.co&type=tcp#
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@104.21.12.87:443?security=tls&sni=series-v1.samanehha.co&type=ws&path=/43xf5zgeApzDAfhOHq&Host=series-v1.samanehha.co#
@@ -786,7 +787,6 @@ trojan://28d98f761aca9d636f44db62544628eb@185.126.116.235:443?allowInsecure=1#
 trojan://28d98f761aca9d636f44db62544628eb@45.66.134.219:443?security=tls#
 trojan://28d98f761aca9d636f44db62544628eb@45.66.134.219:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-45.66.134.219-5527
 trojan://29db38f0-e302-3768-8867-0b9bf00c77e4cmynw@kaizen-hk-2.gocmydns.com:443/?type=grpc&serviceName=mm_grpc&security=tls&sni=www.zueuqnpjvcllc.co&alpn=h2#
-trojan://29db38f0-e302-3768-8867-0b9bf00c77e4cmynw@kaizen-hk-3.gocmydns.com:443/?type=grpc&serviceName=mm_grpc&security=tls&sni=www.zueuqnpjvcllc.co&alpn=h2#
 trojan://29db38f0-e302-3768-8867-0b9bf00c77e4cmynw@kaizen-hk-3.gocmydns.com:443?allowInsecure=0&sni=www.zueuqnpjvcllc.co&alpn=h2&type=grpc&serviceName=mm_grpc#JP🇯🇵
 trojan://29db38f0-e302-3768-8867-0b9bf00c77e4cmynw@kaizen-us-21.gocmydns.com:443/?type=grpc&serviceName=mm_grpc&security=tls&sni=www.zueuqnpjvcllc.co&alpn=h2#
 trojan://29e0206a-2cef-4c8d-aa4b-dd7a43748167@151.101.2.133:443/?type=ws&host=fonmelo.com&security=tls&sni=zmaoz.faculty.ucdavis.edu.#
@@ -1031,6 +1031,8 @@ trojan://41c406e2-12b5-41f2-a329-d0621052d675@hkdcrtc-e.catcat321.com:20129?secu
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@hkdcrtc-e.catcat321.com:20129?sni=hk.catxstar.com#
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20034/?type=tcp&security=tls&sni=hk.catxstar.com&fp=chrome#
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20034/?type=tcp&security=tls&sni=hk.catxstar.com&fp=chrome#EPODONIOS
+trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20034?allowInsecure=0&sni=hk.catxstar.com#
+trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20034?allowInsecure=1&sni=hk.catxstar.com#
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20034?security=tls&sni=hk.catxstar.com#
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20034?security=tls&sni=hk.catxstar.com#🇮🇳[openproxylist.com]
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20066?security=tls&sni=hk.catxstar.com#
@@ -1038,6 +1040,7 @@ trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20066?sec
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20068?security=tls&sni=hk.catxstar.com#
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20068?security=tls&sni=hk.catxstar.com#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-2395
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20088?allowInsecure=0&sni=hk.catxstar.com#
+trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20088?allowInsecure=1&sni=hk.catxstar.com#
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20088?security=tls&sni=hk.catxstar.com#
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20088?security=tls&sni=hk.catxstar.com#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-2158
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20088?security=tls&sni=hk.catxstar.com#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-2392
@@ -2941,7 +2944,6 @@ trojan://Aimer@167.68.4.199:2053?host=epge.muarua.filegear-sg.me&path=/&sni=epge
 trojan://Aimer@167.68.4.199:2053?host=epge.muarua.filegear-sg.me&path=/?ed&sni=epge.muarua.filegear-sg.me&type=ws#
 trojan://Aimer@167.68.4.199:2053?host=epge.muarua.filegear-sg.me&path=/?ed&sni=epge.muarua.filegear-sg.me&type=ws#EPODONIOS
 trojan://Aimer@167.68.4.199:2053?security=tls&sni=epgc.aimercc.dpdns.org&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#
-trojan://Aimer@167.68.4.199:2053?type=ws&host=epge.muarua.filegear-sg.me&path=%2F%3Fproxyip%3Dts.hpc.tw&security=tls&sni=epge.muarua.filegear-sg.me#
 trojan://Aimer@167.68.4.199:2053?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org#
 trojan://Aimer@167.68.4.223:2096/?type=tcp&security=tls&sni=ngepy.ambercc.filegear-sg.me#
 trojan://Aimer@167.68.4.58:443/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#
@@ -4566,6 +4568,7 @@ trojan://ND91608427@clear-snail.rooster465.autos:443?allowInsecure=1&sni=clear-s
 trojan://ND91608427@clear-snail.rooster465.autos:443?allowInsecure=1&sni=clear-snail.rooster465.autos#JP🇯🇵
 trojan://ND91608427@clear-snail.rooster465.autos:443?security=tls&sni=clear-snail.rooster465.autos#
 trojan://ND91608427@clear-snail.rooster465.autos:443?security=tls&sni=clear-snail.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.198.25.180-0139
+trojan://ND91608427@clear-snail.rooster465.autos:443?security=tls&sni=clear-snail.rooster465.autos#EPODONIOS
 trojan://ND91608427@communal-sunbird.rooster465.autos:443?allowInsecure=1&sni=communal-sunbird.rooster465.autos#
 trojan://ND91608427@communal-sunbird.rooster465.autos:443?allowInsecure=1&sni=communal-sunbird.rooster465.autos#EPODONIOS
 trojan://ND91608427@communal-sunbird.rooster465.autos:443?allowInsecure=1&sni=communal-sunbird.rooster465.autos#KR🇰🇷
@@ -4640,7 +4643,6 @@ trojan://ND91608427@eager-louse.rooster465.autos:443?allowInsecure=1&sni=eager-l
 trojan://ND91608427@eager-louse.rooster465.autos:443?allowInsecure=1&sni=eager-louse.rooster465.autos#@V2ray_Collector
 trojan://ND91608427@eager-louse.rooster465.autos:443?security=tls&sni=eager-louse.rooster465.autos#
 trojan://ND91608427@eager-louse.rooster465.autos:443?security=tls&sni=eager-louse.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.180-0237
-trojan://ND91608427@eager-louse.rooster465.autos:443?security=tls&sni=eager-louse.rooster465.autos#EPODONIOS
 trojan://ND91608427@exotic-chow.rooster465.autos:443?allowInsecure=1&sni=exotic-chow.rooster465.autos#
 trojan://ND91608427@exotic-chow.rooster465.autos:443?allowInsecure=1&sni=exotic-chow.rooster465.autos#EPODONIOS
 trojan://ND91608427@exotic-chow.rooster465.autos:443?allowInsecure=1&sni=exotic-chow.rooster465.autos#KR🇰🇷
@@ -5613,6 +5615,7 @@ trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443/?type=tcp&securit
 trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443/?type=tcp&security=tls&sni=149.104.104.58&fp=chrome#
 trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls#
 trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls#%F0%9F%87%B8%F0%9F%87%A6SA-149.104.104.58-0219
+trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls#EPODONIOS
 trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&sni=149.104.104.58#
 trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&sni=149.104.104.58#EPODONIOS
 trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&sni=149.104.104.58&fp=chrome&type=tcp&path=%2f#
@@ -6120,7 +6123,6 @@ trojan://b09d2aaa443af97a@211.72.35.152:3389?security=tls#
 trojan://b09d2aaa443af97a@211.72.35.152:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.35.152-4075
 trojan://b09d2aaa443af97a@211.72.35.155:3389?security=tls#
 trojan://b09d2aaa443af97a@211.72.35.155:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.35.155-3702
-trojan://b0c94dd5-0c4c-6e1e-7ecf-84c386f7c748@104.21.39.47:2096?sni=aged-silence-8d7d.tahaggs.workers.dev&type=ws&path=/taha3&fp=chrome#
 trojan://b0c94dd5-0c4c-6e1e-7ecf-84c386f7c748@104.21.39.47:443?sni=aged-silence-8d7d.tahaggs.workers.dev&type=ws&path=/taha3&fp=chrome#
 trojan://b0c94dd5-0c4c-6e1e-7ecf-84c386f7c748@172.67.143.54:2096?sni=aged-silence-8d7d.tahaggs.workers.dev&type=ws&path=/taha3&fp=chrome#
 trojan://b0c94dd5-0c4c-6e1e-7ecf-84c386f7c748@172.67.143.54:443?sni=aged-silence-8d7d.tahaggs.workers.dev&type=ws&path=/taha3&fp=chrome#
@@ -6246,6 +6248,8 @@ trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?all
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?allowInsecure=1&sni=hk.catxstar.com#
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com#
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-0221
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com#EPODONIOS
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇯🇵[openproxylist.com]
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?type=raw&headerType=none&security=tls&sni=hk.catxstar.com#
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20066/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#
@@ -6958,7 +6962,6 @@ trojan://cfbabf31-2cf6-40ca-9688-abbb682370aa@cn.speedabc.xyz:32002?security=tls
 trojan://chrysanthemum@104.19.152.118:443?sni=cmee.ezbiz.dynv6.net&allowInsecure=1&type=ws&path=%2F&host=cmee.ezbiz.dynv6.net&fp=chrome#
 trojan://chrysanthemum@104.20.48.11:443?security=tls&sni=cmee.ezbiz.dynv6.net&type=ws&path=/&Host=cmee.ezbiz.dynv6.net#
 trojan://chrysanthemum@104.20.48.11:443?security=tls&sni=cmee.ezbiz.dynv6.net&type=ws&path=/&Host=cmee.ezbiz.dynv6.net#%F0%9F%8F%81RELAY-104.20.48.11-0492
-trojan://chrysanthemum@104.20.48.11:443?type=ws&path=%2F&security=tls&sni=cmee.ezbiz.dynv6.net#
 trojan://d050aca3-9df2-4461-90ec-92373c1d7636@v2jp.k1.ssnss.live:44184?security=tls#
 trojan://d05ccfe1-577e-426b-89d2-2254b3965c03@chinahumanr.ml:443#
 trojan://d06a3f01-1ff0-4792-9b8e-a5a604bc74a2@168.138.43.89:443?security=tls#
@@ -6989,6 +6992,7 @@ trojan://d1960ba9f0f6353353994fa844cf817b@18.163.100.58:54876?security=tls&sni=w
 trojan://d1960ba9f0f6353353994fa844cf817b@18.163.100.58:54876?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-18.163.100.58-0452
 trojan://d1960ba9f0f6353353994fa844cf817b@18.163.180.201:6357?security=tls&sni=www.nintendogames.net#
 trojan://d1960ba9f0f6353353994fa844cf817b@18.163.180.201:6357?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-18.163.180.201-0121
+trojan://d1960ba9f0f6353353994fa844cf817b@18.163.180.201:6357?security=tls&sni=www.nintendogames.net#EPODONIOS
 trojan://d1960ba9f0f6353353994fa844cf817b@18.163.180.201:6357?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/#
 trojan://d1960ba9f0f6353353994fa844cf817b@18.163.180.201:6357?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f&allow_insecure=0#
 trojan://d1960ba9f0f6353353994fa844cf817b@18.163.180.201:6357?security=tls&sni=www.nintendogames.net&type=tcp&path=/&allow_insecure=0#
@@ -6996,6 +7000,7 @@ trojan://d1960ba9f0f6353353994fa844cf817b@18.163.180.201:6357?sni=www.nintendoga
 trojan://d1960ba9f0f6353353994fa844cf817b@18.163.180.201:6357?sni=www.nintendogames.net#EPODONIOS
 trojan://d1960ba9f0f6353353994fa844cf817b@18.163.180.201:6357?sni=www.nintendogames.net&fp=chrome&type=tcp&path=/#
 trojan://d1960ba9f0f6353353994fa844cf817b@18.163.180.201:6357?sni=www.nintendogames.net&path=/#
+trojan://d1960ba9f0f6353353994fa844cf817b@18.163.180.201:6357?type=raw&headerType=none&security=tls&sni=www.nintendogames.net#
 trojan://d1960ba9f0f6353353994fa844cf817b@18.166.178.12:39024?security=tls&sni=www.nintendogames.net#
 trojan://d1960ba9f0f6353353994fa844cf817b@18.166.178.12:39024?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-18.166.178.12-0456
 trojan://d1960ba9f0f6353353994fa844cf817b@18.166.178.12:5077?security=tls&sni=www.nintendogames.net#
