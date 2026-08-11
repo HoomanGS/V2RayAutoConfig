@@ -54,6 +54,7 @@ trojan://ND91608427@chief-bluegill.rooster465.autos:443?allowInsecure=1&sni=chie
 trojan://ND91608427@chief-bluegill.rooster465.autos:443?security=tls&sni=chief-bluegill.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-52.79.210.229-0222
 trojan://ND91608427@communal-sunbird.rooster465.autos:443?allowInsecure=1&sni=communal-sunbird.rooster465.autos#KR🇰🇷
 trojan://ND91608427@communal-sunbird.rooster465.autos:443?security=tls&sni=communal-sunbird.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.38.106.2-0232
+trojan://ND91608427@definite-malamute.rooster465.autos:443?allowInsecure=1&sni=definite-malamute.rooster465.autos#KR🇰🇷
 trojan://ND91608427@definite-malamute.rooster465.autos:443?security=tls&sni=definite-malamute.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.203.247.197-0235
 trojan://ND91608427@distinct-llama.rooster465.autos:443?allowInsecure=1&sni=distinct-llama.rooster465.autos#KR🇰🇷
 trojan://ND91608427@distinct-llama.rooster465.autos:443?security=tls&sni=distinct-llama.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.56.44-0226
@@ -66,14 +67,11 @@ trojan://ND91608427@humorous-malamute.rooster465.autos:443?security=tls&sni=humo
 trojan://ND91608427@intimate-moray.rooster465.autos:443?allowInsecure=1&sni=intimate-moray.rooster465.autos#KR🇰🇷
 trojan://ND91608427@intimate-moray.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.103.8-0237
 trojan://ND91608427@main-whippet.rooster465.autos:443?allowInsecure=1&sni=main-whippet.rooster465.autos#KR🇰🇷
-trojan://ND91608427@moved-meerkat.rooster465.autos:443?allowInsecure=1&sni=moved-meerkat.rooster465.autos#KR🇰🇷
-trojan://ND91608427@moved-meerkat.rooster465.autos:443?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1&sni=moved-meerkat.rooster465.autos#KR🇰🇷
 trojan://ND91608427@moved-meerkat.rooster465.autos:443?security=tls&sni=moved-meerkat.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.35.140.99-0241
 trojan://ND91608427@pure-ram.rooster465.autos:443?allowInsecure=1&sni=pure-ram.rooster465.autos#KR🇰🇷
 trojan://ND91608427@pure-ram.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.228.238-0229
 trojan://ND91608427@saving-octopus.rooster465.autos:443?security=tls&sni=saving-octopus.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.239.182-0238
 trojan://ND91608427@select-ferret.rooster465.autos:443?allowInsecure=1&sni=select-ferret.rooster465.autos#KR🇰🇷
-trojan://ND91608427@select-ferret.rooster465.autos:443?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1&sni=select-ferret.rooster465.autos#KR🇰🇷
 trojan://ND91608427@select-ferret.rooster465.autos:443?security=tls&sni=select-ferret.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.36.59.34-0219
 trojan://ND91608427@striking-maggot.rooster465.autos:443?allowInsecure=1&sni=striking-maggot.rooster465.autos#KR🇰🇷
 trojan://ND91608427@striking-maggot.rooster465.autos:443?security=tls&sni=striking-maggot.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.202.56.122-0224
@@ -145,5 +143,5 @@ vmess://ewogICAgImFkZCI6ICJndG0xLmt0bXdhbi5uZXQiLAogICAgImFpZCI6IDAsCiAgICAiaG9z
 vmess://ewogICAgImFkZCI6ICJrci1hcm0yLjAxODk5OS54eXoiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJrci1hcm0yLjAxODk5OS54eXoiLAogICAgImlkIjogImU5OGZjMWEwLTljNTItNDA5MS05MWE1LWMxNTliMGFhMjc0ZSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9lOThmYzFhMC05YzUyLTQwOTEtOTFhNS1jMTU5YjBhYTI3NGUiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HsPCfh7dLUi0xNDYuNTYuNDcuMS0xNDY2IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICJzZW91bDAxLnpnam9rLmNvbSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInNlb3VsMDEuemdqb2suY29tIiwKICAgICJpZCI6ICIxODJmMTY1MC1jYTEzLTQ4MGMtYjBiNC0xY2E0NGVkMDUwNGUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvaGVuaXMwMSIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4ew8J+Ht0tSLTEzMC4xNjIuMTU1LjQ2LTIwODQiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vmess://ewogICAgImFkZCI6ICJzZW91bDAyLnpnam9rLmNvbSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInNlb3VsMDIuemdqb2suY29tIiwKICAgICJpZCI6ICIxYTFlNTE5Ni1lYWI0LTQ3NzItOTAxMi02NWMyN2YxOWE1MjQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh7Dwn4e3S1ItMTQ2LjU2LjEzNi4yMzctMTU3OSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJLUlx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyB8IDE0MC4yMzguMi4yNTAtNDQzIHwgMTI5LjIybXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJLUlx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyB8IDE0MC4yMzguMi4yNTAtNDQzIHwgMTI4Ljg2bXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxNTIuNjcuMjE4LjM4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIxNTIuNjcuMjE4LjM4IiwiaWQiOiJiNWU5NDgwYS1iN2FhLTQwYTQtZjlhNy01Mjk5YjVlMzYzYjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HsPCfh7dLUi0xNTIuNjcuMjE4LjM4LTAxNDkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
