@@ -103,7 +103,7 @@ hysteria2://@Telegram@Configvibes@107.181.155.107:2096?security=tls&obfs=salaman
 hysteria2://@Telegram@Configvibes@107.181.155.107:2096?security=tls&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes&insecure=1&pinSHA256=4d885985ade324c2cee16b7107ae41fdda03800eb8676b946ea4760162a1279c&sni=ftp.debian.org#EPODONIOS
 hysteria2://@Telegram@Configvibes@45.92.219.237:8486?security=tls&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------&insecure=1&pinSHA256=81ffead0b74d5839b6673de7bd5785cf2574f426acdd62d3e3199293a885377e&sni=ftp.debian.org#
 hysteria2://@Telegram@Configvibes@45.92.219.237:8486?security=tls&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------&insecure=1&pinSHA256=81ffead0b74d5839b6673de7bd5785cf2574f426acdd62d3e3199293a885377e&sni=ftp.debian.org#EPODONIOS
-hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@222.167.212.24:8443/?sni=grape-power-pl.ddnsguru.com#
+hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@222.167.212.24:8443?security=tls&insecure=0&sni=grape-power-pl.ddnsguru.com#
 hysteria2://AstroVPN_official@ptserv.accuratenetworkchecker.ir:36896?sni=lms22.gelzaro.ir&obfs=salamander&obfs-password=hmvyfx1tpnz6pp3k#EPODONIOS
 hysteria2://CJtE4HLmxz859YMNiZM1NTuDRy7jjs8t@217.154.146.174:1443?sni=pg-de-hy2.gigatapbot.top#
 hysteria2://CJtE4HLmxz859YMNiZM1NTuDRy7jjs8t@89.124.92.91:1443?insecure=1&sni=pg-nl-hy2.gigatapbot.top#
@@ -220,7 +220,7 @@ hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.212:8443/?sni=gra
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.212:8443?sni=grape-turbo-fr.roxa.org#
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.213:8443/?sni=grape-turbo-fr.roxa.org#
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.213:8443?sni=grape-turbo-fr.roxa.org#
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.218:8443/?sni=grape-turbo-fr.roxa.org#
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.218:8443?security=tls&insecure=0&sni=grape-turbo-fr.roxa.org#
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.219:8443/?sni=grape-turbo-fr.roxa.org#
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.219:8443?sni=grape-turbo-fr.roxa.org#
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.221:8443/?sni=grape-turbo-fr.roxa.org#
@@ -231,9 +231,7 @@ hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1&all
 hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1&sni=159.223.157.129#
 hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1&sni=www.microsoft.com#
 hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443/?sni=ro.h2corp.org#
-hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&insecure=0&sni=ro.h2corp.org#
 hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?insecure=1#
-hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?security=tls&insecure=0&sni=ro.h2corp.org#
 hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?sni=ro.h2corp.org#
 hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443?security=tls#
 hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#
