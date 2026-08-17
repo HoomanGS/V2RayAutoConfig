@@ -63,8 +63,8 @@ hysteria2://4T3sB0DeFo@51.79.91.52:38871?security=tls&obfs=salamander&obfs-passw
 hysteria2://4ff4adfb8e7a4bae9c959c54fa5af52f@assets.gateway-stream.com:52000?security=tls&obfs=salamander&alpn=h3&obfs-password=gu74jg3ym0e21zco&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
 hysteria2://4ff4adfb8e7a4bae9c959c54fa5af52f@assets.gateway-stream.com:52002?security=tls&obfs=salamander&obfs-password=ielzukpwth087afx&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
 hysteria2://4ff4adfb8e7a4bae9c959c54fa5af52f@assets.gateway-stream.com:52003?security=tls&obfs=salamander&alpn=h3&obfs-password=5xo4v7u2pv8bktvb&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#EPODONIOS
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?sni=fiproxy1.lockdwn.com&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=uw9b2qq5rx#EPODONIOS
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?sni=fiproxy1.lockdwn.com&path=/&obfs=salamander&obfs-password=uw9b2qq5rx#EPODONIOS
 hysteria2://6aab8efdf13945829ae3699c342be406@fiproxy1.lockdwn.com:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#EPODONIOS
 hysteria2://6aab8efdf13945829ae3699c342be406@fiproxy1.lockdwn.com:443?sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#EPODONIOS
 hysteria2://9cc2113e-6b5b-4ced-9c46-70cf78d2c599@dns.devmrzero.ir:2096?security=tls&obfs=salamander&obfs-password=AIbOe_791iQ4k6kPUgdsO7B9&insecure=0&sni=a26738d5774ad803.devmrzero.ir#EPODONIOS
@@ -102,6 +102,17 @@ hysteria2://rjj39jg8iphgd06h@pro2.riziro.ir:44100?alpn=h3&fm={
 hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52000?alpn=h3&fm={
 hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52001?alpn=h3&fm={
 hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52005?alpn=h3&fm={
+hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52016?security=tls&obfs=salamander&obfs-password=fsc92dsh321o5h3r&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
 hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52018?alpn=h3&fm={
 hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52019?alpn=h3&fm={
+hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52022?security=tls&obfs=salamander&obfs-password=1wcfqg6gwoyxlplo&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
 hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52026?alpn=h3&fm={
+hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52026?security=tls&obfs=salamander&obfs-password=d6pv15sghiq1onts&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
+hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52060?security=tls&obfs=salamander&obfs-password=l960g2kn19nphlra&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
+hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52061?security=tls&obfs=salamander&obfs-password=fd3olglr2bmimgje&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
+hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52062?security=tls&obfs=salamander&obfs-password=hg7rfvz151ftjh0w&insecure=0#EPODONIOS
+hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52062?security=tls&obfs=salamander&obfs-password=hg7rfvz151ftjh0w&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
+hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52076?security=tls&obfs=salamander&obfs-password=zducqb7ro143x0t2&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
+hysteria2://u1agq9566pfrco2q@45.74.158.242:15641?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&obfs=salamander&obfs-password=xdqynq1idjgm8x4p&insecure=0&sni=#EPODONIOS
+hysteria2://u1agq9566pfrco2q@45.74.158.242:15641?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&obfs=salamander&obfs-password=xdqynq1idjgm8x4p&insecure=0&sni=www.ser7er.wolfs2.ir#EPODONIOS
+hysteria2://u1agq9566pfrco2q@45.74.158.242:15641?security=tls&obfs=salamander&obfs-password=xdqynq1idjgm8x4p&insecure=0&sni=www.ser7er.wolfs2.ir#EPODONIOS
