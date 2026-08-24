@@ -765,6 +765,7 @@ trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?security
 trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?security=tls&sni=blackshadow.dpdns.org#%F0%9F%8F%81RELAY-172.67.174.10-0993
 trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?sni=blackshadow.dpdns.org#
 trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?sni=support.zoom.us.blackshadow.dpdns.org&type=ws&host=support.zoom.us.blackshadow.dpdns.org&path=/195.123.218.174-443#
+trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?sni=support.zoom.us.blackshadow.dpdns.org&type=ws&host=support.zoom.us.blackshadow.dpdns.org&path=/195.123.218.174-443#EPODONIOS
 trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@183.232.235.2:8313?security=tls&sni=hk-13-568.flztjc.net#
 trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@dozo01.flztjc.top:8313?security=tls&sni=hk-13-568.flztjc.net#
 trojan://2cba4104747d49d18319e5ade1b93ab5@104.17.215.8:443/?type=tcp&security=tls&sni=jobscareertoday.com#
@@ -1212,7 +1213,6 @@ trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@fr.techdatacloud.org:8443?type=tcp
 trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@gb.techdatacloud.org:2053?type=tcp&security=reality&pbk=uiFSTSOSNKBLju8qnTOyZdM1WyTwOFVr3-RXUYk9nEM&fp=firefox&sni=cloud.mail.ru&sid=23572794d5ffc9fd&spx=%2F#
 trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@pl.techdatacloud.org:2053?type=tcp&security=reality&pbk=uiFSTSOSNKBLju8qnTOyZdM1WyTwOFVr3-RXUYk9nEM&fp=firefox&sni=cloud.mail.ru&sid=23572794d5ffc9fd&spx=%2F#
 trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@ru.techdatacloud.org:8443?type=tcp&security=reality&pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&fp=chrome&sni=cloud.mail.ru&sid=8c3785d47c2017ec&spx=/#
-trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@ru.techdatacloud.org:8443?type=tcp&security=reality&pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&fp=chrome&sni=cloud.mail.ru&sid=8c3785d47c2017ec&spx=/#EPODONIOS
 trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@ru.techdatacloud.org:8443?type=tcp&security=reality&pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&fp=chrome&sni=cloud.mail.ru&sid=8c3785d47c2017ec&spx=/#🇷🇺[openproxylist.com]
 trojan://5e2ce79c-170e-484a-8802-40584a1a3a12@naiu-us.05vr9nyqg5.download:13020?allowInsecure=0&sni=cloudflare.node-ssl.cdn-alibaba.com#
 trojan://5e2ce79c-170e-484a-8802-40584a1a3a12@naiu-us.05vr9nyqg5.download:13020?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com&type=tcp&headerType=none#
@@ -4022,7 +4022,6 @@ trojan://MiTiVPN@199.232.237.245:443?type=ws&security=tls&path=/---@MiTiVPN---@M
 trojan://MiTiVPN@199.232.237.245:443?type=ws&security=tls&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&host=s4k-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&sni=letsencrypt.org&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#EPODONIOS
 trojan://MiTiVPN@199.232.78.150:443/?type=ws&host=s4z-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-g%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=ssl.fastly.com&alpn=http%2F1.1&fp=chrome#
 trojan://MiTiVPN@199.232.78.160:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&host=s2k-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=nextjs.org#
-trojan://MiTiVPN@199.232.78.160:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=2-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#
 trojan://MiTiVPN@199.232.78.160:443?type=ws&security=tls&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&host=s2z-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&sni=default.fastly.com&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#
 trojan://MiTiVPN@199.232.78.160:443?type=ws&security=tls&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&host=s2z-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&sni=default.fastly.com&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#EPODONIOS
 trojan://MiTiVPN@199.232.78.160:443?type=ws&security=tls&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-g@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&host=s44-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&sni=react.dev&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#
@@ -4038,6 +4037,7 @@ trojan://MiTiVPN@88.216.67.230:443/?type=ws&host=Nel.App-Cloud.ir&path=%2FMiTiVP
 trojan://MiTiVPN@88.216.67.230:443/?type=ws&host=Nel.App-Cloud.ir&path=%2FMiTiVPN%3DNL&security=tls&sni=Nel.App-Cloud.ir&alpn=http%2F1.1&fp=firefox#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%BC%C2%AE%EF%B8%8FCuracao%C2%A9%EF%B8%8FWillemstad%F0%9F%85%BF%EF%B8%8Fping%3A47.18ms
 trojan://MiTiVPN@91.193.58.201:443?path=%2FMiTiVPN%3DfL&security=tls&alpn=http%2F1.1&insecure=0&host=Fl.App-Cloud.ir&fp=firefox&type=ws&allowInsecure=0&sni=fl.App-Cloud.ir#
 trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=Fl.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=fl.App-Cloud.ir#
+trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=Fl.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=fl.App-Cloud.ir#EPODONIOS
 trojan://Mitivpn@151.101.0.0:80?type=ws&security=none&path=@SylphNet&host=@SylphNet#
 trojan://Mitivpn@151.101.0.0:80?type=ws&security=none&path=@SylphNet&host=@SylphNet#EPODONIOS
 trojan://Mitivpn@151.101.110.219:443?path=%2Fde&security=tls&alpn=http%2F1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#
@@ -5365,11 +5365,14 @@ trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&inse
 trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#EPODONIOS
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450/?type=tcp&security=tls&sni=hk.catxstar.com#
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20085?allowInsecure=1&sni=hk.catxstar.com#
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20085?allowInsecure=1&sni=hk.catxstar.com#EPODONIOS
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1&security=tls&sni=de.catxstar.com#
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls#
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-2009
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20006?allowInsecure=1&sni=hk.catxstar.com#
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20006?allowInsecure=1&sni=hk.catxstar.com#EPODONIOS
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20066?allowInsecure=1&sni=hk.catxstar.com#
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20066?allowInsecure=1&sni=hk.catxstar.com#EPODONIOS
 trojan://ba4e0314-c815-4711-81ac-4d37f0fb59fc@172.67.204.84:443/?type=ws&host=se1.safecdn.site&path=%2FTelegram%40V2ray_Alpha&security=tls&sni=se1.safecdn.site#
 trojan://ba4fedf8c217c146@120.236.197.205:3389?security=tls&sni=n2.gladns.com#
 trojan://ba4fedf8c217c146@120.236.197.205:3389?security=tls&sni=n2.gladns.com#%F0%9F%87%A8%F0%9F%87%B3CN-120.236.197.205-1182
@@ -6650,7 +6653,6 @@ trojan://humanity@104.16.71.213:443?path=%2Fassignment&security=tls&insecure=0&h
 trojan://humanity@104.16.71.213:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@104.16.71.213:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#RELAY🚩
 trojan://humanity@104.16.71.213:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#
-trojan://humanity@104.16.71.213:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@104.16.72.2:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com%20#
 trojan://humanity@104.16.72.41:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com%20#
 trojan://humanity@104.16.72.41:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#
@@ -6695,11 +6697,9 @@ trojan://humanity@104.17.121.43:443?host=www.calmlunch.com&path=%2Fassignment&sn
 trojan://humanity@104.17.121.71:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#
 trojan://humanity@104.17.121.71:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#-%3EPL%2B%28%40DeamNet_Proxy%29%20%2824%29
 trojan://humanity@104.17.121.71:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#
-trojan://humanity@104.17.121.71:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@104.17.121.9:443/?type=tcp&security=tls&sni=www.calmlunch.com#
 trojan://humanity@104.17.121.9:443/?type=tcp&security=tls&sni=www.calmlunch.com#%F0%9F%8F%81RELAY-104.17.121.9-0483
 trojan://humanity@104.17.121.9:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#
-trojan://humanity@104.17.121.9:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@104.17.131.88:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&fp=chrome#
 trojan://humanity@104.17.131.88:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://humanity@104.17.177.143:443#RELAY🚩
@@ -6842,6 +6842,7 @@ trojan://humanity@104.18.152.219:443?allowInsecure=0&sni=www.ignitelimit.com&ws=
 trojan://humanity@104.18.152.219:443?allowInsecure=1&sni=www.ignitelimit.com#
 trojan://humanity@104.18.152.219:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#
 trojan://humanity@104.18.152.219:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#RELAY🚩
+trojan://humanity@104.18.152.219:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#
 trojan://humanity@104.18.152.219:443?security=tls&sni=www.ignitelimit.com#
 trojan://humanity@104.18.152.219:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.18.152.219-0958
 trojan://humanity@104.18.152.219:443?sni=www.ignitelimit.com#
@@ -6971,7 +6972,6 @@ trojan://humanity@104.19.229.21:443?security=tls&sni=www.ignitelimit.com&type=ws
 trojan://humanity@104.19.229.21:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.19.229.21-1109
 trojan://humanity@104.19.229.21:443?sni=www.ignitelimit.com#
 trojan://humanity@104.19.64.105:443?host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com&type=ws#
-trojan://humanity@104.19.64.105:443?host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com&type=ws#EPODONIOS
 trojan://humanity@104.20.42.250:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=ios#
 trojan://humanity@104.20.42.250:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=ios#%3E%3E%40configV2rayNG%3A%3AFR
 trojan://humanity@104.20.6.134:443/?type=ws&host=www.multiplydose.com&path=%2F%252Fassignment&security=tls&sni=www.multiplydose.com#
@@ -7049,7 +7049,6 @@ trojan://humanity@162.159.38.119:443?type=ws&security=tls&path=%2Fassignment&hos
 trojan://humanity@165.215.250.14:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&alpn=http%2F1.1#
 trojan://humanity@165.215.250.14:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&alpn=http%2F1.1#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28122%29
 trojan://humanity@165.215.250.14:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1#
-trojan://humanity@165.215.250.14:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1#EPODONIOS
 trojan://humanity@165.215.250.14:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#
 trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#
 trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
@@ -7095,7 +7094,6 @@ trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&hos
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#EPODONIOS
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.come=@FreeOnlineVPN#
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com¬e=@FreeOnlineVPN#
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com¬e=@FreeOnlineVPN#EPODONIOS
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.comВ¬e=@FreeOnlineVPN#
 trojan://humanity@172.64.152.23:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#RELAY🚩
 trojan://humanity@172.64.152.38:443/?type=ws&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&fp=chrome#
@@ -7144,12 +7142,10 @@ trojan://humanity@185.18.250.245:443/?type=tcp&security=tls&sni=www.calmlunch.co
 trojan://humanity@185.18.250.245:443/?type=tcp&security=tls&sni=www.calmlunch.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil%20%2814%29
 trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#RELAY🚩
 trojan://humanity@185.18.250.245:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#
-trojan://humanity@185.18.250.245:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@185.18.250.252:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&allowInsecure=1#
 trojan://humanity@185.18.250.252:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&allowInsecure=1#%40nekopingbot_5821
 trojan://humanity@185.18.250.252:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#RELAY🚩
 trojan://humanity@185.18.250.252:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com&type=ws#
-trojan://humanity@185.18.250.252:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com&type=ws#EPODONIOS
 trojan://humanity@185.18.250.252:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&insecure=0&allowInsecure=0#RELAY🚩
 trojan://humanity@185.18.250.252:443?type=ws&security=tls&path=%2Fassignment&sni=www.calmlunch.com&fp=chrome&insecure=0&allowInsecure=0#RELAY🚩
 trojan://humanity@185.220.100.168:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#
@@ -7159,6 +7155,7 @@ trojan://humanity@185.231.112.217:40443/?type=ws&host=www.creationlong.org&path=
 trojan://humanity@185.231.112.217:40443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#%40fastkanfig%20%287%29
 trojan://humanity@185.231.112.217:40443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#
 trojan://humanity@185.231.112.217:40443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&allowInsecure=1#
+trojan://humanity@185.255.179.166:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷[openproxylist.com]
 trojan://humanity@185.75.243.102:443?security=tls&sni=www.ignitelimit.com&alpn=h3%2C+h2%2C+http%2F1.1&type=ws&host=www.ignitelimit.com&path=%2Fassignment&fragment=3%2C0-1%2Ctlshello%2Cnull&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220-1%22%2C%22length%22%3A%223%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&fp=chrome#
 trojan://humanity@185.75.243.102:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment&fp=android#
 trojan://humanity@188.114.96.3:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#
@@ -7191,6 +7188,7 @@ trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host
 trojan://humanity@188.114.97.6:443?type=ws&security=tls&host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&alpn=h2,http/1.1#
 trojan://humanity@188.114.97.6:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=0#
 trojan://humanity@188.114.97.7:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#
+trojan://humanity@188.114.97.7:443?allowInsecure=0&type=ws&sni=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&insecure=0&path=%2Fassignment&security=tls#
 trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#
 trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%5B%F0%9F%87%A8%F0%9F%87%A6%5Dt.me%2FConfigV2RayNG
 trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
@@ -7312,7 +7310,6 @@ trojan://humanity@45.130.125.160:443/?type=ws&host=www.calmloud.com&path=%2Fassi
 trojan://humanity@45.130.125.160:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#%40nekopingbot_5823
 trojan://humanity@45.130.125.160:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#
 trojan://humanity@45.130.125.160:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#
-trojan://humanity@45.130.125.160:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@45.130.125.160:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com#
 trojan://humanity@45.130.125.2:443/?type=ws&host=Www.cReaTIOnLONG.OrG&path=%2Fassignment&security=tls&sni=Www.cReaTIOnLONG.OrG#
 trojan://humanity@45.130.125.2:443?path=%2Fassignment&security=tls&insecure=0&host=Www.cReaTIOnLONG.OrG&type=ws&allowInsecure=0&sni=Www.cReaTIOnLONG.OrG#RELAY🚩
@@ -7322,7 +7319,6 @@ trojan://humanity@45.130.125.69:443/?type=ws&host=www.calmloud.com&path=%2Fassig
 trojan://humanity@45.130.125.75:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#
 trojan://humanity@45.130.125.75:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#RELAY🚩
 trojan://humanity@45.130.125.75:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#
-trojan://humanity@45.130.125.75:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#EPODONIOS
 trojan://humanity@45.130.125.75:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&insecure=0&allowInsecure=0#RELAY🚩
 trojan://humanity@45.130.125.75:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&insecure=0&allowInsecure=0#
 trojan://humanity@45.130.125.75:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&insecure=0&allowInsecure=0#@OutlineReleasedKey
@@ -7667,6 +7663,7 @@ trojan://oeaQHjIg021hag3UB1gHR60iA1iaNSs2@2-------------------------------------
 trojan://oeaQHjIg021hag3UB1gHR60iA1iaNSs2@2----------------------------------------------------3.poki-pakipon.ir:62930?mode=gun&security=reality&pbk=q2f2EcYkXT0MpVQ4rD49eQr2MACoIOJmampNRLm2JhA&fp=firefox&type=grpc&serviceName=BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----&sni=www.icloud.com&sid=2b6f76389eadc382#
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?allowInsecure=1&sni=russiapower.accesscam.org#
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=russiapower.accesscam.org#
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=russiapower.accesscam.org#EPODONIOS
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#%F0%9F%87%AA%F0%9F%87%AAEE-109.206.241.10-0096
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#@OutlineReleasedKey
