@@ -218,6 +218,10 @@ trojan://02491ccf-e969-4200-9ebd-5e0da4eff308@okanc.iepl.cac.cab:23012/?type=tcp
 trojan://0280b529-2747-4b7a-ab11-bad6453150b9@159.223.21.187:443/?type=tcp&security=tls&sni=fr2-full.privateip.net&allowInsecure=1#
 trojan://0280b529-2747-4b7a-ab11-bad6453150b9@fr2-full.privateip.net:443?security=tls#
 trojan://02926f9e-153a-42c8-8ecd-8fade7009ad1@144.22.250.122:443/?type=tcp&security=tls&sni=golinkwuxian.top#
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowInsecure=1&sni=www.microsoft.com#
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowInsecure=1&sni=www.microsoft.com#EPODONIOS
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?security=tls&sni=www.microsoft.com#
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?security=tls&sni=www.microsoft.com#🇺🇸[openproxylist.com]
 trojan://02d79af1-e121-401a-a294-fc72a50eb8b8@fscus.fscloud123456789.com:443?allowInsecure=1#
 trojan://02e653c9-7c93-46a9-999d-11834bd0c577@132.145.51.172:443/?type=tcp&security=tls#
 trojan://02e653c9-7c93-46a9-999d-11834bd0c577@132.145.51.172:443?security=tls#
@@ -319,7 +323,6 @@ trojan://0PUoUQvkGLkxuukHJLje21MCg1DNeOpx@vip-nl-1.hkd4fwmg.vip:28236?security=t
 trojan://0RiSuJPsug#
 trojan://0RiSuJPsug%23v@104.21.43.168:443/?type=ws&host=2.lINK-KoN.IR&path=%2FtrTcwZRw8JC0TPp6d1%3Fed%3D2560&security=tls&sni=2.link-kon.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized#
 trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#
-trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#EPODONIOS
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.146:443/?type=tcp&security=tls&sni=jobscareertoday.com#
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.1:443/?type=ws&host=sherasheba.com&path=%2F6b777a91&security=tls&sni=sherasheba.com#
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.1:443?security=tls&type=ws&sni=sherasheba.com&path=/6b777a91&host=sherasheba.com#
@@ -528,6 +531,8 @@ trojan://11ae0edd-2f63-4495-8683-037abbda9986@146.70.158.111:443?security=tls&sn
 trojan://11ae0edd-2f63-4495-8683-037abbda9986@146.70.158.111:443?security=tls&sni=amin.karkas1.ir&type=ws&path=/6vuNVgOFnqUEvj0sNkGkxxW7&Host=amin.karkas1.ir#%F0%9F%87%AB%F0%9F%87%B7FR-146.70.158.111-8005
 trojan://11ae0edd-2f63-4495-8683-037abbda9986@amin.karkas1.ir:443?path=%2F6vuNVgOFnqUEvj0sNkGkxxW7&security=tls&alpn=h2&host=amin.karkas1.ir&fp=safari&type=ws&sni=amin.karkas1.ir#
 trojan://11dd4a95-fd4f-4f08-8def-e950aa2c1766@104.21.29.205:443/?type=tcp&security=tls&sni=4444444446.222560.xyz#
+trojan://11f75919-38dd-47d2-bdf5-c93980317309@172.233.143.225:28443/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#
+trojan://11f75919-38dd-47d2-bdf5-c93980317309@172.233.143.225:28443/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#EPODONIOS
 trojan://12345678@198.62.62.4:443/?type=ws&host=7bdfb97a.ikl.pages.dev&path=%2F7bdfb97a.ikl.pages.dev&security=tls&sni=7bdfb97a.ikl.pages.dev#
 trojan://123456@104.18.11.39:443?security=tls&sni=trojan-amp-id01.globalssh.xyz&allowInsecure=1&type=tcp#
 trojan://123456@104.25.165.81:8443/?type=ws&host=top-azx.pages.dev&security=tls&sni=top-azx.pages.dev#
@@ -1117,12 +1122,8 @@ trojan://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443?security=tls&typ
 trojan://4f9ca636-5195-406a-b48c-0388689dd9a7@212.24.103.3:443?security=tls#
 trojan://4f9ca636-5195-406a-b48c-0388689dd9a7@212.24.103.3:443?security=tls#%F0%9F%87%B1%F0%9F%87%B9LT-212.24.103.3-3501
 trojan://50414e45-4c5f-5a45-5553-92b68c3eae48@104.19.122.50:443?path=/stream/PANEL_ZEUS/92b68c3eae48/loc-1&security=tls&insecure=0&host=t2zmaqevufw1us.svgsvgrvsgr-12010.workers.dev&type=ws&allowInsecure=0&sni=t2zmaqevufw1us.svgsvgrvsgr-12010.workers.dev#
-trojan://50414e45-4c5f-5a45-5553-92b68c3eae48@104.19.122.50:443?path=/stream/PANEL_ZEUS/92b68c3eae48/loc-1&security=tls&insecure=0&host=t2zmaqevufw1us.svgsvgrvsgr-12010.workers.dev&type=ws&allowInsecure=0&sni=t2zmaqevufw1us.svgsvgrvsgr-12010.workers.dev#EPODONIOS
 trojan://50414e45-4c5f-5a45-5553-92b68c3eae48@104.21.59.252:443?path=/stream/PANEL_ZEUS/92b68c3eae48/loc-1&security=tls&insecure=0&host=t2zmaqevufw1us.svgsvgrvsgr-12010.workers.dev&type=ws&allowInsecure=0&sni=t2zmaqevufw1us.svgsvgrvsgr-12010.workers.dev#
-trojan://50414e45-4c5f-5a45-5553-92b68c3eae48@104.21.59.252:443?path=/stream/PANEL_ZEUS/92b68c3eae48/loc-1&security=tls&insecure=0&host=t2zmaqevufw1us.svgsvgrvsgr-12010.workers.dev&type=ws&allowInsecure=0&sni=t2zmaqevufw1us.svgsvgrvsgr-12010.workers.dev#EPODONIOS
-trojan://50414e45-4c5f-5a45-5553-92b68c3eae48@104.25.65.61:443?path=%2Fstream%2FPANEL_ZEUS%2F92b68c3eae48%2Floc-1&security=tls&insecure=0&host=t2zmaqevufw1us.svgsvgrvsgr-12010.workers.dev&type=ws&allowInsecure=0&sni=t2zmaqevufw1us.svgsvgrvsgr-12010.workers.dev#
 trojan://50414e45-4c5f-5a45-5553-92b68c3eae48@104.25.65.61:443?path=/stream/PANEL_ZEUS/92b68c3eae48/loc-1&security=tls&insecure=0&host=t2zmaqevufw1us.svgsvgrvsgr-12010.workers.dev&type=ws&allowInsecure=0&sni=t2zmaqevufw1us.svgsvgrvsgr-12010.workers.dev#
-trojan://50414e45-4c5f-5a45-5553-92b68c3eae48@104.25.65.61:443?path=/stream/PANEL_ZEUS/92b68c3eae48/loc-1&security=tls&insecure=0&host=t2zmaqevufw1us.svgsvgrvsgr-12010.workers.dev&type=ws&allowInsecure=0&sni=t2zmaqevufw1us.svgsvgrvsgr-12010.workers.dev#EPODONIOS
 trojan://5041df4c-b3ae-481d-adf9-79b39f4810f2@104.26.14.85:2083/?type=tcp&security=tls&sni=taqboostan.zagros.top&allowInsecure=1#
 trojan://5041df4c-b3ae-481d-adf9-79b39f4810f2@172.67.148.211:2083/?type=tcp&security=tls&sni=taqboostan.zagros.top#
 trojan://509ed9b7-8d64-4204-8ec8-6b749020ac3f@104.21.3.189:443/?type=tcp&security=tls&sni=CcCVfGTyU.89060004.Xyz#
@@ -1211,7 +1212,6 @@ trojan://58dcd460-65df-47b1-b062-517df30bef29@usa.liangyuandian.top:443?security
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443/?type=tcp&security=tls&sni=moltbot.doctoroyy.net&allowInsecure=1#
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443/?type=tcp&security=tls&sni=moltbot.doctoroyy.net&allowInsecure=1#EPODONIOS
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?allowInsecure=1&sni=moltbot.doctoroyy.net#
-trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?allowInsecure=1&sni=moltbot.doctoroyy.net#EPODONIOS
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?allowInsecure=1&sni=moltbot.doctoroyy.net#🇲🇾[openproxylist.com]
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&sni=moltbot.doctoroyy.net#%F0%9F%87%B2%F0%9F%87%BEMY-47.250.84.25-0425
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?sni=moltbot.doctoroyy.net#
@@ -1239,7 +1239,6 @@ trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@fr.techdatacloud.org:8443?type=tcp
 trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@gb.techdatacloud.org:2053?type=tcp&security=reality&pbk=uiFSTSOSNKBLju8qnTOyZdM1WyTwOFVr3-RXUYk9nEM&fp=firefox&sni=cloud.mail.ru&sid=23572794d5ffc9fd&spx=%2F#
 trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@pl.techdatacloud.org:2053?type=tcp&security=reality&pbk=uiFSTSOSNKBLju8qnTOyZdM1WyTwOFVr3-RXUYk9nEM&fp=firefox&sni=cloud.mail.ru&sid=23572794d5ffc9fd&spx=%2F#
 trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@ru.techdatacloud.org:8443?type=tcp&security=reality&pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&fp=chrome&sni=cloud.mail.ru&sid=8c3785d47c2017ec&spx=/#
-trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@ru.techdatacloud.org:8443?type=tcp&security=reality&pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&fp=chrome&sni=cloud.mail.ru&sid=8c3785d47c2017ec&spx=/#EPODONIOS
 trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@ru.techdatacloud.org:8443?type=tcp&security=reality&pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&fp=chrome&sni=cloud.mail.ru&sid=8c3785d47c2017ec&spx=/#🇷🇺[openproxylist.com]
 trojan://5e2ce79c-170e-484a-8802-40584a1a3a12@naiu-us.05vr9nyqg5.download:13020?allowInsecure=0&sni=cloudflare.node-ssl.cdn-alibaba.com#
 trojan://5e2ce79c-170e-484a-8802-40584a1a3a12@naiu-us.05vr9nyqg5.download:13020?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com&type=tcp&headerType=none#
@@ -1351,6 +1350,8 @@ trojan://6593b778-e45e-4f94-b5ae-641d4b7b02ae@76.223.54.146:443/?type=tcp&securi
 trojan://65c56e1f-5c41-40bc-b0b5-9346772476ca@cf.130209.xyz:2053?security=tls#
 trojan://65c56e1f-5c41-40bc-b0b5-9346772476ca@cf.130209.xyz:2053?security=tls#%F0%9F%8F%81RELAY-172.64.53.89-2513
 trojan://65f14831-5c67-483f-9e85-f3aa73f21187@naiu-us.05vr9nyqg5.download:13019?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com&type=tcp&headerType=none#
+trojan://662c065f-0495-4598-9a95-2e2fcb38b7b1@57.180.10.65:42423/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#
+trojan://662c065f-0495-4598-9a95-2e2fcb38b7b1@57.180.10.65:42423/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#EPODONIOS
 trojan://662e38ba-8427-4955-94aa-76f5347a0ce8@104.21.66.157:443?security=tls&sni=cccCcCCCV.666470.XYz&alpn=http%2F1.1&fp=chrome&type=ws&host=ccccccccv.666470.xyz&path=%2FhCbtKwyNTRDjtF5UvWyyVQu#
 trojan://662e38ba-8427-4955-94aa-76f5347a0ce8@172.67.161.129:443?security=tls&sni=EeEeeEEeEdF.666470.XyZ&alpn=http%2F1.1&fp=chrome&type=ws&host=eeeeeeeeedf.666470.xyz&path=%2FhCbtKwyNTRDjtF5UvWyyVQu#
 trojan://665c944d-047d-4659-80d5-3eaac70241a9@139.162.158.172:443/?type=tcp&security=tls&sni=de2-full.privateip.net#
@@ -1986,7 +1987,6 @@ trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@104.18.1.196:443?type=ws&path=%2Fs
 trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@104.20.39.109:443?allowInsecure=1&host=space.byu.id.yxls.eu.cc&path=%2Fsg-orcl&type=ws#
 trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@104.20.39.109:443?allowInsecure=1&host=space.byu.id.yxls.eu.cc&path=/sg-orcl&type=ws#
 trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@104.20.39.109:443?security=tls&sni=space.byu.id.yxls.eu.cc&type=ws&host=space.byu.id.yxls.eu.cc&path=/sg-orcl#
-trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@172.66.171.48:443?allowInsecure=1&host=space.byu.id.yxls.eu.cc&path=/sg-orcl&type=ws#
 trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@172.66.171.48:443?security=tls&sni=space.byu.id.yxls.eu.cc&type=ws&host=space.byu.id.yxls.eu.cc&path=/sg-orcl#
 trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@188.114.97.6:443?security=tls&type=ws&host=space.byu.id.yxls.eu.cc&path=%2Fsg-orcl&sni=space.byu.id.yxls.eu.cc&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%225%22%2C%20%2294%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22109%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D#
 trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@space.byu.id.yxls.eu.cc:443?allowInsecure=1&host=space.byu.id.yxls.eu.cc&path=%2Fsg-orcl&type=ws#
@@ -2181,9 +2181,7 @@ trojan://92902210-2eb5-11ee-b234-205c6d5f5d78@95.179.255.171:2087?security=tls&s
 trojan://936c6853-6bbf-4e24-8667-ec5b2fc275b3@104.26.15.85:443/?type=ws&host=md1.safecdn.site&path=%2FChannel_vpnAndroid2-Channel_vpnAndroid2-Channel_vpnAndroid2-Channel_vpnAndroid2&security=tls&sni=md1.safecdn.site#
 trojan://938a1fb2b751d876bb4c8d3ba706054f@179.237.75.177:58491?path=%2F--------BanV2ray-----BanV2ray-----------BanV2ray-----BanV2ray-----------BanV2ray-----BanV2ray-----------BanV2ray-----BanV2ray-----------BanV2ray-----BanV2ray-----------BanV2ray-----BanV2ray-----------BanV2ray-----BanV2ray-----------BanV2ray-----BanV2ray-----------BanV2ray-----BanV2ray-----------BanV2ray&security=none&host=play.google.com&type=ws#
 trojan://93a9d63a-03b8-4167-92bd-3fa932af1c91@104.19.174.68:443/?type=ws&host=px8r9i1b4k.bpusfaster2.top&path=/images&security=tls&sni=px8r9i1b4k.bpusfaster2.top&allowInsecure=1#
-trojan://93a9d63a-03b8-4167-92bd-3fa932af1c91@104.19.174.68:443/?type=ws&host=px8r9i1b4k.bpusfaster2.top&path=/images&security=tls&sni=px8r9i1b4k.bpusfaster2.top&allowInsecure=1#EPODONIOS
 trojan://93a9d63a-03b8-4167-92bd-3fa932af1c91@visa.com.sg:443/?type=ws&host=px8r9i1b4k.bpusfaster2.top&path=/images&security=tls&sni=px8r9i1b4k.bpusfaster2.top&fp=chrome#
-trojan://93a9d63a-03b8-4167-92bd-3fa932af1c91@visa.com.sg:443/?type=ws&host=px8r9i1b4k.bpusfaster2.top&path=/images&security=tls&sni=px8r9i1b4k.bpusfaster2.top&fp=chrome#EPODONIOS
 trojan://9486ff17-2481-40c7-a5c4-d0d307de2509@104.21.58.135:443/?type=tcp&security=tls&sni=yyyyyyyyyyy.818185.xyz#
 trojan://9498f3a0-2992-11ee-a4c7-1239d0255272@fr.test3.net:443/?type=tcp&security=tls&sni=zula.ir#
 trojan://9498f3a0-2992-11ee-a4c7-1239d0255272@fr.test3.net:443?security=tls&sni=zula.ir#
@@ -3555,7 +3553,6 @@ trojan://FH72359861@35.92.245.6:443?sni=neutral-quail.rooster465.autos&fp=chrome
 trojan://FH72359861@35.92.245.6:443?sni=neutral-quail.rooster465.autos&type=tcp&path=/#
 trojan://FH72359861@44.251.158.80:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=obliging-louse.rooster465.autos#
 trojan://FH72359861@44.251.158.80:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=obliging-louse.rooster465.autos#EPODONIOS
-trojan://FH72359861@44.251.158.80:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=obliging-louse.rooster465.autos#🇺🇸[openproxylist.com]
 trojan://FH72359861@44.251.158.80:443?security=tls&sni=obliging-louse.rooster465.autos&type=tcp&headerType=none&path=/#
 trojan://FH72359861@44.251.158.80:443?sni=obliging-louse.rooster465.autos&type=tcp&path=%2f#
 trojan://FH72359861@44.251.158.80:443?sni=obliging-louse.rooster465.autos&type=tcp&path=/#
@@ -3827,6 +3824,7 @@ trojan://MITIVPN@151.101.64.172:80?type=ws&security=none&path=%2F---%40MiTiVPN--
 trojan://MITIVPN@172.67.138.53:443/?type=ws&host=Usa.App-Cloud.ir&path=%2FMiTiVPN%3DUsa&security=tls&sni=Usa.App-Cloud.ir&alpn=http%2F1.1&fp=chrome#
 trojan://MITIVPN@172.67.138.53:443/?type=ws&host=Usa.App-Cloud.ir&path=%2FMiTiVPN%3DUsa&security=tls&sni=Usa.App-Cloud.ir&alpn=http%2F1.1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping%3A42.84ms
 trojan://MITIVPN@172.67.71.247:443?path=%2FMiTiVPN%3DDE&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=Ger.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Ger.App-Cloud.ir#
+trojan://MITIVPN@188.114.97.6:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-d%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=83463833-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome&type=ws&allowInsecure=0&sni=95895-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#
 trojan://MITIVPN@188.114.97.6:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e2%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&host=8387463833-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome&type=ws&sni=39995895-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#
 trojan://MITIVPN@188.114.97.6:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-d@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=83463833-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome&type=ws&sni=95895-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#
 trojan://MITIVPN@188.114.97.6:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-d@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=83463833-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome&type=ws&sni=95895-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#EPODONIOS
@@ -3866,7 +3864,6 @@ trojan://MiTiVPN@104.18.32.47:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@Mi
 trojan://MiTiVPN@104.19.230.21:443/?type=ws&host=Nl.App-Cloud.ir&path=%2FMiTiVPN%3DNL&security=tls&sni=Nl.App-Cloud.ir&alpn=http%2F1.1&fp=firefox#
 trojan://MiTiVPN@104.19.230.21:443/?type=ws&host=Nl.App-Cloud.ir&path=%2FMiTiVPN%3DNL&security=tls&sni=Nl.App-Cloud.ir&alpn=http%2F1.1&fp=firefox#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping%3A43.2ms
 trojan://MiTiVPN@104.21.5.75:443?path=%2FMiTiVPN%3DSw&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=sw-W.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=sw-W.App-Cloud.ir#
-trojan://MiTiVPN@140.248.185.253:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-w%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&insecure=0&host=4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#
 trojan://MiTiVPN@140.248.185.253:443?allowInsecure=1&host=4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&sni=ssl.fastly.com&type=ws#
 trojan://MiTiVPN@140.248.185.253:443?allowInsecure=1&host=4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&sni=ssl.fastly.com&type=ws#EPODONIOS
 trojan://MiTiVPN@140.248.185.253:443?alpn=http/1.1&host=4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&sni=ssl.fastly.com&type=ws#
@@ -3893,6 +3890,7 @@ trojan://MiTiVPN@140.248.185.253:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---
 trojan://MiTiVPN@140.248.185.253:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&insecure=0&host=4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 trojan://MiTiVPN@140.248.185.253:443?security=tls&sni=ssl.fastly.com&alpn=http/1.1&type=ws&host=4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN#
 trojan://MiTiVPN@140.248.185.253:443?security=tls&type=ws&sni=ssl.fastly.com&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&host=4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net#
+trojan://MiTiVPN@140.248.185.253:443?type=ws&host=4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-w%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&fp=chrome&sni=ssl.fastly.com#
 trojan://MiTiVPN@146.75.0.242:80?type=ws&security=none&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FHK---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=s2-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net#
 trojan://MiTiVPN@146.75.0.242:80?type=ws&security=none&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FHK---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=s2-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net#US🇺🇸
 trojan://MiTiVPN@151.101.0.194:80?type=ws&security=none&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FJP---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=s4-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net#US🇺🇸
@@ -3914,6 +3912,8 @@ trojan://MiTiVPN@151.101.66.172:80?type=ws&security=none&path=%2F---%40MiTiVPN--
 trojan://MiTiVPN@151.101.74.172:80?type=ws&security=none&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fsw---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=s2-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net#US🇺🇸
 trojan://MiTiVPN@156.243.83.240:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/fl@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=1&host=83ksjs373-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome&type=ws&allowInsecure=1&sni=8373hggj638-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#
 trojan://MiTiVPN@156.243.83.240:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/fl@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=1&host=83ksjs373-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome&type=ws&allowInsecure=1&sni=8373hggj638-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#EPODONIOS
+trojan://MiTiVPN@156.243.83.240:443?path=/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/fl@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1&security=tls&alpn=http/1.1&insecure=1&host=83ksjs373-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome&type=ws&allowInsecure=1&sni=8373hggj638-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#
+trojan://MiTiVPN@156.243.83.240:443?path=/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/fl@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1&security=tls&alpn=http/1.1&insecure=1&host=83ksjs373-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome&type=ws&allowInsecure=1&sni=8373hggj638-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#EPODONIOS
 trojan://MiTiVPN@156.243.83.240:443?security=tls&sni=8373638-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&type=ws&host=8373638-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/f-l@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN#
 trojan://MiTiVPN@167.82.101.251:443?Telegram=%40GozargahAzad%40GozargahAzad%40GozargahAzad%40GozargahAzad%40GozargahAzad%40GozargahAzad%40GozargahAzad&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fg-b%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&host=s3k-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=vercel.com#US🇺🇸
 trojan://MiTiVPN@167.82.101.251:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=s3k-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fg-b%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=vercel.com&type=ws#US🇺🇸
@@ -3934,10 +3934,11 @@ trojan://MiTiVPN@188.114.97.6:443?security=tls#
 trojan://MiTiVPN@188.114.97.6:443?security=tls#%F0%9F%8F%81RELAY-188.114.97.6-2479
 trojan://MiTiVPN@188.114.97.6:443?security=tls&sni=3865895-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&alpn=http/1.1&type=ws&host=8383833-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN#
 trojan://MiTiVPN@188.42.145.180:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/sg@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=1&host=383uckk838-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome&type=ws&allowInsecure=1&sni=8292hjicc9473-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#
-trojan://MiTiVPN@188.42.145.180:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/sg@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=1&host=383uckk838-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome&type=ws&allowInsecure=1&sni=8292hjicc9473-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#EPODONIOS
 trojan://MiTiVPN@188.42.145.180:443?allowInsecure=0&sni=82929473-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&ws=1&wspath=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-g%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN#
 trojan://MiTiVPN@188.42.145.180:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/sg@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=1&host=383uckk838-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome&type=ws&allowInsecure=1&sni=8292hjicc9473-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#
 trojan://MiTiVPN@188.42.145.180:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/sg@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=1&host=383uckk838-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome&type=ws&allowInsecure=1&sni=8292hjicc9473-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#EPODONIOS
+trojan://MiTiVPN@188.42.145.180:443?path=/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/sg@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1&security=tls&alpn=http/1.1&insecure=1&host=383uckk838-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome&type=ws&allowInsecure=1&sni=8292hjicc9473-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#
+trojan://MiTiVPN@188.42.145.180:443?path=/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/sg@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1&security=tls&alpn=http/1.1&insecure=1&host=383uckk838-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome&type=ws&allowInsecure=1&sni=8292hjicc9473-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#EPODONIOS
 trojan://MiTiVPN@188.42.145.180:443?security=tls&sni=82929473-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&type=ws&host=383838-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-g@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN#
 trojan://MiTiVPN@188.42.145.180:443?security=tls&sni=82929473-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&type=ws&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-g%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&Host=82929473-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#
 trojan://MiTiVPN@188.42.145.180:443?security=tls&sni=82929473-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&type=ws&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-g%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&Host=82929473-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#%F0%9F%8F%81RELAY-188.42.145.180-1467
@@ -3948,8 +3949,11 @@ trojan://MiTiVPN@199.232.78.150:443/?type=ws&host=s4z-mitivpn--mitivpn------miti
 trojan://MiTiVPN@199.232.78.160:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&host=s2k-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=nextjs.org#
 trojan://MiTiVPN@213.182.199.137:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NL---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=1&host=28283839-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome&type=ws&allowInsecure=1&sni=399338866-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#
 trojan://MiTiVPN@213.182.199.137:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NL---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=1&host=28283839-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome&type=ws&allowInsecure=1&sni=399338866-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#EPODONIOS
+trojan://MiTiVPN@213.182.199.137:443?path=/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/NL---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1&security=tls&alpn=http/1.1&insecure=1&host=28283839-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome&type=ws&allowInsecure=1&sni=399338866-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#
+trojan://MiTiVPN@213.182.199.137:443?path=/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/NL---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1&security=tls&alpn=http/1.1&insecure=1&host=28283839-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome&type=ws&allowInsecure=1&sni=399338866-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#EPODONIOS
 trojan://MiTiVPN@213.182.199.137:443?security=tls&sni=66-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&type=ws&host=2-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN#
 trojan://MiTiVPN@213.182.199.137:443?security=tls&sni=66-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&type=ws&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&Host=66-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#
+trojan://MiTiVPN@213.182.199.137:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNL---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=28283839-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&sni=399338866-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#
 trojan://MiTiVPN@2a04:4e42:600::313:80?type=ws&security=none&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fde---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=s1-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net#US🇺🇸
 trojan://MiTiVPN@45.131.4.115:443?path=%2FMiTiVPN%3DN-L&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=Nl-L.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Nl-L.App-Cloud.ir#
 trojan://MiTiVPN@88.216.67.230:443/?type=ws&host=Nel.App-Cloud.ir&path=%2FMiTiVPN%3DNL&security=tls&sni=Nel.App-Cloud.ir&alpn=http%2F1.1&fp=firefox#
@@ -4823,7 +4827,6 @@ trojan://Telegram_healer_config@172.67.132.19:443?path=%2Ftr%2FbDodLFtTQwCZ6EX3f
 trojan://Telegram_healer_config@172.67.132.19:443?path=%2Ftr%2FbDodLFtTQwCZ6EX3ffMYJ06j9EjLse4d%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=vre6r9qrbqi0t25tg.srtb0m3hdbwr2cjz8fjur.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=VRE6R9qRbQI0t25TG.SRTB0M3hdbwr2cJZ8fjUr.WoRKeRS.dev#EPODONIOS
 trojan://Telegram_healer_config@172.67.132.19:443?path=/tr/bDodLFtTQwCZ6EX3ffMYJ06j9EjLse4d?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=vre6r9qrbqi0t25tg.srtb0m3hdbwr2cjz8fjur.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=VRE6R9qRbQI0t25TG.SRTB0M3hdbwr2cJZ8fjUr.WoRKeRS.dev#
 trojan://Telegram_healer_config@172.67.182.52:443?path=%2Ftr%2FGaQvfFwT5sWgVxHig8YaXjtiuQPZNI%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=6m1rGyIEclMRx9HeF1.Z6-0hlNUbJIBwZPa85.wOrKerS.DEV#
-trojan://Telegram_healer_config@172.67.182.52:443?path=/tr/GaQvfFwT5sWgVxHig8YaXjtiuQPZNI?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=6m1rGyIEclMRx9HeF1.Z6-0hlNUbJIBwZPa85.wOrKerS.DEV#
 trojan://Telegram_healer_config@172.67.218.38:443?path=%2Ftr%2FdxyX388XOtyAjF3A%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=1v95V6tjywCyTBAhl7f7lX8B27G.l4495eycQmSE9he0YVoemJfc4IBYf-4.wORkerS.dEV#
 trojan://Telegram_healer_config@172.67.218.38:443?path=%2Ftr%2FdxyX388XOtyAjF3A%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=1v95V6tjywCyTBAhl7f7lX8B27G.l4495eycQmSE9he0YVoemJfc4IBYf-4.wORkerS.dEV#EPODONIOS
 trojan://Telegram_healer_config@172.67.218.38:443?path=/tr/dxyX388XOtyAjF3A?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=1v95V6tjywCyTBAhl7f7lX8B27G.l4495eycQmSE9he0YVoemJfc4IBYf-4.wORkerS.dEV#
@@ -5184,6 +5187,8 @@ trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?security=tls&sni=
 trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?type=ws&sni=syndication-statutes-wanted-logo.trycloudflare.com&allowInsecure=1&path=/argox-tr#
 trojan://b17fe152-2615-4fe1-b80e-3c61b557481d@v02.gutingting.com:30051/?type=tcp&security=tls&sni=v2vn01.fuqiangren.com#
 trojan://b17fe152-2615-4fe1-b80e-3c61b557481d@v02.gutingting.com:30051?security=tls&sni=v2vn01.fuqiangren.com#
+trojan://b1bbf963-f4bc-482d-81b8-597e51c1b7b9@64.23.155.51:48180/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#
+trojan://b1bbf963-f4bc-482d-81b8-597e51c1b7b9@64.23.155.51:48180/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#EPODONIOS
 trojan://b21af1e78d194c2093aabbee770c8529@118.142.17.238:443?security=tls&sni=www.gpt123.one&allowInsecure=1&type=tcp#
 trojan://b26e31e5-eac1-45b0-9069-83830bd69521@20.187.85.198:443/?type=tcp&security=tls&sni=hkt.iamnotagoodman.com#
 trojan://b26e31e5-eac1-45b0-9069-83830bd69521@20.187.85.198:443?security=tls&sni=hkt.iamnotagoodman.com#
@@ -5260,12 +5265,10 @@ trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&inse
 trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#EPODONIOS
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450/?type=tcp&security=tls&sni=hk.catxstar.com#
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20085?allowInsecure=1&sni=hk.catxstar.com#
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20085?allowInsecure=1&sni=hk.catxstar.com#EPODONIOS
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1&security=tls&sni=de.catxstar.com#
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls#
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-2480
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20066?allowInsecure=1&sni=hk.catxstar.com#
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20066?allowInsecure=1&sni=hk.catxstar.com#EPODONIOS
 trojan://ba4e0314-c815-4711-81ac-4d37f0fb59fc@172.67.204.84:443/?type=ws&host=se1.safecdn.site&path=%2FTelegram%40V2ray_Alpha&security=tls&sni=se1.safecdn.site#
 trojan://ba4fedf8c217c146@120.236.197.205:3389?security=tls&sni=n2.gladns.com#
 trojan://ba4fedf8c217c146@120.236.197.205:3389?security=tls&sni=n2.gladns.com#%F0%9F%87%A8%F0%9F%87%B3CN-120.236.197.205-1674
@@ -6535,6 +6538,7 @@ trojan://humanity@104.16.71.213:443?path=%2Fassignment&security=tls&insecure=0&h
 trojan://humanity@104.16.71.213:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@104.16.71.213:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#RELAY🚩
 trojan://humanity@104.16.71.213:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#
+trojan://humanity@104.16.71.213:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@104.16.72.2:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com%20#
 trojan://humanity@104.16.72.41:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com%20#
 trojan://humanity@104.16.72.41:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#
@@ -6911,7 +6915,6 @@ trojan://humanity@162.159.38.119:443?path=%2Fassignment&security=tls&insecure=0&
 trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#
 trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#EPODONIOS
 trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#
-trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#EPODONIOS
 trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#
 trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#EPODONIOS
 trojan://humanity@162.159.38.119:443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&insecure=0&allowInsecure=0#RELAY🚩
@@ -7355,6 +7358,8 @@ trojan://kGrwqmB1nEKUsDwE@185.253.46.121:443?security=tls&allowInsecure=1&type=t
 trojan://kSZddpnUKy@150.136.57.125:41106?security=tls#
 trojan://kSZddpnUKy@150.136.57.125:41106?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-150.136.57.125-5465
 trojan://kSzEKwHEGEaNGwauwq6oWw@tun.shadowcx.top:7223?security=none&type=tcp&headerType=&path=&host=#
+trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls#
+trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls#EPODONIOS
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&sni=64.94.95.118#
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&sni=64.94.95.118#%F0%9F%87%BA%F0%9F%87%B8US-64.94.95.118-5399
 trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443/?type=tcp&security=tls&sni=38.54.64.247&allowInsecure=1&fp=chrome#
@@ -7369,6 +7374,8 @@ trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443?sec
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443?security=tls&sni=tr-latvia1.unlimited-access.ru#EPODONIOS
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443?security=tls&sni=tr-latvia1.unlimited-access.ru#🇱🇻[openproxylist.com]
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443?type=raw&headerType=none&security=tls&sni=tr-latvia1.unlimited-access.ru#
+trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?fp=chrome#
+trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?fp=chrome#EPODONIOS
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?security=tls&sni=tr-switzerlandgopota.unlimited-access.ru#
 trojan://l6R5znJSPJ@179.237.75.190:16350?type=tcp&security=reality&headerType=http&path=/5747463414152474635353366347474334&host=rd.autos.yahoo.com:41636&sni=rd.autos.yahoo.com:40069&fp=chrome&insecure=1&allowInsecure=1&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#
 trojan://l6R5znJSPJ@179.237.75.190:16350?type=tcp&security=reality&headerType=http&path=/5747463414152474635353366347474334&host=rd.autos.yahoo.com:41636&sni=rd.autos.yahoo.com:40069&fp=chrome&insecure=1&allowInsecure=1&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#EPODONIOS
@@ -7428,6 +7435,8 @@ trojan://mitivpn@27.50.48.49:443?path=/index.html/ed=mitivpn&security=tls&alpn=h
 trojan://mitivpn@27.50.48.49:443?path=/index.html/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#EPODONIOS
 trojan://mitivpn@45.205.0.6:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/u-ss@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=1&host=82929733-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome&type=ws&allowInsecure=1&sni=383837333-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#
 trojan://mitivpn@45.205.0.6:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/u-ss@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=1&host=82929733-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome&type=ws&allowInsecure=1&sni=383837333-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#EPODONIOS
+trojan://mitivpn@45.205.0.6:443?path=/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/u-ss@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1&security=tls&alpn=http/1.1&insecure=1&host=82929733-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome&type=ws&allowInsecure=1&sni=383837333-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#
+trojan://mitivpn@45.205.0.6:443?path=/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/u-ss@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1&security=tls&alpn=http/1.1&insecure=1&host=82929733-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome&type=ws&allowInsecure=1&sni=383837333-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#EPODONIOS
 trojan://mitivpn@eee.we.wwww.swsl.glowbal.diwgi.mwy.mitivpn.xyz:443/?type=ws&path=%2Fed%3Dmitivpn&security=tls&sni=www.ssl.global.digi.my.mitivpn.xyz&alpn=http%2F1.1&fp=chrome#
 trojan://mitivpn@eee.we.wwww.swsl.glowbal.diwgi.mwy.mitivpn.xyz:443/?type=ws&path=%2Fed%3Dmitivpn&security=tls&sni=www.ssl.global.digi.my.mitivpn.xyz&alpn=http%2F1.1&fp=chrome#%40nekopingbot_6099
 trojan://mnk8fd@104.21.51.9:443?security=tls&sni=aws-uae-1.f1cflined.com&alpn=http/1.1&fp=chrome&type=ws&path=/f1rocket&host=aws-uae-1.f1cflined.com#
@@ -7519,9 +7528,9 @@ trojan://oeaQHjIg021hag3UB1gHR60iA1iaNSs2@2-------------------------------------
 trojan://oeaQHjIg021hag3UB1gHR60iA1iaNSs2@2----------------------------------------------------3.poki-pakipon.ir:62717?mode=gun&security=reality&pbk=MYREt6qtLcC7LITuCCp-nViIclFnqrYbCLazYzCf4lk&fp=firefox&type=grpc&serviceName=BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----&sni=www.icloud.com&sid=a62969e76998c80b#
 trojan://oeaQHjIg021hag3UB1gHR60iA1iaNSs2@2----------------------------------------------------3.poki-pakipon.ir:62930?mode=gun&security=reality&pbk=q2f2EcYkXT0MpVQ4rD49eQr2MACoIOJmampNRLm2JhA&fp=firefox&type=grpc&serviceName=BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----&sni=www.icloud.com&sid=2b6f76389eadc382#
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?allowInsecure=1&sni=russiapower.accesscam.org#
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?allowInsecure=1&sni=russiapower.accesscam.org#🇪🇪[openproxylist.com]
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=russiapower.accesscam.org#
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=russiapower.accesscam.org#EPODONIOS
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=russiapower.accesscam.org#🇪🇪[openproxylist.com]
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#%F0%9F%87%AA%F0%9F%87%AAEE-109.206.241.10-0121
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#EPODONIOS
@@ -7722,7 +7731,6 @@ trojan://telegram-id-directvpn@51.44.56.77:22223/?type=tcp&security=tls&sni=troj
 trojan://telegram-id-directvpn@52.47.174.48:22222?security=tls&sni=trojan.burgerip.co.uk#
 trojan://telegram-id-directvpn@52.47.41.227:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1#
 trojan://telegram-id-directvpn@52.51.114.1:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#
-trojan://telegram-id-directvpn@52.6.67.227:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
 trojan://telegram-id-directvpn@54.76.45.13:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&headerType=none#
 trojan://telegram-id-directvpn@63.177.173.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
 trojan://telegram-id-directvpn@63.177.18.31:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#
