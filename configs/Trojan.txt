@@ -218,7 +218,6 @@ trojan://02491ccf-e969-4200-9ebd-5e0da4eff308@okanc.iepl.cac.cab:23012/?type=tcp
 trojan://0280b529-2747-4b7a-ab11-bad6453150b9@159.223.21.187:443/?type=tcp&security=tls&sni=fr2-full.privateip.net&allowInsecure=1#
 trojan://0280b529-2747-4b7a-ab11-bad6453150b9@fr2-full.privateip.net:443?security=tls#
 trojan://02926f9e-153a-42c8-8ecd-8fade7009ad1@144.22.250.122:443/?type=tcp&security=tls&sni=golinkwuxian.top#
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowInsecure=1&sni=www.microsoft.com#
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?security=tls&sni=www.microsoft.com#
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?security=tls&sni=www.microsoft.com#🇺🇸[openproxylist.com]
 trojan://02d79af1-e121-401a-a294-fc72a50eb8b8@fscus.fscloud123456789.com:443?allowInsecure=1#
@@ -1135,7 +1134,6 @@ trojan://521314@161.33.76.218:8443?host=tjplay.lxdxo.kdns.fr&path=%2F&security=t
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=%2F&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#RELAY🚩
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=%2FLeviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=%2FLeviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#RELAY🚩
-trojan://521314@millionaire.levikogjgfdd.ir:443?path=/&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=/Leviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=/Leviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#EPODONIOS
 trojan://521314@millionaire.levikogjgfdd.ir:443?type=ws&host=tjplay.lxdxo.kdns.fr&path=/Leviko_v2ray&security=tls&sni=tjplay.lxdxo.kdns.fr#
@@ -1977,6 +1975,7 @@ trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@104.16.63.25:443?type=ws&path=/sg-
 trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@104.16.79.73:443?type=ws&path=/sg-orcl&security=tls&sni=space.byu.id.yxls.eu.cc&fp=chrome#
 trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@104.16.79.73:443?type=ws&path=/sg-orcl&security=tls&sni=space.byu.id.yxls.eu.cc&fp=chrome#EPODONIOS
 trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@104.20.39.109:443?security=tls&sni=space.byu.id.yxls.eu.cc&fp=edge&type=ws&host=space.byu.id.yxls.eu.cc&path=/sg-orcl#
+trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@172.66.171.48:443?security=tls&sni=space.byu.id.yxls.eu.cc&fp=edge&type=ws&host=space.byu.id.yxls.eu.cc&path=/sg-orcl#
 trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@188.114.97.6:443?security=tls&type=ws&host=space.byu.id.yxls.eu.cc&path=%2Fsg-orcl&sni=space.byu.id.yxls.eu.cc&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%225%22%2C%20%2294%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22109%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D#
 trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@space.byu.id.yxls.eu.cc:443?allowInsecure=1&host=space.byu.id.yxls.eu.cc&path=%2Fsg-orcl&type=ws#RELAY🚩
 trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@space.byu.id.yxls.eu.cc:443?security=tls&sni=space.byu.id.yxls.eu.cc&fp=edge&type=ws&host=space.byu.id.yxls.eu.cc&path=%2fsg-orcl#
@@ -3296,7 +3295,6 @@ trojan://BxceQaOe@95.40.27.43:16691?security=tls&sni=t.me%252Fripaojiedian#%F0%9
 trojan://BxceQaOe@95.40.27.43:32434?security=tls&sni=t.me%252Fripaojiedian#
 trojan://BxceQaOe@95.40.27.43:32434?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-95.40.27.43-0936
 trojan://BxceQaOe@95.40.58.154:44265?allowInsecure=1&sni=t.me%2Fripaojiedian#
-trojan://BxceQaOe@95.40.61.23:11035?allowInsecure=1&sni=t.me/ripaojiedian#
 trojan://C0ldyfh-vpnjantit.com@46.29.142.57:4443?security=tls&sni=hu2.vpnjantit.com&fp=android&type=tcp&headerType=none&path=/&allow_insecure=0#
 trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hu2.vpnjantit.com&fp=android#
 trojan://C910E5F2-A662-7CFB-B5A6-5D39DB212CBA@muddy-frost-4e2d.vpnetwork3567.workers.dev:443?path=/?--Telegram--Viturey--Telegram--Viturey--&security=tls&host=muddy-frost-4e2d.vpnetwork3567.workers.dev&fp=chrome&type=ws&sni=muddy-frost-4e2d.vpnetwork3567.workers.dev#
@@ -4983,11 +4981,9 @@ trojan://bLYUuMKgn1aHGKID@usa8.wujie8.xyz:443?security=tls&sni=usa8.wujie8.xyz&a
 trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#
 trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#EPODONIOS
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450/?type=tcp&security=tls&sni=hk.catxstar.com#
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20085?allowInsecure=1&sni=hk.catxstar.com#
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1&security=tls&sni=de.catxstar.com#
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls#
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-157.254.38.210-1824
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20066?allowInsecure=1&sni=hk.catxstar.com#
 trojan://ba4e0314-c815-4711-81ac-4d37f0fb59fc@172.67.204.84:443/?type=ws&host=se1.safecdn.site&path=%2FTelegram%40V2ray_Alpha&security=tls&sni=se1.safecdn.site#
 trojan://ba4fedf8c217c146@120.236.197.205:3389?security=tls&sni=n2.gladns.com#
 trojan://ba4fedf8c217c146@120.236.197.205:3389?security=tls&sni=n2.gladns.com#%F0%9F%87%A8%F0%9F%87%B3CN-120.236.197.205-1022
@@ -6939,7 +6935,6 @@ trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443/?ty
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443?security=tls&sni=tr-latvia1.unlimited-access.ru#
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443?security=tls&sni=tr-latvia1.unlimited-access.ru#%F0%9F%87%B1%F0%9F%87%BBLV-85.159.228.28-0159
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443?security=tls&sni=tr-latvia1.unlimited-access.ru#EPODONIOS
-trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443?security=tls&sni=tr-latvia1.unlimited-access.ru#🇱🇻[openproxylist.com]
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?fp=chrome#
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?fp=chrome#@OutlineReleasedKey
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?fp=chrome#CH🇨🇭
