@@ -78,7 +78,8 @@ hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52062?security=tls&obfs
 hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52062?security=tls&obfs=salamander&alpn=h3&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#EPODONIOS
 hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52067?security=tls&obfs=salamander&alpn=h3&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#
 hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52067?security=tls&obfs=salamander&alpn=h3&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#EPODONIOS
-hysteria2://5bcodmhjtyfyyrqh@91.142.73.159:36758?security=tls&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze&insecure=1&sni=cdn77.dmtr.ru#
+hysteria2://5bcodmhjtyfyyrqh@91.142.73.159:36758/?insecure=1&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze&sni=cdn77.dmtr.ru#
+hysteria2://5bcodmhjtyfyyrqh@91.142.73.159:36758/?insecure=1&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze&sni=cdn77.dmtr.ru#EPODONIOS
 hysteria2://5bcodmhjtyfyyrqh@91.142.73.159:36758?security=tls&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze&insecure=1&sni=cdn77.dmtr.ru#EPODONIOS
 hysteria2://5bcodmhjtyfyyrqh@awlix1.pcjxq.digital:36758?obfs-password=dzcb7hv6i2kx2zze&security=tls&sni=cdn77.dmtr.ru&allowInsecure=true&alpn#
 hysteria2://5bcodmhjtyfyyrqh@awlix1.pcjxq.digital:36758?obfs-password=dzcb7hv6i2kx2zze&security=tls&sni=cdn77.dmtr.ru&allowInsecure=true&alpn#EPODONIOS
@@ -121,11 +122,10 @@ hysteria2://EkF2Yw0Lc7@72.56.16.243:443/?insecure=1&sni=hys34.wba-pn.ru#
 hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@85.159.228.22:443/?sni=hy2-latvia2.unlimited-access.ru#
 hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-latvia2.unlimited-access.ru:443/?sni=hy2-latvia2.unlimited-access.ru#
 hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-latvia2.unlimited-access.ru:443/?sni=hy2-latvia2.unlimited-access.ru#EPODONIOS
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.124.233.211:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.223.122.197:443/?insecure=1&sni=t.me#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.223.183.81:443/?insecure=1&sni=t.me#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443/?insecure=1&sni=vpn-tw-002.fastervpn.world#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443/?insecure=1&sni=202.146.222.29#
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.111.166:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.166.40:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.178:8080/?insecure=1&sni=hopp-romania-new.roxa.org#
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8080/?insecure=1&sni=hopp-romania-new.roxa.org#
@@ -182,6 +182,7 @@ hysteria2://bfmf6a05bp4fjwuh@giftcard.gateway-stream.com:52078?security=tls&obfs
 hysteria2://bfmf6a05bp4fjwuh@giftcard.gateway-stream.com:52078?security=tls&obfs=salamander&alpn=h3&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#EPODONIOS
 hysteria2://bfmf6a05bp4fjwuh@giftcard.gateway-stream.com:52085?security=tls&obfs=salamander&alpn=h3&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#
 hysteria2://bfmf6a05bp4fjwuh@giftcard.gateway-stream.com:52085?security=tls&obfs=salamander&alpn=h3&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#EPODONIOS
+hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=ru1.sferavpn.pro#
 hysteria2://cd74c0a406664a5bc0bac098220a2468@ee2.sferavpn.pro:443?obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=ee2.sferavpn.pro&obfs=salamander&seq=you_are_beautiful4036#
 hysteria2://cd74c0a406664a5bc0bac098220a2468@ee2.sferavpn.pro:443?obfs=salamander&sni=ee2.sferavpn.pro&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&nonce=iK4oQbQT#
 hysteria2://cd74c0a406664a5bc0bac098220a2468@ee2.sferavpn.pro:443?sni=ee2.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&descriptions=люби_себя34704a#
