@@ -60,6 +60,7 @@ hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@109.235.49.234:443?sni=tcp-rese
 hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443#@V2ray_Collector
 hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443/?sni=tcp-reset-club.net#@V2ray_Collector
 hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?insecure=1#@V2ray_Collector
+hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?insecure=1&security=tls&sni=nl-hy-test.tcp-reset-club.net#@OutlineReleasedKey
 hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?security=tls&sni=tcp-reset-club.net#@OutlineReleasedKey
 hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?sni=tcp-reset-club.net#@OutlineReleasedKey
 hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?sni=tcp-reset-club.net&insecure=0#@V2ray_Collector
@@ -88,6 +89,8 @@ hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@nl01ntrhy01.tcp-reset-club.net:
 hysteria2://8z2e26xkqsa598s3@gift-catalog.aroonia.ir:52000?security=tls&obfs=salamander&obfs-password=6cmj1dymhm79hopl&insecure=0&sni=gift-catalog.aroonia.ir#EPODONIOS
 hysteria2://96ab5cd282733fd4c312a61f972f330a@45.32.10.7:443?sni=vp3.yysyy.online#@V2ray_Collector
 hysteria2://96ab5cd282733fd4c312a61f972f330a@45.32.10.7:443?sni=vp3.yysyy.online&insecure=1#@OutlineReleasedKey
+hysteria2://96ab5cd282733fd4c312a61f972f330a@vp3.yysyy.online:443?security=tls&sni=vp3.yysyy.online#@OutlineReleasedKey
+hysteria2://96ab5cd282733fd4c312a61f972f330a@vp3.yysyy.online:443?sni=vp3.yysyy.online#@V2ray_Collector
 hysteria2://96ab5cd282733fd4c312a61f972f330a@vp3.yysyy.online:443?sni=vp3.yysyy.online&insecure=1#@V2ray_Collector
 hysteria2://990c8eb6-4c4e-4277-8602-79af8402cdd0@104.165.205.42:8443/?sni=speedtestmark.com#@V2ray_Collector
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.127.130:8443?sni=hop-germany-september.dynuddns.com#@V2ray_Collector
@@ -132,7 +135,6 @@ hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&obfs=salama
 hysteria2://Telegram-Vpnjey@179.61.138.145:54759?security=tls&insecure=1&pinSHA256=2dc4ced5b2f11471396071e90a76ae60273b2808ece4f07ef46a7a306350ee24&obfs=salamander&obfs-password=Telegram@vpnjey&fastopen=0#EPODONIOS
 hysteria2://Telegram-vpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#EPODONIOS
 hysteria2://Telegram-vpnjey@31.76.27.23:37009?sni=de.vpnjey.store&alpn=h3&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=1#EPODONIOS
-hysteria2://Telegram-vpnjey@77.110.96.201:36264/?insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey&sni=se.vpnjey2.dpdns.org#EPODONIOS
 hysteria2://Telegram-vpnjey@77.110.96.201:36264?sni=se.vpnjey2.dpdns.org&alpn=h3&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=1#EPODONIOS
 hysteria2://Telegram:vpnjey@179.61.138.145:36264?security=tls&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=0&sni=de2.jey.cc.cd#EPODONIOS
 hysteria2://Telegram:vpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#EPODONIOS
@@ -173,6 +175,7 @@ hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333/?sni=hy2.1
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?insecure=0&sni=hy2.123266.xyz#@V2ray_Collector
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?insecure=1#@OutlineReleasedKey
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?security=tls&sni=hy2.123266.xyz#@V2ray_Collector
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?sni=hy2.123266.xyz&insecure=0&allowInsecure=0#@OutlineReleasedKey
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?sni=hy2.123266.xyz&insecure=1#@V2ray_Collector
 hysteria2://c-E0lamG8OnEj9M_uh3oJPmIXqYIVGctO-NHELF1TmNYs7Jl@cz.h2.cleanersaz.help:443/?insecure=1&sni=cz.h2.cleanersaz.help#@OutlineReleasedKey
 hysteria2://c-E0lamG8OnEj9M_uh3oJPmIXqYIVGctO-NHELF1TmNYs7Jl@cz.h2.cleanersaz.help:443?insecure=1&sni=cz.h2.cleanersaz.help#@V2ray_Collector
