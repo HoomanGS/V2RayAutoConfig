@@ -13,7 +13,6 @@ ss://269a5853-db3c-4d71-934c-f64d1b37bd2c@cloud.sapienza-ren.ir:2083/?type=ws&en
 ss://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.16.33.150:2096/?type=ws&encryption=none&flow=&host=vless.hubp.de&security=tls&sni=vless.hubp.de&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=chrome#t.me%2Fv2Line
 ss://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443/?type=ws&encryption=none&flow=&host=vless.hubp.de&path=%2F&security=tls&sni=vless.hubp.de&alpn=h3&allowInsecure=1&fp=chrome#t.me%2Fv2Line
 ss://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.19.113.54:80/?type=ws&encryption=none&flow=&host=vless.hubp.de&path=t.me%2Fv2Line#t.me%2Fv2Line
-ss://2c634977-584e-4e1f-b501-1b70c77a6743@81.94.148.232:2053?mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=windytrout.net&type=xhttp&allowInsecure=0&sni=windytrout.net#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20t.me%2FConfigV2RayNG
 ss://3321a819-889d-40b3-b8fa-f34208827ef1@57.129.137.56:443/?type=ws&encryption=none&flow=&host=o00o.snip.qzz.io&path=%2Fproxyip&security=tls&sni=o00o.snip.qzz.io&fp=chrome#https%3A%2F%2Ft.me%2Fallproconf
 ss://354c94a0-465d-4a29-a54d-b2f9c6470618@57.128.251.195:443/?type=tcp&encryption=none&flow=&sni=www.digikala.com&fp=chrome&security=reality&pbk=gQ2tcAzqhEURxYqPNxQC6IexJIOycyhqv4uR0My_0wg&sid=93#https%3A%2F%2Ft.me%2Fallproconf
 ss://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.11.87:443/?type=tcp&encryption=none&flow=&sni=api.company-target.com&fp=chrome&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=#https%3A%2F%2Ft.me%2Fallproconf
@@ -310,7 +309,6 @@ trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&sni=
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@us3.dedushka.top:443?security=tls&sni=us3.dedushka.top&alpn=http/1.1&fp=firefox#https://t.me/ShadowsocksM2
 trojan://5fb072e0ddd631cf66cf752b09210480@13.231.234.230:544/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1&fp=chrome#https%3A%2F%2Ft.me%2Fallproconf
 trojan://9289873b-bdb1-43e7-86c2-5622ad5ce862@cdnfire.xiaomispeed.com:25502/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#https%3A%2F%2Ft.me%2Fallproconf
-trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_414%20t.me%2FConfigV2RayNG
 trojan://telegram-id-privatevpns@18.199.2.96:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#%28S101%29%F0%9F%87%A9%F0%9F%87%AAt.me%2FPrivateVPNs
 trojan://telegram-id-privatevpns@35.157.55.39:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#%28S101%29%F0%9F%87%A9%F0%9F%87%AAt.me%2FPrivateVPNs
 trojan://telegram-id-privatevpns@35.181.136.255:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#%28S104%29%F0%9F%87%A8%F0%9F%87%B5t.me%2FPrivateVPNs
@@ -331,7 +329,6 @@ vless://269a5853-db3c-4d71-934c-f64d1b37bd2c@cloud.sapienza-ren.ir:2083/?type=ws
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.16.33.150:2096/?type=ws&encryption=none&flow=&host=vless.hubp.de&security=tls&sni=vless.hubp.de&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=chrome#t.me%2Fv2Line
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443/?type=ws&encryption=none&flow=&host=vless.hubp.de&path=%2F&security=tls&sni=vless.hubp.de&alpn=h3&allowInsecure=1&fp=chrome#t.me%2Fv2Line
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.19.113.54:80/?type=ws&encryption=none&flow=&host=vless.hubp.de&path=t.me%2Fv2Line#t.me%2Fv2Line
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@81.94.148.232:2053?mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=windytrout.net&type=xhttp&allowInsecure=0&sni=windytrout.net#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20t.me%2FConfigV2RayNG
 vless://3321a819-889d-40b3-b8fa-f34208827ef1@57.129.137.56:443/?type=ws&encryption=none&flow=&host=o00o.snip.qzz.io&path=%2Fproxyip&security=tls&sni=o00o.snip.qzz.io&fp=chrome#https%3A%2F%2Ft.me%2Fallproconf
 vless://354c94a0-465d-4a29-a54d-b2f9c6470618@57.128.251.195:443/?type=tcp&encryption=none&flow=&sni=www.digikala.com&fp=chrome&security=reality&pbk=gQ2tcAzqhEURxYqPNxQC6IexJIOycyhqv4uR0My_0wg&sid=93#https%3A%2F%2Ft.me%2Fallproconf
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.11.87:443/?type=tcp&encryption=none&flow=&sni=api.company-target.com&fp=chrome&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=#https%3A%2F%2Ft.me%2Fallproconf
