@@ -64,8 +64,10 @@ hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:4
 hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?sni=tcp-reset-club.net&insecure=0#@V2ray_Collector
 hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?sni=tcp-reset-club.net&insecure=1#@OutlineReleasedKey
 hysteria2://52e3dd44-ed23-4030-b0cc-5b5a953f2d4d@104.165.205.42:8443?security=tls&sni=speedtestmark.com#@OutlineReleasedKey
+hysteria2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@104.165.205.42:8443?sni=speedtestmark.com#@OutlineReleasedKey
 hysteria2://6656cc0a-5908-4d04-a436-64f5843c0c7a@sweedenqfds777.qcloud.surf:21223?sni=sweedenqfds777.qcloud.surf&security=tls#@V2ray_Collector
 hysteria2://6a3fe9d0-0d68-4f29-ae99-5771d4217a45@202.61.205.86:4433?sni=de1.xiaoliyu.cyou#@OutlineReleasedKey
+hysteria2://6da2c981-8c77-4340-bda3-93399b7aea26@163.245.41.48:443?sni=blogs.blog-forme.ru&insecure=1#@V2ray_Collector
 hysteria2://6da2c981-8c77-4340-bda3-93399b7aea26@store.blog-forme.ru:443/#@V2ray_Collector
 hysteria2://7d43670b-6b08-45b9-8a24-8f3971abc132@153.76.194.118:8443?sni=finland.biznes.lol#@V2ray_Collector
 hysteria2://7d43670b-6b08-45b9-8a24-8f3971abc132@153.76.194.118:8443?sni=finland.biznes.lol&alpn=h3#@V2ray_Collector
@@ -104,10 +106,12 @@ hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvi
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443/?insecure=1&sni=admin.wwwinternetvideo.click#@OutlineReleasedKey
 hysteria2://a0052f4f-4c63-0002-a16f-ab2d5d718cd3@192.142.23.46:443?insecure=1&sni=diffoscope.com#@V2ray_Collector
 hysteria2://a0052f4f-4c63-0002-a16f-ab2d5d718cd3@192.142.23.46:443?sni=diffoscope.com#@V2ray_Collector
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.142:4444?insecure=0&sni=bl1.nexfile.net#@OutlineReleasedKey
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.142:4444?sni=bl1.nexfile.net#@V2ray_Collector
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.142:4444?sni=bl1.nexfile.net&alpn=h3#@OutlineReleasedKey
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.106:4444?sni=pl2.nexfile.net&insecure=0#@V2ray_Collector
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.147:4444?sni=pl2.nexfile.net#@V2ray_Collector
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.71:4444?sni=pl3.nexfile.net#@V2ray_Collector
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@144.31.109.240:4444?sni=fl3.nexfile.net#@OutlineReleasedKey
 hysteria2://b3a11068-1a7e-4643-85de-7c82cce46943@uk-d9ca48498a.shamanapp.online:443?insecure=1#@V2ray_Collector
 hysteria2://b3a11068-1a7e-4643-85de-7c82cce46943@uk-d9ca48498a.shamanapp.online:443?sni=uk.shamanapp.online#@OutlineReleasedKey
@@ -151,6 +155,7 @@ hysteria2://d5530551-5e9a-4ac5-8539-cee87e38d9e2@2.26.3.75:443?sni=fi.67chat.ru&
 hysteria2://d62s7ghfehm742us@151.243.169.164:12824/?sni=derfderf.ru#@OutlineReleasedKey
 hysteria2://d62s7ghfehm742us@151.243.169.164:12824?headerType=none&encryption=none&sni=derfderf.ru#@OutlineReleasedKey
 hysteria2://d62s7ghfehm742us@derfderf.ru:12824?sni=derfderf.ru&insecure=1#@V2ray_Collector
+hysteria2://d62s7ghfehm742us@derfderf.ru:12824?sni=derfderf.ru&path=%2f#@V2ray_Collector
 hysteria2://dd50a499-7e43-4589-8490-f3b9c2451473@109.235.49.234:443?sni=tcp-reset-club.net#@OutlineReleasedKey
 hysteria2://dd50a499-7e43-4589-8490-f3b9c2451473@nl-hy-test.tcp-reset-club.net:443?sni=tcp-reset-club.net#@V2ray_Collector
 hysteria2://dd50a499-7e43-4589-8490-f3b9c2451473@nl-hy-test.tcp-reset-club.net:443?sni=tcp-reset-club.net&insecure=1#@OutlineReleasedKey
