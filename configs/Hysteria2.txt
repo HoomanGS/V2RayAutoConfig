@@ -63,6 +63,7 @@ hysteria2://52e3dd44-ed23-4030-b0cc-5b5a953f2d4d@104.165.205.42:8443?security=tl
 hysteria2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@104.165.205.42:8443?sni=speedtestmark.com#@OutlineReleasedKey
 hysteria2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@104.165.205.42:8443?sni=speedtestmark.com&insecure=0#@V2ray_Collector
 hysteria2://63e1b9462d708b56d5d5a0267cffecdc@88.216.195.188:443?sni=promo3.goonars.com#@OutlineReleasedKey
+hysteria2://63e1b9462d708b56d5d5a0267cffecdc@88.216.195.188:443?sni=promo3.goonars.com&insecure=0#@V2ray_Collector
 hysteria2://63e1b9462d708b56d5d5a0267cffecdc@promo3.goonars.com:443?security=tls&alpn=h3&insecure=0&sni=promo3.goonars.com#@V2ray_Collector
 hysteria2://6656cc0a-5908-4d04-a436-64f5843c0c7a@sweedenqfds777.qcloud.surf:21223?sni=sweedenqfds777.qcloud.surf&security=tls#@V2ray_Collector
 hysteria2://6a3fe9d0-0d68-4f29-ae99-5771d4217a45@202.61.205.86:4433?sni=de1.xiaoliyu.cyou#@OutlineReleasedKey
@@ -111,6 +112,7 @@ hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@144.31.109.240:4444?sni=fl3.nex
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.82.33:4444/?sni=fl3.nexfile.net#@OutlineReleasedKey
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.82.33:4444?sni=fl3.nexfile.net#@V2ray_Collector
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.27.210.6:4444?sni=lv2.nexfile.net&alpn=h3#@OutlineReleasedKey
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4444?sni=bl1.nexfile.net#@OutlineReleasedKey
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl3.nexfile.net:4444/?sni=pl3.nexfile.net#@V2ray_Collector
 hysteria2://b3a11068-1a7e-4643-85de-7c82cce46943@uk-d9ca48498a.shamanapp.online:443?insecure=1#@V2ray_Collector
 hysteria2://b3a11068-1a7e-4643-85de-7c82cce46943@uk-d9ca48498a.shamanapp.online:443?sni=uk.shamanapp.online#@OutlineReleasedKey
@@ -137,6 +139,7 @@ hysteria2://cf83b611-6cba-4535-adcb-8da06c6a9146@144.31.212.253:443?insecure=1&s
 hysteria2://cf83b611-6cba-4535-adcb-8da06c6a9146@144.31.212.253:443?security=tls&sni=vps155-edge.kermemehori.ru#@OutlineReleasedKey
 hysteria2://cf83b611-6cba-4535-adcb-8da06c6a9146@144.31.212.253:443?sni=vps155-edge.kermemehori.ru&insecure=0#@V2ray_Collector
 hysteria2://cf83b611-6cba-4535-adcb-8da06c6a9146@144.31.212.253:443?sni=vps155-edge.kermemehori.ru&insecure=1#@V2ray_Collector
+hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443?security=tls&sni=promo.betust.net#@V2ray_Collector
 hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443?sni=promo.betust.net#@OutlineReleasedKey
 hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443?sni=promo.betust.net&insecure=0#@OutlineReleasedKey
 hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443?sni=promo.betust.net&insecure=1#@V2ray_Collector
