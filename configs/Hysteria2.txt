@@ -74,7 +74,6 @@ hysteria2://7d43670b-6b08-45b9-8a24-8f3971abc132@153.76.194.118:8443?sni=finland
 hysteria2://7d43670b-6b08-45b9-8a24-8f3971abc132@153.76.194.118:8443?sni=finland.biznes.lol&alpn=h3#@V2ray_Collector
 hysteria2://7d43670b-6b08-45b9-8a24-8f3971abc132@finland.biznes.lol:8443?security=tls&alpn=h3&insecure=0&sni=finland.biznes.lol#@OutlineReleasedKey
 hysteria2://865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01@217.60.33.215:443?insecure=1&security=tls&sni=streambox.wwwinternetvideo.click#@OutlineReleasedKey
-hysteria2://865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01@streambox.wwwinternetvideo.click:443/?insecure=1&sni=streambox.wwwinternetvideo.click#@OutlineReleasedKey
 hysteria2://8bd04756-3beb-4348-82c9-d35453df50ce@spainspeedboostjbl88.qcloud.surf:27313?alpn=h3&sni=spainspeedboostjbl88.qcloud.surf#@OutlineReleasedKey
 hysteria2://96ab5cd282733fd4c312a61f972f330a@45.32.10.7:443?sni=vp3.yysyy.online#@V2ray_Collector
 hysteria2://96ab5cd282733fd4c312a61f972f330a@45.32.10.7:443?sni=vp3.yysyy.online&insecure=1#@OutlineReleasedKey
@@ -105,6 +104,7 @@ hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.142:4444?sni=pl3.nex
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.147:4444?sni=pl2.nexfile.net#@V2ray_Collector
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.149:4444?sni=pl2.nexfile.net#@OutlineReleasedKey
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.71:4444?sni=pl3.nexfile.net#@V2ray_Collector
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.80:4444?insecure=1&sni=pl3.nexfile.net#@V2ray_Collector
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@144.31.109.158:4444?sni=fl3.nexfile.net#@V2ray_Collector
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@144.31.109.240:4444?sni=fl3.nexfile.net#@OutlineReleasedKey
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.82.33:4444/?sni=fl3.nexfile.net#@OutlineReleasedKey
@@ -163,7 +163,6 @@ hysteria2://dd50a499-7e43-4589-8490-f3b9c2451473@nl-hy-test.tcp-reset-club.net:4
 hysteria2://dd56bf58-4c37-42e1-9e75-4b6c67939ffd@pl.song69.fun:20270?sni=pl1.song69.fun#@V2ray_Collector
 hysteria2://dongtaiwang.com@hy2.561891.xyz:44356?security=tls&insecure=0&sni=hy2.561891.xyz#@V2ray_Collector
 hysteria2://dsmO0439gj_nX942GJRE_9j39fbcxv52_R@85.209.157.177:8080/?sni=hopp-transit.1cooldns.com#@OutlineReleasedKey
-hysteria2://dsmO0439gj_nX942GJRE_9j39fbcxv52_R@85.209.157.177:8080?security=tls&sni=hopp-transit.1cooldns.com#@OutlineReleasedKey
 hysteria2://dsmO0439gj_nX942GJRE_9j39fbcxv52_R@85.209.157.177:8080?sni=hopp-transit.1cooldns.com&insecure=0#@OutlineReleasedKey
 hysteria2://ee78c844-83b6-4508-b1f9-b3f00c8e0556@167.148.201.99:443?sni=us.mi11o4ka.com#@V2ray_Collector
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@94.198.54.132:443/?insecure=1&sni=msk.frkn.org#@V2ray_Collector
@@ -177,4 +176,3 @@ hysteria2://we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH@82.38.64.229:8443?sni=hopp-s
 hysteria2://we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH@82.38.64.235:8443?insecure=1&security=tls&sni=hopp-swizland-new.mysynology.net#@V2ray_Collector
 hysteria2://we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH@82.38.64.235:8443?sni=hopp-swizland-new.mysynology.net&insecure=1#@OutlineReleasedKey
 hysteria2://we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH@82.38.64.237:8443?sni=hopp-swizland-new.mysynology.net&insecure=1#@V2ray_Collector
-hysteria2://we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH@82.38.64.239:8443?sni=hopp-swizland-new.mysynology.net#@V2ray_Collector
