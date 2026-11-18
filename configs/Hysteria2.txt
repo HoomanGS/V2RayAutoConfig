@@ -58,6 +58,7 @@ hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:4
 hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?security=tls&sni=tcp-reset-club.net#@OutlineReleasedKey
 hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?sni=nl-hy-test.tcp-reset-club.net#@OutlineReleasedKey
 hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?sni=tcp-reset-club.net&insecure=1#@OutlineReleasedKey
+hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@212.34.137.105:443?insecure=1&sni=shorts.blog-forme.ru#@OutlineReleasedKey
 hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@212.34.137.105:443?sni=shorts.blog-forme.ru#@OutlineReleasedKey
 hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24433?fp=chrome&sni=lakes.blog-forme.ru#@V2ray_Collector
 hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24433?sni=lakes.blog-forme.ru#@OutlineReleasedKey
@@ -118,6 +119,7 @@ hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@31.76.62.148:4444/?sni=lv2.nexf
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@31.76.62.148:4444?sni=lv2.nexfile.net#@V2ray_Collector
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@48.102.214.167:4444?security=tls&alpn=h3&insecure=0&sni=fl5.edgeport.cloud#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%AE
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4444?insecure=0&sni=bl1.nexfile.net&obfs=&obfs-password=#@V2ray_Collector
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4444?insecure=1&sni=bl1.nexfile.net&obfs=&obfs-password=#@V2ray_Collector
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4444?sni=bl1.nexfile.net#@OutlineReleasedKey
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl3.nexfile.net:4444/?sni=pl3.nexfile.net#@V2ray_Collector
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl3.nexfile.net:4444?sni=pl3.nexfile.net#@V2ray_Collector
