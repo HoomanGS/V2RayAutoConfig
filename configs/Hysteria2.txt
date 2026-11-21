@@ -45,7 +45,6 @@ hysteria2://329e13e4-ee7c-4802-ac72-5fcab79c2402@forshynewh.duckdns.org:443?sni=
 hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?sni=152-67-200-82.liao.kdns.fr#@OutlineReleasedKey
 hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?sni=152-67-200-82.liao.kdns.fr&insecure=0#@OutlineReleasedKey
 hysteria2://43212c32-01f2-4356-b216-67dc1c178262@ees92.shhflow.xyz:5443?security=tls&sni=ees92.shhflow.xyz#@OutlineReleasedKey
-hysteria2://43212c32-01f2-4356-b216-67dc1c178262@ees92.shhflow.xyz:5443?sni=ees92.shhflow.xyz&insecure=0#@OutlineReleasedKey
 hysteria2://48ef13ac-d89e-4da0-8db4-c6aa72db4918@fr.song69.fun:28152?sni=fr.song69.fun&security=tls#@V2ray_Collector
 hysteria2://4b1be712-774c-4b65-8491-a3339e124a70@194.76.147.34:443?sni=hys-eu.letsconnectpoint.com#@V2ray_Collector
 hysteria2://4c858cccff331e64c711a199a6cb256a@clash2.deep-links.com:443/?sni=clash2.deep-links.com#@V2ray_Collector
@@ -85,7 +84,6 @@ hysteria2://96ab5cd282733fd4c312a61f972f330a@45.32.10.7:443?sni=vp3.yysyy.online
 hysteria2://96ab5cd282733fd4c312a61f972f330a@45.32.10.7:443?sni=vp3.yysyy.online&insecure=1#@OutlineReleasedKey
 hysteria2://96ab5cd282733fd4c312a61f972f330a@vp3.yysyy.online:443?security=tls&sni=vp3.yysyy.online#@OutlineReleasedKey
 hysteria2://96ab5cd282733fd4c312a61f972f330a@vp3.yysyy.online:443?sni=vp3.yysyy.online#@V2ray_Collector
-hysteria2://96ab5cd282733fd4c312a61f972f330a@vp3.yysyy.online:443?sni=vp3.yysyy.online&insecure=1#@V2ray_Collector
 hysteria2://990c8eb6-4c4e-4277-8602-79af8402cdd0@104.165.205.42:8443/?sni=speedtestmark.com#@V2ray_Collector
 hysteria2://9yOIR2_QAChKs26rYaiX_aoNnOALd0aU@95.140.147.245:443?sni=nl1server.rabstvo.shop#@OutlineReleasedKey
 hysteria2://STYyftThFn@85.121.123.197:12765?sni=freedom.chenlan.top#@OutlineReleasedKey
@@ -112,6 +110,7 @@ hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.82.33:4444/?sni=fl3.nex
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.82.33:4444?sni=fl3.nexfile.net#@V2ray_Collector
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.254.191.251:4444/?sni=bl1.nexfile.net#@V2ray_Collector
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.254.191.251:4444?sni=bl1.nexfile.net#@V2ray_Collector
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.254.191.251:4444?sni=bl1.nexfile.net&insecure=0#@OutlineReleasedKey
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.27.210.6:4444/?insecure=1&sni=lv2.nexfile.net#@V2ray_Collector
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.27.210.6:4444?insecure=1&sni=lv2.nexfile.net#@OutlineReleasedKey
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.27.210.6:4444?sni=lv2.nexfile.net&alpn=h3#@OutlineReleasedKey
@@ -130,8 +129,6 @@ hysteria2://b36a14f8-fc3f-4142-968f-48031cf5f330@hy2-eee-1.aloranode.top:443?sni
 hysteria2://b3a11068-1a7e-4643-85de-7c82cce46943@uk-d9ca48498a.shamanapp.online:443?insecure=1#@V2ray_Collector
 hysteria2://b3a11068-1a7e-4643-85de-7c82cce46943@uk-d9ca48498a.shamanapp.online:443?sni=uk.shamanapp.online#@OutlineReleasedKey
 hysteria2://b3a11068-1a7e-4643-85de-7c82cce46943@uk-d9ca48498a.shamanapp.online:443?sni=uk.shamanapp.online&insecure=0#@V2ray_Collector
-hysteria2://b4c8ee9caa74b7ba0a61@78.17.128.153:35076?sni=scrap.halyvanedorogo.ru#@V2ray_Collector
-hysteria2://b4c8ee9caa74b7ba0a61@scrap.halyvanedorogo.ru:35076?insecure=1&sni=scrap.halyvanedorogo.ru#@OutlineReleasedKey
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333#@V2ray_Collector
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?sni=hy2.123266.xyz&insecure=0&allowInsecure=0#@OutlineReleasedKey
 hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@pl2.shvpn.ru:4443?sni=pl2.shvpn.ru#@V2ray_Collector
@@ -166,7 +163,6 @@ hysteria2://d62s7ghfehm742us@derfderf.ru:12824?sni=derfderf.ru&path=%2f#@V2ray_C
 hysteria2://dd50a499-7e43-4589-8490-f3b9c2451473@109.235.49.234:443?sni=tcp-reset-club.net#@OutlineReleasedKey
 hysteria2://dd50a499-7e43-4589-8490-f3b9c2451473@nl-hy-test.tcp-reset-club.net:443?sni=tcp-reset-club.net&insecure=1#@OutlineReleasedKey
 hysteria2://dd56bf58-4c37-42e1-9e75-4b6c67939ffd@pl.song69.fun:20270?sni=pl1.song69.fun#@V2ray_Collector
-hysteria2://dongtaiwang.com@hy2.561891.xyz:44356?security=tls&insecure=0&sni=hy2.561891.xyz#@V2ray_Collector
 hysteria2://ee78c844-83b6-4508-b1f9-b3f00c8e0556@167.148.201.99:443?sni=us.mi11o4ka.com#@V2ray_Collector
 hysteria2://f4b80b26-b6d4-49a6-a460-f50efb7a457c@45.91.237.78:443?security=tls&sni=node.aweom.su#@V2ray_Collector
 hysteria2://f7d95364-607b-11ee-93af-f23c91369f2d@e49952e3-tmm5c0-tv7zgh-1ijh5.hk3.hyhuawei.com:443?sni=e49952e3-tmm5c0-tv7zgh-1ijh5.hk3.hyhuawei.com#@V2ray_Collector
