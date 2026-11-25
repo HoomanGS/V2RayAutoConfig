@@ -123,6 +123,8 @@ hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@31.76.62.148:4444/?sni=lv2.nexf
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@31.76.62.148:4444?sni=lv2.nexfile.net#@V2ray_Collector
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@48.102.214.167:4444?security=tls&alpn=h3&insecure=0&sni=fl5.edgeport.cloud#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%AE
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@48.102.214.171:4444?sni=fl4.edgeport.cloud#@V2ray_Collector
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@48.102.214.171:4444?sni=fl4.edgeport.cloud&insecure=0&allowInsecure=0#@V2ray_Collector
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4444#@V2ray_Collector
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4444?insecure=0&obfs=&obfs-password=&security=tls&sni=bl1.nexfile.net#@OutlineReleasedKey
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4444?insecure=0&sni=bl1.nexfile.net&obfs=&obfs-password=#@V2ray_Collector
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4444?insecure=1&security=tls&sni=bl1.nexfile.net#@V2ray_Collector
